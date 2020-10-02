@@ -9,7 +9,7 @@ window.onload=function(){
 		var sub =document.getElementById('sub-navigation');
 
 		main.innerHTML = '<ul>'
-			+'<li><a href="../index.htm"/*tpa=http://localhost/*/>首页</a> </li>'
+			+'<li><a href="/">首页</a> </li>'
 			+'<li><a href="category">著述</a> </li>'
 			+'<li><a href="">随笔</a> </li>'
 			+'<li><a href="">演讲</a> </li>'
