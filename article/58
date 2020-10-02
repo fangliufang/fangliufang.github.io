@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 龙年回望：中欧法学院工作总结（上）</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">龙年回望：中欧法学院工作总结（上）</div>
+                    <div class="content"><p>2012年12月29日，我将本文发给了中政大党委常委、教育部袁部长和当时在给中欧法学院上课的全部教授。中欧法学院历程蕴含着丰富的信息，听任它们随着时间流逝而湮没，或者把它们存放起来，用作日后撰写回忆录，都是损失或者大材小用。这是学生、教师、学校管理层和政府有关部门都有理由关注的信息，而因特网给我提供了接近众多读者的机会，我不应错失机会，更不应该推卸责任，谨在此与同仁、网友分享信息，交流心得，以期批评指教。</p>
+
+<p><strong>龙年回望：中欧法学院2012年工作总结</strong></p>
+
+<p>2011年11月28日，欧盟驻中国大使采取了一个不按外交常理出牌的举措&mdash;&mdash;给黄进校长写信，对中欧法学院项目和我个人表示强烈不满，发出了要求更换中方院长的信息。显然，欧盟大使是在某些&ldquo;中国通&rdquo;或者某些中国亲信的建议下采取了这一非同寻常的行动。</p>
+
+<p>2011年12月30日，学校召开党委常委会会议，专案讨论中欧法学院工作。在会议上，几乎所有常委都充分肯定了学院的业绩，对我表彰有加，令人感动。</p>
+
+<p>&mdash;&mdash;朱勇副校长说：&ldquo;在中外合作办学过程中，确实存在着政治、外交和文化渗透。我们以教育为主，外方讲政治、讲利益。教育部将中欧法学院作为一个体现中方主导权的典范，高度认可，刘延东同志在大学校长会议上表扬了中欧法学院&rdquo;；&ldquo;教育部已经明确表示：一期项目结束之后，不会允许二期招标，不会同意汉堡大学在中国寻找第二个合作伙伴，中欧法学院只能在中国政法大学&rdquo;；&ldquo;继续办好中欧法学院，必须牢牢把握主导权，以教育为中心，日常管理要适用中国法律，不能让步&rdquo;。在2012年10月的合伙人会议上，朱勇副校长代表中国政法大学，坚定地、毫不含糊地表示：&ldquo;不管外方是否继续合作，不管有无欧盟资助，我们都会坚定地把中欧法学院办下去，因为我们需要对学生负责。&rdquo;&ldquo;在对外交往中，代表中欧法学院的就是老方和黄校长。&rdquo;</p>
+
+<p>&mdash;&mdash;张保生副校长说：&ldquo;中欧法学院不可能出现比在方流芳领导下更好的情形。学校对外方一定要强硬，越强硬越不会失败，妥协一定会完蛋。&rdquo;这种坦率和真诚让我感动。</p>
+
+<p>&mdash;&mdash;张桂琳副校长说：&ldquo;方流芳从学校立场考虑问题，维护学校的尊严和权益，我们应当支持。&rdquo;</p>
+
+<p>&mdash;&mdash;马怀德副校长说：&ldquo;按合同办事，合同里没有的，就是不能让步。&rdquo;</p>
+
+<p>&mdash;&mdash;胡明副书记说：&ldquo;既然都有合同，就按合同办事。&rdquo;</p>
+
+<p>&mdash;&mdash;高浣月副书记说：&ldquo;方老师的辛勤工作是有目共睹的。&rdquo;</p>
+
+<p>&middot;&middot;&middot;&middot;&middot;&middot;&middot;</p>
+
+<p>一年过去了，为了感谢各位支持，我深感有义务向每位党委常委报告中欧法学院2012年的工作。</p>
+
+<ol>
+	<li><strong>招生和教学</strong></li>
+</ol>
+
+<p>教育部给本院的招生许可是招收08、09、10三届双硕士<a href="#_ftn1" name="_ftnref1" title="">[1]</a>，超许可招生不仅要受到教育部处罚，而且学位也无法得到认证。每次招收双硕士都要经过汉堡大学批准，因为欧洲法硕士由汉堡大学授予学位，中国法硕士由中国政法大学授予学位。早在2010年夏季，我就和汉堡大学代表探讨招收2011级双硕士的可行性。汉堡大学代表认为：只要毕业时间不超过2013年夏季，就无异议。2010年7月，汉堡大学甚至以中欧法学院的名义在教育部网站刊登了招收单项中国法学硕士的广告。<a href="#_ftn2" name="_ftnref2" title="">[2]</a></p>
+
+<p>2011年早春，汉堡大学代表对招收2012级双硕士持保留意见，他认为：除非即将在2012年12月底到期的&ldquo;资助合同&rdquo;延期，否则，汉堡大学不同意招收2012级双硕士，因为这意味着未经欧盟同意而延长合作期间。我当时的选项是：要么停止招生，宣布中欧法学院在2012年底解散；要么招收单项中国法学硕士。我选择了后者，因为我有义务保持一个可持续发展的硕士项目，以确保学院在国际合作结束之后继续存在下去。为此，我立即采取行动，将单项中国法学硕士纳入了联席院长共同草拟的2011年工作计划，提交到2011年4月8-9日召开的合伙人会议，没有遭到任何反对。不仅如此，汉堡大学以中欧法学院名义发布的宣传材料都同时提到双硕士和单项中国法学硕士。<a href="#_ftn3" name="_ftnref3" title="">[3]</a></p>
+
+<p>2011年1月到9月，我至少五次向学校领导、管理委员会中方主席、中方管理委员会委员书面和当面汇报，强调了招收单项中国法学硕士的必要性，没有任何人表示反对意见。2011年8月24日，在管理委员会中方委员的全体会议上，包括黄校长在内的全体与会者都同意在当年招收2012级单项中国法学硕士，黄校长建议学制可定为两年。</p>
+
+<p>2012年年初，欧盟大使与黄校长会面的时候，对学院招收单项中国法学硕士提出质疑。2012年2月17日，在管理委员会会议上，外方一致行动，就招收单项中国法学硕士向我全面发难，我以相关合同条款为依据耐心解释。最后，欧盟代表宣布暂停讨论此事，声称：&ldquo;我们将给欧盟总部的律师写信，以律师法律意见书为准，一周内送到与会代表。&rdquo;一周后，等来的不是什么律师函，而是转发欧盟驻中国使团官员给汉堡大学尤翰林的信函<a href="#_ftn4" name="_ftnref4" title="">[4]</a>，信件称：欧盟不同意招收单项中国法学硕士。收到此信之后，我在2月24日给黄校长写信，我表示：无法认同欧盟官员的意见，因为这是超越权限地干预一个中国大学内的法学院的办学自主权，无法接受欧盟官员对政府协议的单方解释，除非中国政府书面认可这一解释，希望学校出面与之交涉。结果，校方正式约我谈话，传达&ldquo;集体决定&rdquo;，按照欧盟官员的上述意见修改工作计划。</p>
+
+<p>在中欧法学院原则问题上，黄校长的立场与我完全相反，他认为：&ldquo;不和欧盟合作，中欧法学院就要撤销，中国政法大学已经有这么多法学院了，为什么还要增加一个？&rdquo;在管理委员会会议上，黄校长赞同&ldquo;单项中国法学硕士不纳入中欧法学院工作计划&rdquo;，并且亲自执笔将这一意见写进了管理委员会会议纪要。<a href="#_ftn5" name="_ftnref5" title="">[5]</a>在管理委员会召开之后，学校正式要求我配合欧方，从联席院长的&ldquo;2012年工作计划&rdquo;中删除有关单项中国法学硕士的内容，外方事先得知校方将向我施压，攻势更为凶猛。</p>
+
+<p>如果我顺从这些意见，我必须把2012级秋季入学的单项中国法硕士生安排到其他学院，我必须在2012年秋季停止招收新生，这无异于向全世界宣布中欧法学院解散。不管这是谁的意见，不管这是以什么名义传达的意见，我都难以顺从，因为我不能亲手终结自己参与创建的、蒸蒸日上的学院，我不能无端毁损用中国和欧盟纳税人的钱所铸就的无形资产，我不能对学生背信弃义&mdash;&mdash;一个学院在招生之后又宣布学院将在学生毕业之前终结，这是极不诚信的&mdash;&mdash;因为学生报考学院的时候有理由期待学院永久存在，除非学院在招生章程中事先提醒学生学院将在他们毕业之前结束。作为一个法律人，我也不相信管理委员会有权做出效力溯及既往的决议，在2012年推翻联席院长一年前共同作出的、已经执行的决议。但是，只要可以不改变基本立场、价值，我不愿与任何人发生无谓的冲突。在修改工作计划的时候，我简单地把&ldquo;2012级双硕士&rdquo;纳入了工作计划<a href="#_ftn6" name="_ftnref6" title="">[6]</a>，因为2012级单项中国法硕士招生已结束，只要外方把2012级单项中国法硕士看成是可能在2013年秋季开始欧盟法学习的&ldquo;2012级双硕士&rdquo;，也就等于认可了已招收的&ldquo;单项中国法学硕士&rdquo;，项目的合法性也就无懈可击，问题就这样解决了。我没有妥协，却避免了冲突。朱勇副校长支持了我的立场。</p>
+
+<p>2012年，我的主要工作是强化单项中国法学硕士项目，我要感谢欧方拒绝招收2012级双硕士，这给单项中国法学硕士在2012年提供了更大的发展空间。我从来不隐瞒自己的一贯立场：开展双硕士项目的最终目的是提升中国政法大学法律硕士/法学硕士的声誉，而不是为汉堡大学的法学硕士学位开拓中国市场。在中国发展外国学位项目是有一个新意的举措，但是，其真实价值和可持续性都有待时间检验。</p>
+
+<p>2012-13学年，学院为单项中国法学硕士开设了38门课程<a href="#_ftn7" name="_ftnref7" title="">[7]</a>，其中18门为英文讲授的法学课程，学院为此专门聘请了四名外教，我自己也为学生讲授法律职业伦理课。与此同时，学院继续在国内和海外招收2013级单项中国法学硕士。</p>
+
+<p>在此，我应当感谢中国政法大学研究生院，如果没有研究生院的支持，在管理委员会会议之后，中欧法学院在2012年秋季招收单项中国法学硕士将面临更多的困难。不仅如此，研究生院还批准中欧法学院开展博士生招生的免试推荐改革。在中欧法学院最困难的时候，研究生院伸出援手是够义气的。</p>
+
+<p><strong>2.</strong> <strong>教师和行政人员聘用</strong></p>
+
+<p>在2012年管理委员会会议上，欧盟官员提出：&ldquo;中欧法学院签署的任何聘用合同不能超过2012年12月31日&rdquo;，我对外方这种背离常理的行为既不吃惊也不失望，因为我没有理由去信赖一个外国政治组织，也从来没有期待它会对一个中国法学院的可持续发展真正负责。然而，令人郁闷的是：外方无理到极点的意见居然作为一致意见写进了管理委员会会议纪要<a href="#_ftn8" name="_ftnref8" title="">[8]</a>，为此，我不得不就管理委员会会议纪要发出书面不同意见<a href="#_ftn9" name="_ftnref9" title="">[9]</a>。假如我执行了这一决议，在2012年12月31日，各位收到我这封信的时候，一个有300多名在校生的法学院就已经没有一个老师在上课、没有一个行政人员在工作，下学期三个年级学生就没有课程安排，没有老师给他们上课、指导论文，学院就成为一个空壳，学生肯定会抗议示威&hellip;&hellip;。我不会让这种情况在我的任期内发生。因此，按照《劳动合同法》，我给所有第三次签订合同的&ldquo;非在编行政人员&rdquo;签订了无固定期限的合同；我按照工作需要，给所有中国政法大学编制内的行政人员续签了两年合同；我根据教学工作需要，聘用了2012-13学年全年、2013-14学年第一学期所需要的全部中国和国际教师，<a href="#_ftn10" name="_ftnref10" title="">[10]</a>并为此留足资金。</p>
+
+<p><strong>3.</strong> <strong>财务</strong></p>
+
+<p>3.1 审计</p>
+
+<p>按照汉堡大学2012年提交管理委员会的财务报告<a href="#_ftn11" name="_ftnref11" title="">[11]</a>，中国政法大学在2008-2011年期间几乎没有对项目进行任何投资&mdash;&mdash;不仅没有履行当初承诺的100万欧元投资，而且占用了学费收入。相反，大部分欧方合伙人在2011年都已超额完成出资义务。<strong>这份财务报告意味着宣布中国政法大学严重违约，所有欧洲合伙人都可据此向中国政法大学主张违约损害赔偿，校方对此无动于衷，没有任何表示。每当中国政法大学应当说话而保持沉默的时候，</strong>我不能不越俎代庖，批驳了汉堡大学的财务报告，要求他们召回所有未经审核的财务报告。在法律上，我是在行使某种代位权&mdash;&mdash;应当代表机构、团体行使权力的人不行使权力，机构、团体可能因此而蒙受损失的时候，利益相关者得为维护机构、团体的利益而提出主张。</p>
+
+<p>汉堡大学把人力出资看成合伙人的软肋，只要中国政法大学不听从，汉堡大学就会否认中国政法大学的人力出资。在学院成立之初，汉堡大学就要求中国政法大学申报人力出资须附带银行对账单，而对欧方合伙人却没有这一要求。汉堡大学将人力出资申报纳入年度财务报告，因此，只有经汉堡大学同意，才会报到普华永道会计师事务所审计。经过多年谈判，汉堡大学在此问题上毫无达成谅解的诚意，这就逼迫我在中国另行审计。2011年5月，我说服高美莲院长，按照《中外合作办学条例》第41条<a href="#_ftn12" name="_ftnref12" title="">[12]</a>，在中国聘请会计师事务所，对中欧法学院财务进行出资和拨款的专项审计。联席院长的这一提议得到管理委员会批准，汉堡大学也同意接受审计。2012年4月6日，京都天华会计师事务所出具了&ldquo;中欧法学院2008-2010年财务审计报告&rdquo;<a href="#_ftn13" name="_ftnref13" title="">[13]</a>；2012年9月25日，会计师事务所又出具了&ldquo;中欧法学院2011年财务审计报告&rdquo;<a href="#_ftn14" name="_ftnref14" title="">[14]</a>。两份审计报告确认了以下事实：</p>
+
+<p>（1）到2010年12月31日为止，中国政法大学已完成了100万欧元人力出资。</p>
+
+<p>（2）中国政法大学返还中欧法学院的2008-10年学费属中国政法大学对该项目的财务贡献。</p>
+
+<p>（3）到2011年12月31日为止，汉堡大学仅将32%的欧盟实际拨款用到了中欧法学院，没有履行它在&ldquo;中外合作办学协议&rdquo;第7.2条承诺的将&ldquo;全部&rdquo;欧盟拨款用于中欧法学院。</p>
+
+<p>（4）到2011年12月31日为止，汉堡大学对中欧法学院的出资为零，完全没有履行它在中外合作办学协议承诺的、对中国政法大学中欧法学院投资458万欧元的义务。</p>
+
+<p>2012年12月，学院公布了2012年财务信息。到2012年12月10日，中国政法大学对汉堡大学的应收帐款已达500多万元。<a href="#_ftn15" name="_ftnref15" title="">[15]</a></p>
+
+<p><strong>3.2&nbsp; 2012</strong><strong>年预算</strong></p>
+
+<p>2012年，汉堡大学的尤翰林、布哈一心想把预算制定作为他们收复失地的反击战。他们主张：第一，制定预算是欧方院长的权限；第二，只制定一个预算，这就是汉堡大学欧盟项目的收入和开支预算；第三，中欧法学院2008-2012年的学费收入必须纳入收入预算，作为汉堡大学对欧盟的赔偿准备金。<a href="#_ftn16" name="_ftnref16" title="">[16]</a></p>
+
+<p>在全面违约的情况下，汉堡大学仍然这样嚣张，我无路可退，只要退让一小步，中国政法大学就会损失4,000万元左右&mdash;&mdash;这是汉堡大学提出的用学费作为赔偿准备金的数额。更何况，这事关国家主权，全世界没有一个国立大学会同意把她的收入纳入另一个国家的政府预算。把中国政法大学的学费收入纳入德国汉堡大学的项目预算，受欧盟法律规制，这是一个主权国家的奇耻大辱。但是，黄校长认为：&ldquo;算了，就制定一个预算，没有什么了不起。把学费放进去，也没有多大关系。&rdquo;</p>
+
+<p>2月16日，管理委员会会议召开的前夜，尽管因连日连夜准备会议，我已精疲力竭，我还是应邀参加了黄校长召集的中方委员的会前沟通。我把汉堡大学发送的预算文本翻译成中文，递交给每位委员。在此次会议，我只强调了一个观点：&ldquo;预算必须以&lsquo;中外合作办学条例&rsquo;和中国财务制度为依据，预算的名称必须是&lsquo;中国政法大学中欧法学院预算&rsquo;。&rdquo;在会议期间，由于我力主制定&ldquo;中国政法大学中欧法学院预算&rdquo;，欧盟官员、欧方代表对我发动轮番围攻。遗憾的是，嗣后的会议纪要、指示都没有提到&ldquo;中国政法大学中欧法学院预算&rdquo;，这使我在管理委员会会议之后制定预算时和外方的交涉更加困难。</p>
+
+<p>在管理委员会会议之后重启预算制定的第一天，我指出了汉堡大学代表草拟的&ldquo;收入预算&rdquo;存在虚假信息和多处错误<a href="#_ftn17" name="_ftnref17" title="">[17]</a>，我说：&ldquo;即使这不是故意欺诈，也是严重失职。&rdquo;我要求汉堡大学代表立即召回提交讨论的&ldquo;收入预算&rdquo;，并赔礼道歉，在此之前不再讨论&ldquo;收入预算&rdquo;。从这一天开始，汉堡大学代表终于同意循序制定&ldquo;2012年中国政法大学中欧法学院预算&rdquo;（学院预算）和&ldquo;2012年项目预算&rdquo;（项目预算），后者以前者为基础，并同意在制定学院预算过程中划分欧盟资金和发展基金分别覆盖的开支项。预算制定相当顺利，三天完成。可是，在双方达成一致之后，汉堡大学代表到欧盟驻中国使团进行请示，欧盟官员认为：如果承认&ldquo;中国政法大学中欧法学院预算&rdquo;，汉堡大学不仅没有收复失地，反而承认了欧盟、汉堡大学有义务按照预算向中国政法大学拨款，这是不可接受的。于是，汉堡大学代表全面反悔，在向管理委员签发预算草案的时候，欧方院长声称他只对&ldquo;项目预算&rdquo;负责。</p>
+
+<p>在管理委员会会议前后和会议期间，我一再提醒委员：&ldquo;项目预算&rdquo;是汉堡大学申领欧盟年度拨款的必备文件<a href="#_ftn18" name="_ftnref18" title="">[18]</a>，只是因为&ldquo;中外合作办学协议&rdquo;第9.2条<a href="#_ftn19" name="_ftnref19" title="">[19]</a>禁止汉堡大学未经管理委员会批准而向欧盟提交&ldquo;项目预算&rdquo;，汉堡大学才不得不承认管理委员会对该预算的管辖权。但是，<strong>只要联席院长就&ldquo;项目预算&rdquo;达成一致，即使管理委员会没有批准，汉堡大学也可以据此向欧盟申请拨款。</strong>因此，我签署了&ldquo;学院预算&rdquo;、&ldquo;项目预算&rdquo;草案，欧方院长仅仅签署&ldquo;项目预算&rdquo;，这完全可能被解释为&ldquo;联席院长已经就项目预算达成一致&rdquo;，汉堡大学可以据此申请拨款。我先写信要求&ldquo;欧方院长&rdquo;澄清此事。尔后，又要他当面回答，他把右手放在胸前，对我说：&ldquo;我以自己的名字发誓：汉堡大学没有这样做，因为汉堡大学还有足够的钱，汉堡大学不需要再向欧盟申领2012年拨款。&rdquo;&ldquo;欧方院长&rdquo;的发誓并不会增加汉堡大学的可信度。我感到困惑的是：像汉堡大学是否利用联席院长签署&ldquo;项目预算&rdquo;（草案）申领了欧盟拨款这样的大事，校方无人发问，欧方合伙人也不发问，汉堡大学也一字不提，可见欧盟所谓&ldquo;对外援助资助&rdquo;缺乏有效监管的情形是多么严重&mdash;&mdash;没有人负责，没有一种有效的制约和问责机制。</p>
+
+<p><strong>3.3.</strong> <strong>发展基金的使用</strong></p>
+
+<p>在2012年初，汉堡大学代表宣布：停止向中国政法大学拨款，在中国政法大学用尽所有学费收入之前，汉堡大学不再给中国政法大学拨款。我在第一时间向校领导书面和口头报告了此事，没有得到任何回复。</p>
+
+<p>2012年1月之后，在汉堡大学停止拨款的情况下，来源于学费收入的发展基金能否用于法律职业培训、研究经费报销、国际旅费等等，就成为必须回应的问题。经过法规研究、学校财务规程研究，我主张：发展基金使用范围应与学校规定可报销范围一致，与财务规章限定的、可列入&ldquo;高校办学成本&rdquo;<a href="#_ftn20" name="_ftnref20" title="">[20]</a>的开支相一致；凡是汉堡大学代表同意列入&ldquo;学院预算（草案）&rdquo;并同意用欧盟资助覆盖的开支，由于汉堡大学中止拨款，中国政法大学不得不垫付的，可暂时垫付，一律记为中国政法大学对汉堡大学的应收帐款。</p>
+
+<p>面对巨大压力，在执行中方财务规章问题上，我寸步不退。凡&ldquo;高校办学成本&rdquo;之外的开支，如：法律职业培训开支、与项目有关的国际访问开支、2012年之前设定而没有完全执行的研究项目的开支、欧方院长开支、欧方院长秘书工资，全部用2011年剩余的欧盟拨款覆盖。我可以自豪地宣布：2012年，来自教育经费发展基金，百分之百用于中欧法学院在中国政法大学昌平校区的教学活动。</p>
+
+<p><strong>4.</strong> <strong>学院商标</strong></p>
+
+<p>2011年1月18日，学院以学校的名义向国家商标局申请了6项商标，覆盖学院中英文名称全称、简称、类似名称和图标。经过一年公示，商标局批准了两项申请，驳回四项申请，学院以学校名义就四项申请提出了复议。上述申请都在事先告知欧方，并在学院网站公布<a href="#_ftn21" name="_ftnref21" title="">[21]</a>。</p>
+
+<p>2012年5月23-25日，黄校长与汉堡大学校长会面时，对方要求分享中国政法大学已经注册的商标，否则，汉堡大学将在海外注册相同或类似商标。这一重要信息并没有引起黄校长警觉。2012年7月18-20日，汉堡大学已经盗用中欧法学院中英文名称全称、简称、相似名称、图标在&ldquo;欧共体商标和设计注册署&rdquo;（OHIM）申请了5项商标。可是，在9月6日汉堡大学校长和黄校长往返的备忘录草案居然还在继续讨论&ldquo;在海外注册商标，需双方取得一致&rdquo;（此文件由外办转发，但缺乏前后相连的往来信件，因此，我无从判断是哪一方写上了这句话，又是哪一方把这句话删除了）。7月2日，黄校长还在声称：汉堡大学在商标问题上作出了重大让步，愿意搁置争议。我觉得，黄校长是在没有读懂外方书信和文件的情况下，按照自己的善良愿望去发挥他自己想象的外方的好心，所以我不得不多次提醒他：&ldquo;你需要站在中方立场思考问题，而不是相反。&rdquo;</p>
+
+<p>如何弥补由于校内邮件传递迟延，导致学校错过商标复议一事，一直是我的心结。在离任之前，我多次与国家商标局联系，陈述理由。与此同时，我也搜索OHIM网站，了解对方有何动作。12月6日，我发现了汉堡大学盗用学院中英文名称全称、简称、相似名称和图标在&ldquo;OHIM&rdquo;申请商标一事。<strong>如果我能够及时跟进校长与外方交涉的信息，这一切本来是可以事先防范的，但是，校方与外方的交往对我严格保密的。</strong></p>
+
+<p>汉堡大学在海外注册商标，为欧盟进行项目二期招标扫清了法律障碍。按照欧盟法规，若项目招标涉及第三人名称、商标，应避免招标。因此，我从学院成立之后就考虑商标注册，以确保二期项目避免招标。但是，汉堡大学申请商标注册之后，不确定因素增加了：欧盟的项目招标限定在欧盟成员国，而中欧法学院中英文全称、简称和图标如今已成为欧盟成员国的某一机构的商标，以侵犯中欧法学院的中国商标为理由而对项目二期招标提出异议，已经不那么理由十足了。相反，学院在欧洲招生则侵犯汉堡大学已经注册的商标。更为严重的是：本来，作为合伙人，汉堡大学对中国政法大学负有高度诚信义务，一个合伙人偷偷地用另一个合伙人的名称去注册属于自己的商标，这是严重违反诚信义务的行为，中方主张商标申请无效是有坚实理由的。但是，汉堡大学现在可以抗辩说：在申请商标之前，汉堡大学校长已经告知黄校长，并且可以用备忘录草案证明这一点。总之，<strong>在以后两年，学院将面临异常艰难的商标争夺战！</strong></p>
+
+<p><strong>5.</strong><strong>项目延期</strong></p>
+
+<p>2011年8月5日，在欧盟驻北京使团召开了有汉堡大学、中国政法大学、教育部和商务部代表共同参加的项目工作会议。在此次工作会议上，欧盟代表正式提出：中欧法学院一期项目资金大部分没有动用，在此情况下启动项目二期，很难获得新的预算，建议一期项目延期一年。欧盟资金是给汉堡大学的，中欧法学院资金是汉堡大学按季度固定拨付，既不参照工作计划，也不考虑需要，因此造成了大量资金积压。<a href="#_ftn22" name="_ftnref22" title="">[22]</a></p>
+
+<p><strong>项目延期本来是帮汉堡大学和欧盟挽回面子。</strong>如果不延期，积存这么多资金，汉堡大学编制预算和执行项目都是失败的，欧盟认可汉堡大学的方案也是审核不慎而导致过度资助。</p>
+
+<p>从中方立场出发，在2011年年底前，我有保留地支持延期一年，因为学院招收2011级双硕士超过了招生许可，延长一年可确保2011级双硕士的学位认证。同时，我也试图说服黄校长，尽可能与教育部沟通，说服教育部追认2011级双硕士招生，并草拟了以学校名义呈递教育部的报告。只要教育部追认2011级双硕士招生，就不必考虑延期一年。这是我的一贯立场。</p>
+
+<p>由于教育部一直没有追认2011级双硕士招生，2011年10月，<strong>管理委员会第三次会议同意中外合作办学延期一年。</strong>在2011年11月，我与汉堡大学谈妥了延期一年的全部细节，汉堡大学校方签署了我草拟的延期一年所需的&ldquo;中外合作办学协议&rdquo;修订本，邮寄给中国政法大学校方签署。我提交黄校长签字，黄校长认为：汉堡大学方面的签字人不是校长，需发回更正。否则，在2011年12月初，当事人达成共识的延期协议已提交教育部。</p>
+
+<p>在欧盟大使写信之后，黄校长对延期问题高度重视。在党委常委会上，黄校长说：<strong>&ldquo;项目在我任期内丢了，首先，我和石书记负有重大责任，其次，方老师也负有责任。&rdquo;</strong>对这句话，我至今仍然是百思不得其解。汉堡大学与欧盟的合作本来就在2012年12月31日结束，按期结束是正常的，延期是因为汉堡大学截留资金，导致项目一期资金大量剩余，黄校长对此如何有&ldquo;重大责任&rdquo;之忧？让人看不明白。与此同时，汉堡大学的尤翰林到处散布：项目二期要重新招标，并不断用这一传言影响黄校长。于是，黄校长担心：如果重新招标，中国政法大学能否中标？延期两年至少可以推迟重新招标；两年之后，不管是否重新招标，不管中国政法大学能否在竞标中胜出，或许都可留给后任。</p>
+
+<p><strong>2012</strong><strong>年3月，根据学校&ldquo;四个层次管理&rdquo;的安排，我按照黄校长的意见，将延期谈判的工作移交给了学校外办。</strong></p>
+
+<p>2012年5月，校方诚邀汉堡大学校长参加校庆，汉堡大学校长未能成行。校庆结束之后，黄校长立即飞赴汉堡，与汉堡大学校长洽谈，目的是恳求延期，<strong>在管理委员会有关延期一年的决议生效的情况下，</strong>黄校长跟进外方的意见，把延期一年变为延期两年。</p>
+
+<p>（二）</p>
+
+<p><strong>6.</strong> <strong>校长备忘录</strong></p>
+
+<p>2012年7月2日，我给学校领导发出书面意见，明确表示：我反对签订所谓&ldquo;校长备忘录&rdquo;，因为它是多此一举，不是解决问题，而是制造更多的问题，并且增加解决问题的难度。黄校长感到尴尬，他声称&ldquo;取得重大成果&rdquo;的备忘录草案逻辑混乱、中文和英文文本漏洞百出，而他据以作出判断的、外方草拟的备忘录中译本存在着漏译和译者的错误理解。7月2日上午，黄校长召集朱勇副校长、我和外办工作人员开会，讨论备忘录。在会议上，只有黄校长一人支持他自己的意见，只要有起码的细心、认真，写进备忘录的那些片面理解、错误认识和有关外方观点失真的解读都是可以避免拿到会上来的。我当然不能对此保持沉默。最后，黄校长完全失态，他对我说：<strong>&ldquo;道不同不相为谋，既然意见不同，你就可以退出这个项目。你为什么不退出？当初，是徐校长签了这样的合同，我有什么办法？既然签了合同，就要认账。&rdquo;</strong>我说：&ldquo;道不同，谁退出，谁留下，都应当依照法律、合同。徐校长当时签订的合同最大限度地维护了中国政法大学的利益，你的问题恰恰是没有坚持执行徐校长签订的合同，放弃了中方利益。&rdquo;结果，会议中途结束。</p>
+
+<p>8月份，欧盟大使再次给黄进校长写信，抱怨黄校长工作效率不高，表示对他当初表态支持黄校长所说的&ldquo;四个层次&rdquo;管理感到后悔，因为黄校长并没有拿出&ldquo;四个层次&rdquo;管理的可行模式。此后，校方一度表示：要对汉堡大学实行&ldquo;战略转变&rdquo;，不能一味退让。外办负责人通知我：草拟一份有关汉堡大学违反合同的文件，这在校内会作为&ldquo;绝密&rdquo;文件，由学校外办报教育部，以便中国领导人在交涉中有话可说。可是，在10月份召开合伙人会议前后，又改变战略，说&ldquo;项目延期两年是首要任务。&rdquo;&ldquo;四个层次管理&rdquo;在客观上为欧盟直接干预中国法学教育打开了门户。一年来，学校个别领导人没有定见，没有是非对错，用过多的注意力观察政治风向，观察上层动向，看外国人脸色，该做的事不做，错失机会，给中国政法大学造成了巨大的经济、政治损失。（有关汉堡大学给中国政法大学造成的经济损失，我已在2012年5月23日致黄校长的信中列出了详细数据）。</p>
+
+<p>在10月召开的合伙人会议上，校长备忘录受到了欧方冷嘲热讽的羞辱。欧盟项目官员表示：她对这么多人费时讨论备忘录大惑不解，不管签不签备忘录、不管签多少个备忘录，她只认一个资助合同。所有的欧方合伙人都表示，校长备忘录不能代替合伙协议，双方校长不能代替合伙人作出延长或不延长的决定。欧方院长因并没有参加会议，事后他对我说：&ldquo;两个校长用半年时间去草拟他们一次谈话的备忘录，这是世界上最奇怪的现象。&rdquo;但是，他又补充说，备忘录谈到了包括更换中方院长在内的管理层全盘更换，这使他感到很兴奋，他希望我能够支持这个备忘录，不要阻拦权力交接。</p>
+
+<p>从任何一方面看，签署校长备忘录都是一个多余动作，而这个多余动作给外方提供了重启合同谈判的机会，给二期项目谈判增加了难度，而备忘录本身则是一个没有任何约束力的文件。</p>
+
+<p><strong>7.</strong> <strong>学院网站管理</strong></p>
+
+<p>网站是学院项目管理、推介和公共关系的重要平台。从学院建立以来，我每天都为网站写作、编辑，维持一个中英文双语的教育网站，工作量极大，我为之付出了许多心力。在教育部批文下达的第二天，学院网站就已开通，并刊登招生信息，此后，学院经历的一切事件，学院网站都有真实记载。学院网站已经成为研究中欧法学院历史的最权威的信息资料库。自2008年10月到2012年12月底，本院网站的总访问量为2,446,024人次，日均访问量1,574人次。</p>
+
+<p>学院网站在2012年成为外方争夺的目标。在管理委员会会议结束之前的一分钟，汉堡大学代表提出：中欧法学院网站发布任何信息都要得到欧方联席院长同意。这一议题本来没有纳入会议日程，而且当天下午的会议已持续了7小时，会议主持人表示：此事以后再议。我本来已举手要求发言，反对汉堡大学代表的建议（有会议录音为证），根据主持人的意见，我就没有坚持。可是，外方在事后要求把&ldquo;学院网站刊登任何信息需联席院长一致同意&rdquo;写进会议纪要。在我坚决反对之下，最后成文的管理委员会决议写成&ldquo;在学院网站发布任何通知都要得到两位联席院长同意。&rdquo;<a href="#_ftn23" name="_ftnref23" title="">[23]</a>可是，管理学院网站需要三个基本条件：（1）懂中文、英文；（2）能坐班；（3）与学校签署&ldquo;网络安全责任书&rdquo;。在管理委员会作出决议之后，我把&ldquo;网络安全责任书&rdquo;译成英文，让汉堡大学代表签署，他表示拒绝&mdash;&mdash;既然如此，他也就没有资格过问学院网站的任何事情。</p>
+
+<p><strong>8.</strong> <strong>罢免中方院长</strong></p>
+
+<p>2011年4月，原欧洲法院大法官高美莲在汉堡大学的压力之下辞去中欧法学院联席院长职务，汉堡大学退休教授布哈接任，任期一年。此后，欧方公开发动了抢夺中欧法学院主导权的战争，把我锁定为主要打击目标：</p>
+
+<p>&mdash;&mdash;2011年4月，欧盟官员在合伙人会议上公开表示：在中欧法学院治理结构中，中国法应当让位欧盟法。<a href="#_ftn24" name="_ftnref24" title="">[24]</a></p>
+
+<p>&mdash;&mdash;2011年10月15日，欧盟大使来中国政法大学参加中欧法学院第三届国际学术研讨会，公开教训中方：要按照欧盟的旨意执行项目，教育、培训、研究三个项目&ldquo;齐头并进&rdquo;，学费要纳入项目资金，实际上是公开对我发难。</p>
+
+<p>&mdash;&mdash;2011年11月15日，汉堡大学代表率领一个云集政界、商界精英的汉堡市长访问团来到中欧法学院。会议期间，德方一名国务秘书、司法部律师和汉堡大学代表要我离开会场，与他们谈判&ldquo;发展基金&rdquo;的使用，他们声称是以政府官员的身份，代表作为中欧法学院出资人、&ldquo;利益相关者&rdquo;的汉堡市政府直接与我对话。</p>
+
+<p>&mdash;&mdash;2011年10月，在合伙人会议、管理委员会会议上，外方就学费问题发难，与我激辩。外方本来想在欧盟官员面前表演一场夺回控制权的闹剧，借此形成一个压倒中方的决议或者纪要，但是在会议期间和会后草拟纪要的过程中，他们的计划一一落空。</p>
+
+<p>&hellip;&hellip;.</p>
+
+<p>2011年11月28日，欧盟大使给黄校长写信，黄校长对此积极回应，作出&ldquo;友好表示&rdquo;：（1）黄校长不止一次带着随员密访欧盟大使，恳切表达&ldquo;合作愿望&rdquo;；（2）黄校长在向欧盟官员倾诉&ldquo;合作愿望&rdquo;的一切场合，一定把我排除在外，以示与我拉开距离或者划清界限；（3）黄校长迫不及待地向欧盟大使表示，他将学院管理权分成了&ldquo;四个层次&rdquo;，即：在中外院长之间、管理委员会中外主席之间、两个学校之间和两个政府之间分配学院管理权，遏制中方院长的越权行为，此建议深为欧盟大使赞许；（4）黄校长进一步向大使表示，他将在校内设立&ldquo;中欧法学院工作领导小组&rdquo;，以限制我的权力；（5）黄校长同意把中欧法学院的全部学费纳入资助合同，交给汉堡大学支配。</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li class="cur"><a href="/category/10053">信息公开</a></li>
+                                                                                                <li><a href="/category/10054">会谈纪要</a></li>
+                                                                                                <li><a href="/category/10055">评论</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

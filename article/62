@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 学生挑战终身教职之诉：Vergara v. California</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li class="active"><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">学生挑战终身教职之诉：Vergara v. California</div>
+                    <div class="content"><p style="text-align:center">方流芳</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p>如果教师无须经受优胜劣汰的检验，如何提升教育品质？然而，如果对教师进行&ldquo;年检式&rdquo;的评鉴，最终结果会不会是一种逆向淘汰？如果没有终身教职，低收入、高强度劳动的教师职位还有吸引力吗？然而，如果推行终身教职，那是不是为那些不称职的教师锁定了一批又一批学生，从而侵犯了学生获得高品质教育的权利？上述问题在全球普遍存在，人的智慧所在不是去发现通用的、&ldquo;一刀切&rdquo;的解决方案，而是从当地环境中找到问题所在和可改善空间。但是，思考自身的问题，所见和心得总是和主体的眼界有关，眼界又总是和主体超越自身问题的观察范围有关，因此，在认识自身的过程中，外国经验总是多多益善。 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center">&nbsp; （一）</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p>2012年，在民间组织&ldquo;学生事务&rdquo;（Student Matter）资助下，加州九名中学生对生加州政府提起诉讼（<em>Vergara v. California</em>），学生主张：建立和维护加州公立学校教师终身制的三个法律（<strong>永久雇佣法、解雇法和裁员法</strong>）导致学校难以解聘不称职教师，侵犯了学生获得良好教育的权利，进而违反了加州宪法。2014年6月10日，洛杉矶加州高等法作出判决，认定&ldquo;永久雇佣法&rdquo;、&ldquo;解雇法&rdquo;和&ldquo;裁员法&rdquo;违宪，理由如下<a href="#reffn1"><sup>[1]</sup></a>：</p>
+
+<p>&nbsp;</p>
+
+<p>（1）&ldquo;永久雇佣法&rdquo;保护了不称职的教师。该法规定，学校如果不续聘新任教师，必须在他（她）任职后第二年的3月15日之前作出决定，否则，必须续聘。为了满足法定要求，学校需提前作出是否续聘的决定。然而，教师资格认许是在5月份结束，&ldquo;永久雇佣法&rdquo;的实施可能导致一些教师在取得职业资格之前就获得终身教职。法院认为，法定最后期限剥夺了学生和教师双方的权利：学生不能获得称职的教师；教师没有足够时间证明他（她）是称职的。美国只有5个州把新任教师的&ldquo;试用期&rdquo;定为两年，而加州是其中之一，绝大部分州都规定了超过两年的&ldquo;试用期&rdquo;。</p>
+
+<p>&nbsp;</p>
+
+<p>（2）法院认为，&ldquo;解雇法&rdquo;保护了不称职的教师。实施&ldquo;解雇法&rdquo;的结果是，在加州，解雇一名不称职的教师，要耗费50,000到450,000美元诉讼费，花费2-10年时间。证据表明：在加州有2，750到8,250名教师是不合格的，大约占教师总数的1-3%。畏惧高昂的诉讼费和诉讼时间，大部分学校放弃了解聘那些不称职的教师。法院提出的质疑是：在解雇公立学校员工的时候，一般法律已经提供了正当程序保护，为什么还要制定&ldquo;解雇法&rdquo;，对持证教师进行特别保护？为什么在平等保护之外，要给教师提供额外保护？在缺乏必要性和正当理由的情况下，额外保护成为窒碍正当程序的一种负担。</p>
+
+<p>&nbsp;</p>
+
+<p>（3）根据加州&ldquo;裁员法&rdquo;，年资成为考量裁员的压倒性因素&mdash;&mdash;最晚任职，最先走人&mdash;&mdash;不管资历较浅的老师多么出色，都不会有例外。这就可能把那些深受学生欢迎的老师赶走，而把那些不称职的老师强加给学生，造成&ldquo;双输&rdquo;的结果。</p>
+
+<p>&nbsp;</p>
+
+<p>最后，法院裁决：原告争辩的三个法律全部违反了加州宪法。</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center">&nbsp;（二）</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:left">政治立场对立的双方有关<em>Vergara</em>案的反应截然不同：一方欢呼学生取得了&ldquo;历史性胜利&rdquo;<sup><a href="#reffn2">[2]</a></sup>，另一方把这看成是&ldquo;最危险的诉讼&rdquo;&mdash;&mdash;亿万富翁为了中小学教育私有化，对教师工会发动了诉讼打击<sup><a href="#reffn3" style="color: rgb(62,115,160); text-decoration: none">[3]</a></sup>。然而，Vergara真是对终身教职造成了根本性的冲击吗？读完洛杉矶加州高等法院的&ldquo;初步意见&rdquo;（tentative opinion），我觉得，断言该案能带来任何重大变化都言之过早。</p>
+
+<p style="text-align:left">&nbsp;</p>
+
+<p style="text-align:left">首先，Vergara并没有从根本上动摇&ldquo;永久雇佣法&rdquo;，只是触动了该法最为薄弱的&ldquo;软肋&rdquo;&mdash;&mdash;在提供永久教职之前，教师的&ldquo;试用期&rdquo;过短，无法满足教师资格认证所需要的时间。</p>
+
+<p style="text-align:left">&nbsp;</p>
+
+<p style="text-align:left">第二，Vergara也没有全面否定&ldquo;裁员法&rdquo;。学校裁员，高年资教师获得法定保护的原因是，他们的&ldquo;再就业&rdquo;能力随着年资而下降&mdash;&mdash;为适应特定的岗位需求，雇员会发展自己的某些技能，而遏制自己的另一些技能，会调整自己的知识结构，努力把自己改造成一个与机器整体功能相吻合的&ldquo;部件&rdquo;。但是，&ldquo;部件&rdquo;并不总是通用的，雇员找到另一雇主的几率总是随着年资而下降。另一方面，从雇佣成本考虑，雇主当然愿意用较低的成本雇佣年资较低的雇员，而不愿意用较高的成本去雇佣年资较高的雇员，因此，限制雇主裁减高年资雇员成为贯穿劳动法的基本原则。在Vergara案，法院判决反对的是，把年资作为裁员考量的唯一的、压倒性的因素，而排除其他因素的考量。</p>
+
+<p style="text-align:left">&nbsp;</p>
+
+<p style="text-align:left">第三，Vergara质疑了&ldquo;解雇法&rdquo;存在的必要性，矛头指向了法律存在的必要性。但是，法官质疑立法的必要性，这是一种很激进的、容易在上诉阶段遭受挫折的司法主动。</p>
+
+<p style="text-align:left">&nbsp;</p>
+
+<p style="text-align:left">法院最后做了这样的自我表白：&ldquo;诚如汉密尔顿所言，&lsquo;如果不把司法和立法、行政权力分开，那就没有自由。&rsquo;.....法院只是适用宪法原则，（去审查）受到挑战的法律。&rdquo;法院强调，司法不应当就如何替代现有法律提供表示任何意见，因为这是司法必须信任立法当局独力完成的任务。</p>
+
+<p style="text-align:left">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a id="reffn1" name="reffn1">[1]</a> 洛杉矶加州高等法院有关该案的初步法律意见，参见：Student Matter,&nbsp; http://studentsmatter.org/wp-content/uploads/2014/06/Tenative-Decision.pdf</p>
+
+<p>&nbsp;</p>
+
+<p><a id="reffn2" name="reffn2">[2]</a> Student Matter，Historic Victory for Students in Vergara v. California - See more at: http://studentsmatter.org/victory#sthash.Ce6Q1lBL.dpuf (2014/06/10).</p>
+
+<p>&nbsp;</p>
+
+<p><a id="reffn3" name="reffn3">[3]</a> Dante Atkins，Vergara v. California: The most dangerous lawsuit you probably haven&#39;t heard of，Daily Kos, http://www.dailykos.com/story (2014/03/16)</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center">（2014-6-17 16:58 发表于&ldquo;方流芳_新浪博客&rdquo;）</p>
+
+<p>&nbsp;</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li class="cur"><a href="/category/10027">2014</a></li>
+                                                                                                <li><a href="/category/10028">2013</a></li>
+                                                                                                <li><a href="/category/10029">2012</a></li>
+                                                                                                <li><a href="/category/10030">2011</a></li>
+                                                                                                <li><a href="/category/10043">2008</a></li>
+                                                                                                <li><a href="/category/10044">2007</a></li>
+                                                                                                <li><a href="/category/10049">2006</a></li>
+                                                                                                <li><a href="/category/10056">2005</a></li>
+                                                                                                <li><a href="/category/10057">2004</a></li>
+                                                                                                <li><a href="/category/10058">2003</a></li>
+                                                                                                <li><a href="/category/10059">2002</a></li>
+                                                                                                <li><a href="/category/10060">2001</a></li>
+                                                                                                <li><a href="/category/10061">2000</a></li>
+                                                                                                <li><a href="/category/10062">1999</a></li>
+                                                                                                <li><a href="/category/10063">1998</a></li>
+                                                                                                <li><a href="/category/10064">1997</a></li>
+                                                                                                <li><a href="/category/10065">1996</a></li>
+                                                                                                <li><a href="/category/10066">1995</a></li>
+                                                                                                <li><a href="/category/10067">1994</a></li>
+                                                                                                <li><a href="/category/10068">1993</a></li>
+                                                                                                <li><a href="/category/10069">1992</a></li>
+                                                                                                <li><a href="/category/10070">1989</a></li>
+                                                                                                <li><a href="/category/10071">1988</a></li>
+                                                                                                <li><a href="/category/10072">1987</a></li>
+                                                                                                <li><a href="/category/10073">1986</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

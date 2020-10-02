@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 违规招生调戏“依法治校”    ——致中国政法大学校长黄进教授的公开信</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">违规招生调戏“依法治校”    ——致中国政法大学校长黄进教授的公开信</div>
+                    <div class="content"><p><strong>黄校长：您好！</strong></p>
+
+<p><strong>2月5日，中欧法学院网站刊登了面向国际学生的、以学院名义招收2013级汉堡大学&ldquo;欧洲-国际法硕士&rdquo;(MEIL)的英文通知<a href="#_ftn1" name="_ftnref1" title="">[1]</a>。此后，我多次给您写信，要求撤下这一违法招生通知，采取有效措施，防止再次发生此类事故，均无回复。学院多事之春，我不在其位，亦不能无动于衷，故再次冒昧陈情，恳请指教，得罪之处，祈望海涵：</strong></p>
+
+<ol>
+	<li><strong><strong>&ldquo;</strong><strong>通知</strong><strong>&rdquo;</strong><strong>挑战中国法律和监管体制，中政大面临严重法律风险</strong></strong></li>
+</ol>
+
+<p><strong>按照教育部规定，</strong>学院最后一期<strong>&ldquo;</strong><strong>欧洲国际法学硕士</strong><strong>&rdquo;</strong><strong>的招生许可已在</strong><strong>2012</strong><strong>年到期，至今学院尚未获得任何新的招生许可</strong><a href="#_ftn2" name="_ftnref2" title="">[2]</a><strong>，招收</strong><strong>2013</strong><strong>级</strong><strong>&ldquo;</strong><strong>欧洲国际法硕士</strong><strong>&rdquo;</strong><strong>属违法招生，当无争议</strong>。</p>
+
+<p><strong>教育部信息监管平台公布的许可信息关系到学院能招什么类型的学生、招多少、哪一年招，细致而微，稍有疏忽，就可能出现违规，我一直如履薄冰，慎之又慎。2011年秋季，我亲自将该许可信息翻译为英文，传递给所有合伙人和管理委员会成员，并刊登于学院网站<a href="#_ftn3" name="_ftnref3" title="">[3]</a>。2012年2月，在管理委员会会议上，我又用PPT演示了这一信息，周知所有与会人。因此，不知情而违法招生的辩解是难以成立的。原因何在？这正是需要校长调查和处理的事。</strong></p>
+
+<p><strong>明知没有招生许可而向全世界公开招生，中政大可能面临以下后果：</strong></p>
+
+<p><strong>（1）即使申请人没有被&ldquo;MEIL&rdquo;录取，他们也能对中政大提起欺诈之诉，主张他们信赖招生信息而改变了原有安排，要求中政大赔偿信赖利益；</strong></p>
+
+<p><strong>（2）如果申请人被中政大录取，他们可以在适当的时候提起返还违法收费之诉，因为没有招生许可而向每名学生收取60，000元学费亦是无可辩解的违法；</strong></p>
+
+<p><strong>（3）这是一个责任不明的招生通知：在招生通知里，汉堡大学既没有对申请人作出任何承诺，也没有给中政大任何书面的招生授权。国际学生攻读汉堡大学MEIL，但并不是汉堡大学的注册学生；国际学生与中政大学位教育无关，却在中政大注册为&ldquo;学历生&rdquo;一类的&ldquo;留学生&rdquo;。这样的格局造成了汉堡大学可以随时反悔，并以学生为&ldquo;人质&rdquo;而索取&mdash;&mdash;2012年，我有多次类似被&ldquo;绑架&rdquo;的经历：</strong></p>
+
+<p><strong>&mdash;&mdash;2012年秋季开学，在2011级双硕士入学一年之后，汉堡大学&ldquo;特派员&rdquo;说：&ldquo;合作合同在2012年年底结束，我们对2011级双硕士没有任何合同义务，不承诺2013年春季继续安排教师，除非&hellip;&hellip;.&rdquo;。不仅如此，他们还在教室里张贴通知，警告2011级双硕士：&ldquo;2012-13学年第二学期的课程和授予汉堡大学学位仍然悬而未决。&rdquo;校长想必收到了我通过&ldquo;正常渠道&rdquo;提交的紧急请示<a href="#_ftn4" name="_ftnref4" title="">[4]</a>，遗憾的是，该请示至今没有得到回复。</strong></p>
+
+<p><strong>&mdash;&mdash;2012年夏季，在学生已经办理了去欧洲参加暑期班的一切手续之后，汉堡大学&ldquo;特派员&rdquo;说：&ldquo;我们以前承担暑期班的旅费，今年改变了，中政大应当承担旅费。要么接受，要么取消。&rdquo;校长也收到了我的专案请示，并立刻做出了书面批示：&ldquo;用发展基金（中方教育经费，方注）支付。&rdquo;</strong></p>
+
+<p><strong>&mdash;&mdash;2012年夏季，当年唯一交学费的国际学生获得了奖学金，奖学金数额相当于学费，汉堡大学书面同意支付，但就是不拨款，&ldquo;特派员&rdquo;也休假了。我再次请示，获得校方同意之后，动用发展基金支付了该学生的奖学金。</strong></p>
+
+<p><strong>每当外方以学生为人质的时候，我总是无可奈何，只能&ldquo;请示&rdquo;。</strong></p>
+
+<p><strong>吸取教训之后，我在2012年秋季书面通知汉堡大学&ldquo;特派员&rdquo;：&ldquo;从2012-13学年开始，除非得到汉堡大学书面授权，本院不再招收汉堡大学MEIL。对于秋季参加MEIL的2011级双硕士，在开学之前，我们应当联合以汉堡大学的名义给学生发出录取通知。如果您拒绝，我将单独发出录取通知，希望您注意到：我和您是汉堡大学MEIL考试委员会的两名委员之一。在项目事务范围内，我单独以汉堡大学名义给学生发出通知足以有效代表汉堡大学。&rdquo;汉堡大学&ldquo;特派员&rdquo;做出强烈反应。最后，双方各让一步，达成共识：汉堡大学以后委托学院招收MEIL，需事先给予书面授权，区分汉堡大学和中政大中欧法学院的责任；双方同意给2011级双硕士单独发送一份&ldquo;联席院长&rdquo;共同签署的MEIL录取通知，以确保汉堡大学在2013年对已招收的MEIL学生的义务（2011级双硕士在2012-2013学年参加MEIL项目）。</strong></p>
+
+<p><strong>可是，学院此次刊登招收2013级MEIL的通知，显然没有得到汉堡大学书面授权，这就再次让汉堡大学处于一个可以在事后反悔，为所欲为的有利地位。汉堡大学看清楚了中政大的软肋，每次打击都是毫不留情，而您已经以一贯的立场表明了学校的态度：无论发生何种纠纷，都不提起诉讼；无论发生何种纠纷，都要把&ldquo;合作&rdquo;放在第一位，这就让汉堡大学更加有恃无恐。</strong></p>
+
+<p><strong>（4）教育部可能对中国政法大学罚款、废除中欧法学院办学许可和拒绝认证学位<a href="#_ftn5" name="_ftnref5" title="">[5]</a>。</strong></p>
+
+<p><strong>我不会低估学校非同寻常的&ldquo;危机公关&rdquo;能力，我可以想象您的一些得力助手会润物无声般地说服主管部门的官员，让他们通融或者灵活，我也深知&ldquo;依法办事&rdquo;常常变成官方敷衍民众的套话和弱者无奈的呼喊。尽管如此</strong>，我还是要检验法律的可靠性和官员的责任心：在最低标准的法治状态和问责机制下，我提出的问题和诉求一定会得到回应；在得不到回应的情况下，我就把这些问题和诉求公诸于众，为启动法治和问责机制作一点贡献，至少也能保留一份历史记录。</p>
+
+<p><strong>不管教育部默许、豁免，还是追认中政大的违法招生，我相信：这都会在阳光下操作，都会有法律依据和适用法律的事实基础。我注视着事态的发展。</strong></p>
+
+<p><strong>在我看来，汉堡大学并不在乎2013-14学年会有多少国际学生参加MEIL项目，因为学院成立五年的事实已经证明：单独招收国际学生的MEIL无非是用中国和欧洲纳税人的钱去证明空中楼阁是无法建成的，而这本来是不需要证明的常识! 在不设入学考试（基本上是申请必录）、全额奖学金覆盖率大大高于中国学生的情况下，从2008-2012年，学院招收MEIL国际学生的记录分别是：2008年1人、2009年2人、2010年7人、2011年14人<a href="#_ftn6" name="_ftnref6" title="">[6]</a>、2012年无人。在推广MEIL过程中，我有限的思辨能力无法回答我当初对自己提出的问题：&ldquo;假如你是一个已经取得法学第一学位的国际学生，你为什么放弃就业机会，选择参加汉堡大学在中国政法大学举办的、主攻欧盟法和国际法的硕士学位的项目？一个外包给中国政法大学的汉堡大学法学硕士与汉堡大学自身的法学硕士是一样的吗？&rdquo;我必须承认：我缺少给汉堡故事添加任何可信度的能力，没有办法找到对这个故事感兴趣的读者，也无法界定MEIL项目的消费者群体。汉堡大学推广MEIL项目的宣传册用了许多大词，但过多的大词堆砌在一起，只有一个效果，那就是暴露出说话的人信心不足和不知所云。</strong></p>
+
+<p><strong>欧方明知学院招生许可已经过期，仍然用学院的名义向全世界宣布招收汉堡大学法学硕士，真正的目的是：</strong>创建欧洲教育机构在中国违法而免受干预的先例，重振欧洲人一百多年前藐视中国法律和管理体制的雄风。令人困惑的是，中政大校方却在帮助欧方实现他们的梦想。</p>
+
+<p><strong><strong>2.</strong><strong>&ldquo;</strong><strong>通知</strong><strong>&rdquo;</strong><strong>向全世界展现了中政大放弃中国法律和背离中国教育主权的负面形象</strong></strong></p>
+
+<p><strong>在招生通知最后一段，出现了这样的文字：&ldquo;<em><strong>These master programs are offered by CESL under EU funding and participation by the partners and are operated under the conditions of the grant contract with the EU.&rdquo;</strong></em> （在欧盟资助、合伙人参与和<strong>欧盟《资助合同》的</strong>条件下，中欧法学院开展和运作<strong>这些硕士项目（复数）</strong>）。</strong></p>
+
+<p><strong>这一段话是我熟悉的一个外国人写的，因为他的造句方法和语法错误都带有鲜明的个性。</strong>问题是：学院的招生通知怎么由一个与学院、中国政法大学和汉堡大学都没有合同关系的外国人最终定稿？</p>
+
+<p><strong>首先，欧盟从来没有对中国政法大学中欧法学院本身作任何有约束力的承诺。用欧盟官员的套话来说，在中欧法学院项目，欧盟对中方的一切承诺都是政治层面的承诺，即：一种没有任何约束力的政治表态。《资助合同》唯一的受益人是汉堡大学，欧盟与汉堡大学的合伙人、项目分包人没有任何合同关系，同时，汉堡大学向欧盟保证：适用于汉堡大学的条件，也会同样适用于汉堡大学的合伙人<a href="#_ftn7" name="_ftnref7" title="">[7]</a>。因此，只有汉堡大学才有资格说招生通知最后那段话，但中欧法学院是&ldquo;汉堡大学中欧法学院&rdquo;吗？&ldquo;是的，&rdquo;汉堡大学当初曾经这样主张。在遭到迎头痛击之后，汉堡大学退缩了。</strong>招生通知给人的印象是：学院已经变成了<strong>&ldquo;</strong><strong>汉堡大学中欧法学院</strong><strong>&rdquo;</strong><strong>。</strong></p>
+
+<p><strong>在刊登这一招生通知之前，汉堡大学已经擅自使用学院英文名称&ldquo;China EU School of Law&rdquo;，在OHIM申请了五项商标注册<a href="#_ftn8" name="_ftnref8" title="">[8]</a>，其中三项已批准生效，校方听之任之。现在，校方又在自己的网站上刊登非法招生通知，向全世界宣布：中欧法学院是一个与中国法律、与&ldquo;中外合作办学协议&rdquo;无关的机构；中欧法学院完全遵循欧盟《资助合同》所定的条件。</strong>这就预留了一个对中政大极为不利的证据：中政大接受了&ldquo;汉堡大学中欧法学院&rdquo;这一公共形象，从而间接承认了汉堡大学使用学院英文名称注册商标的合法性，在中国政法大学通过诉讼解决商标争议的道路上已经埋下了一枚随时可以引爆的地雷。这已经不止是<strong>&ldquo;</strong><strong>无原则退让</strong><strong>&rdquo;</strong><strong>的问题了！</strong></p>
+
+<p><strong>第二，&ldquo;通知&rdquo;称学院所有的硕士项目&ldquo;欧盟资助&rdquo;的，这更是罔顾事实。</strong></p>
+
+<p><strong>2011年欧盟主张：学院的中国法学/法律硕士项目应当排除在资助范围之外，而校长也毫无保留地站到了欧盟一边。</strong></p>
+
+<p><strong>汉堡大学在2012年1月已经终止履行&ldquo;中外合作办学协议&rdquo;，停止了对学院的一切拨款，至今尚未恢复<a href="#_ftn9" name="_ftnref9" title="">[9]</a>。从2012年开始，不仅学院的中国法学/法律硕士项目，而且学院的其他活动也与欧盟资助脱离了关系&mdash;&mdash;学院开支的所有费用都是来自本人倡议的、张桂琳副校长批准设立的中欧法学院&ldquo;发展基金&rdquo;。</strong>学院根据《中外合作办学条例》设立的&ldquo;发展基金&rdquo;是一个名副其实的<strong>&ldquo;</strong><strong>自主基金</strong><strong>&rdquo;</strong><strong>，在欧方撕毁合同、中断合作的情况下，学院能够巍然不动，其立足基础就是&ldquo;发展基金&rdquo;。</strong></p>
+
+<p><strong>在这样的背景下，招生通知还把&ldquo;欧盟资助&rdquo;说成是学院资金的唯一来源，这就是说话不诚实了。我不会像欧洲同事一样，动不动就上纲上线，说&ldquo;这是文化问题&rdquo;，&ldquo;那是文化问题&rdquo;，我倒是倾向于把这看成是个人的品质问题，与欧洲文化或者中国文化都没有什么关系。</strong></p>
+
+<p><strong><strong>3</strong><strong>．</strong><strong>&ldquo;</strong><strong>通知</strong><strong>&rdquo;</strong><strong>再次宣示了欧盟及其代理人在中国扩张影响的意图</strong></strong></p>
+
+<p><strong>根据《里斯本条约》，欧盟没有传统意义上的教育治权<a href="#_ftn10" name="_ftnref10" title="">[10]</a>&mdash;&mdash;如果欧盟在任何一个成员国办法学院，这无疑属于违宪行为。可是，在已往十多年，欧盟在中国组建了三所院校&mdash;中欧国际工商学院、中欧法学院、中欧清洁与可再生能源学院，欧盟将这三所院校纳入了它的外交政治活动。</strong>按照《里斯本条约》第<strong>2</strong><strong>条，欧盟有义务通过这些项目在海外</strong><strong>&ldquo;</strong><strong>主张和推广（欧盟的）价值和利益，增进对欧盟公民的保护&rdquo;。</strong>严格地讲，如果欧盟把中欧法学院看成纯粹的教育机构，这反而是&ldquo;政治不正确&rdquo;，因为欧盟投资纯粹的教育机构就偏离了《里斯本条约》。可是，我作为学院院长，必须防止学院成为欧盟外交政治的工具，与其说我个人和欧盟存在分歧，不如说分歧来自角色的错乱&mdash;&mdash;欧盟或许本来就不应当通过办学去推进它的外交政治，这不仅因为欧盟缺乏法律意义上的行为能力去办学，缺少教育专家，而且因为欧盟不可能把本地学生的利益看得比欧盟外交活动所要推动的&ldquo;价值和利益&rdquo;更重要。我没有任何对欧盟不友好的意思，只是实事求是，就事论事地探讨问题。</p>
+
+<p><strong>目前，欧盟在中国的三所院校都不具有法人资格，将三所院校合并为一个法人，或者将其中一所或者两所院校改制为法人，这是欧盟的重要战略。2010年，欧盟让我研究中欧法学院在近期改组为法人的可行性，我的研究报告给出了否定意见，欧盟项目官员立刻表示不满，从此争议不断。2011年5月18日，欧盟主席范龙佩在中欧国际工商学院宣布将要合并中欧法学院和中欧国际工商学院，组建一所具有法人资格的中欧大学，借此向中国政府施加压力<a href="#_ftn11" name="_ftnref11" title="">[11]</a>。实现这一战略，首当其冲的任务就是要将中欧法学院分离出中国政法大学，为此就需要在商标、名称、学位项目、治理结构等问题上挑起纷争，造成合作僵局。</strong></p>
+
+<p><strong>学院网站上刊登的这份招生通知模糊了中欧法学院与中国政法大学的关系，模糊了中欧法学院的中国身份，这在客观上是配合欧盟把中欧法学院分离出中国政法大学，帮助欧盟在中国扩张其外交影响。</strong></p>
+
+<p><strong><strong>4. &ldquo;</strong><strong>通知</strong><strong>&rdquo;</strong><strong>破坏了学院合规守法的传统</strong></strong></p>
+
+<p><strong>合规守法是学院一直秉持的优良传统。在学院成立前夕，外方逼迫我等在教育部批文下达之前公布招生简章。外方强调：错过2008级招生，无论什么原因，都是中方违约，中方必须补偿全部损失。在听了我的汇报和分析之后，徐显明校长沉默良久之后说：&ldquo;我们不能以违规为代价去迎合外方！还是等教育部批文下达之后再说吧！&rdquo;</strong></p>
+
+<p><strong>学院发布第一次招生通知的时间是2008年9月24日&mdash;&mdash;这一时间是学校向我转达教育部批文的3天之后，是全国研究生招生报名结束10个月之后，是全国2008级研究生全部入学注册之后。我和我的团队就是在这样的情况下承担起了学院的首次招生任务。在不可想象的困难条件下，我们还是在10月份完成了从北京四所高校06、07、08三个年级的法学研究生中选拔首批双硕士的工作，并在10月20日顺利开学。</strong></p>
+
+<p><strong>在学院的开学典礼上，徐校长高度赞扬了学院践行法治的真诚和执着，并希望这一开端成为学院的传统。</strong></p>
+
+<p><strong><strong>5.</strong> <strong>结论</strong></strong></p>
+
+<p><strong>2月20日，在学院网站刊登违法招生通知的第15天，我给校长发电子邮件，希望校长立刻采取措施。</strong></p>
+
+<p><strong>2月22 日，我再次提醒校领导关注此事。</strong></p>
+
+<p><strong>2月23日，校长回信让我与朱勇副校长讨论此事。</strong></p>
+
+<p><strong>2月24日，我和朱勇副校长交换了意见，在违章招生的认识上，朱勇副校长和我没有分歧，我将我和朱勇副校长的共同意见向您汇报了。然而，全部事情到此为止，再也没有得到您的回复，违法招生通知今天仍然在学院网站上。</strong></p>
+
+<p><strong>3月18日，我再次给校长写信，希望校长采取措施。</strong></p>
+
+<p><strong><strong>一个中国教育机构违规为德国大学招生，却又没有得到该德国大学的授权，这究竟是为什么？是强烈的利他主义，利益驱动的共谋，还是认知障碍？</strong></strong></p>
+
+<p><strong><strong>一个中国教育机构陷入严重的身份错乱&mdash;&mdash;站在德国大学的立场，声称自己是欧盟法规框架下的《资助合同》受益人，一字不提中国法律和中外合作办学协议&mdash;&mdash;代表中国教育机构的个人和主管领导将自己的认知错误强加于机构，该承担何种责任？</strong></strong></p>
+
+<p><strong><strong>在我多次质疑之后，一个公然违法并且羞辱中国政法大学的招生简章继续保留在学院网站上，这又意味着什么呢？</strong></strong></p>
+
+<p><strong>我希望校长能在百忙中抽出宝贵时间思考和回答。</strong></p>
+
+<p><strong>同时，我请求校长采取以下措施：</strong></p>
+
+<p><strong>（1）立即撤下违法招生通知，责成责任人向全体师生致歉；</strong></p>
+
+<p><strong>（2）立即调查真相，揭示违法招生通知炮制、刊登和持续占据学院网站首页的来龙去脉，重点调查里应外合的问题，按照学校规定追究负责人的个人责任；</strong></p>
+
+<p><strong>（3）责成责任人发表一份英文声明，澄清事实，收回影响。</strong></p>
+
+<p><strong>就此打住，顺颂教祺！</strong></p>
+
+<p><strong>方流芳</strong></p>
+
+<p><strong>2013年3月20日星期三</strong></p>
+
+<div>&nbsp;
+<hr />
+<div id="ftn1">
+<p><strong><a href="#_ftnref1" name="_ftn1" title="">[1]</a>中国政法大学中欧法学院官方网站，<a href="http://www.cesl.edu.cn/eng/idxnoticeview.asp?id=1472">http://www.cesl.edu.cn/eng/idxnoticeview.asp?id=1472</a>，最后登录：2013年3月19日。</strong></p>
+</div>
+
+<div id="ftn2">
+<p><strong><a href="#_ftnref2" name="_ftn2" title="">[2]</a>教育部，中外合作办学信息监管平台，中政大中欧法学院招生许可信息，<a href="http://www.crs.jsj.edu.cn/index.php/default/approval/detail/554" target="_blank" title="">http://www.crs.jsj.edu.cn/index.php/default/approval/detail/554</a>），最后登录：2013年3月19日。</strong></p>
+</div>
+
+<div id="ftn3">
+<p><strong><a href="#_ftnref3" name="_ftn3" title="">[3]</a>同前注1，<a href="http://www.cesl.edu.cn/eng/ecslintro2view.asp?id=1000">http://www.cesl.edu.cn/eng/ecslintro2view.asp?id=1000</a>，最后登录：2013年3月19日。</strong></p>
+</div>
+
+<div id="ftn4">
+<p><strong><a href="#_ftnref4" name="_ftn4" title="">[4]</a><a href="http://www.cesl.edu.cn/upload/201212266136368.pdf" target="_blank">有关中国法学/法律硕士项目请示</a>（2012年2月24日）</strong></p>
+
+<p><strong>附件1：方流芳有关中国法律/法学硕士项目的法律意见（中文）</strong></p>
+
+<p><strong>附件2：Legal Opinion on Master of Chinese Law by Fang Liufang</strong></p>
+
+<p><strong>附件3：欧盟驻中国使团财务、合同和审计处处长Wyganowski女士和合作处处长Gauwenbergh就中欧法学院法学硕士项目致德国汉堡大学尤里斯（2012年2月23日，中文翻译）</strong></p>
+
+<p><strong>附件4：Maria Luisa Wyganowski and John Gauwenbergh to Hinrich Julius(on Master of Chinese Law) (February 23, 2012)</strong></p>
+</div>
+
+<div id="ftn5">
+<p><strong><a href="#_ftnref5" name="_ftn5" title="">[5]</a>参见：国务院，中外合作办学条例（2003），条52、57；教育部，关于当前中外合作办学若干问题的意见（2006），条4；教育部，<a href="http://www.law-lib.com/law/law_view.asp?id=199381" target="_blank" title="教育部关于进一步规范中外合作办学秩序的通知">关于进一步规范中外合作办学秩序的通知</a>（2007）。</strong></p>
+</div>
+
+<div id="ftn6">
+<p><strong><a href="#_ftnref6" name="_ftn6" title="">[6]</a>2011年秋季，学院的国际学生增加到35人，比前一年增加400%，其中参加MEIL项目的14人，其余为交换学生。当年，我推出了国际学生共享课程&mdash;&mdash;英文讲授中国法，并力主接纳来自非洲、美洲和亚洲的学生。可见，吸引国际学生来中国的是中国法，而不是在外国人在中国讲授欧盟法。</strong></p>
+</div>
+
+<div id="ftn7">
+<p><strong><a href="#_ftnref7" name="_ftn7" title="">[7]</a>Para. 3 of Art 1.3. Annex II (General Conditions), Grant Contract-External Action of the European Community(asie/2007/146-573):&ldquo;The Contracting Authority does not acknowledge any contractual link between itself and the Beneficiary&rsquo;s or sub-contractors. The Beneficiary alone shall be accountable to the Contracting Authority for the implementing of the Action. <strong>He shall undertake that the conditions applicable to him &hellip;&hellip;shall also apply to his partners</strong>&hellip;&hellip;&rdquo;</strong></p>
+
+<p><strong>《欧盟资助合同》附件II第1.3节第3段：&ldquo;欧盟不承认与汉堡大学的合伙人或者项目分包人存在任何合同关系。汉堡大学就执行合同所列的任务单独对欧盟负其责任。汉堡大学应当确保他接受的合同条件&hellip;&hellip;同样适用于他的合伙人&hellip;&hellip;。&rdquo;</strong></p>
+</div>
+
+<div id="ftn8">
+<p><strong><a href="#_ftnref8" name="_ftn8" title="">[8]</a>Markify商标索引网站，<a href="http://trademark.markify.com/trademark-representative/ctm/christian+gahrmann/59881">http://trademark.markify.com/trademark-representative/ctm/christian+gahrmann/59881</a>，最后登陆：2013年3月20日。</strong></p>
+</div>
+
+<div id="ftn9">
+<p><strong><a href="#_ftnref9" name="_ftn9" title="">[9]</a>2013年3月18日，汉堡大学清偿了2012年对中国政法大学部分欠款35万欧元</strong>（2012年12月21日，我在学院网站公布了中国政法大学当年的支出和对汉堡大学的应收帐款。参见：<a href="http://www.cesl.edu.cn/ecslmanfinanceview.asp?id=2079">http://www.cesl.edu.cn/ecslmanfinanceview.asp?id=2079</a>&nbsp;<strong>2013</strong><strong>年2</strong><strong>月初，学院新任负责人向汉堡大学提交了2012</strong><strong>年财务报告，提交之前未交我审定，成稿前排斥了我的参与，新任负责人就这样将自己对学院财务的管理权限溯及既往地提前到2012年1月1日。学院工作人员在制作财务报告的时候按照生效预算，区分了汉堡大学欠款和中政大开支，为中政大挽回了一部分损失。）</strong>，约占汉堡大学2012年对中国政法大学全部债务的二分之一。但这不是拨款，而是归还中政大在2012年无息垫付的、本来应当由汉堡大学承担的开支。</p>
+</div>
+
+<div id="ftn10">
+<p><strong><a href="#_ftnref10" name="_ftn10" title="">[10]</a>&nbsp; 根据《欧盟条约》（The Treaty on European Union, TEU），欧盟治权（competence）以成员国授让（the principle of conferral 原则为基础（art. 5(1)），治权行使遵循附属（the principle of subsidiarity）和适度(proportionality)原则（art. 5(3)、5(4)），即：在欧盟拥有排他治权的领域之外，欧盟行使权力不能涉及成员国的排他治权，并以达到目标为必要。</strong></p>
+
+<p><strong>根据《欧盟运作条约》(The Treaty on The Functioning of The European Union, TFEU), 欧盟排他性治权（exclusive competence，art. 3）和与成员国分享的治权（competence shared with Member States, art. 4）都不包含教育治权。TEFU第6条规定了欧盟&ldquo;支持、协调或补充成员国的治权&rdquo;，其中：包括&ldquo;教育、职业培训, 青年和运动&rdquo;（education, vocational training, youth and sport）；TEFU第165条规定了欧盟以&ldquo;充分尊重成员国掌控教学内容、教育组织系统及其文化和语言的多元性&rdquo;为基础，以推动多元语言的传播、鼓励学生流动、交换教育信息和开展远程教育为限，开展教育活动。</strong>这样的教育&ldquo;治权&rdquo;受《欧盟条约》5（3)、5（4）的限制，亦不属于欧盟与成员国分享的治权&mdash;&mdash;与主权国家政府规制教育的权力判然有别，也排除了欧盟自身在成员国设立学校的可能性。欧盟通过代理人在中国设立学校属于欧盟外交活动范畴，此类活动服务于欧盟外交活动的总体目标, 即：&ldquo;维护和推进欧盟的价值和利益，以保护其公民&rdquo;（uphold and promote its values and interests to the protection of its citizens，art. 3(5), TEU）。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>根据《欧盟条约》（The Treaty on European Union, TEU），欧盟治权（competence）以成员国授让（the principle of conferral 原则为基础（art. 5(1)），治权行使遵循附属（the principle of subsidiarity）和适度(proportionality)原则（art. 5(3)、5(4)），即：在欧盟拥有排他治权的领域之外，欧盟行使权力不能涉及成员国的排他治权，并以达到目标为必要。</strong></p>
+
+<p><strong>根据《欧盟运作条约》(The Treaty on The Functioning of The European Union, TFEU), 欧盟排他性治权（exclusive competence，art. 3）和与成员国分享的治权（competence shared with Member States, art. 4）都不包含教育治权。TEFU第6条规定了欧盟&ldquo;支持、协调或补充成员国的治权&rdquo;，其中：包括&ldquo;教育、职业培训, 青年和运动&rdquo;（education, vocational training, youth and sport）；TEFU第165条规定了欧盟以&ldquo;充分尊重成员国掌控教学内容、教育组织系统及其文化和语言的多元性&rdquo;为基础，以推动多元语言的传播、鼓励学生流动、交换教育信息和开展远程教育为限，开展教育活动。这样的教育&ldquo;治权&rdquo;不是传统意义上的政府规制教育的权力，也不是授权欧盟在成员国设立学校的。欧盟通过代理人在中国设立学校属于欧盟外交活动范畴，此类活动服务于欧盟外交活动的总体目标, 即：&ldquo;维护和推进欧盟的价值和利益，以保护其公民&rdquo;（uphold and promote its values and interests to the protection of its citizens，art. 3(5), TEU）。</strong></p>
+
+<p><strong>&nbsp;&nbsp;</strong></p>
+</div>
+
+<div id="ftn11">
+<p><strong><a href="#_ftnref11" name="_ftn11" title="">[11]</a>同前注1，<a href="http://www.cesl.edu.cn/eng/ecslintro2view.asp?c=1&amp;id=886">http://www.cesl.edu.cn/eng/ecslintro2view.asp?c=1&amp;id=886</a>，最后登录：2013年3月19日。</strong></p>
+</div>
+</div>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li class="cur"><a href="/category/10053">信息公开</a></li>
+                                                                                                <li><a href="/category/10054">会谈纪要</a></li>
+                                                                                                <li><a href="/category/10055">评论</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 中欧法学院院长的任命和任期</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">中欧法学院院长的任命和任期</div>
+                    <div class="content"><p style="text-align: left">近日，中欧法学院中方院长的职务头衔和任职期间成为关注焦点，这也催促我梳理历史，向有关各方作一说明。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">自2008年以来，各方委任本人担任的、与中欧法学院有关的行政职务一共有三个，分别是：联席院长、院长和主要行政负责人，三个职位的任期也不尽相同。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>1. 中欧法学院（Eu China School of Law）&ldquo;联席院长（Co-dean）&rdquo;，任期自 2008年1月1日至2012年12月31日</strong></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>1.1 缘起</strong></p>
+
+<p style="text-align: left">联席院长是根据外方要求而设置的职位。汉堡大学大约在2007年5月向欧盟提交了一份非公开文件&ldquo;项目商业计划书&rdquo;，向欧盟作出承诺：中欧法学院关键职位，如：院长（deans, 复数）将设置一个以上，不同国籍或区域的管理人员各担任一个（&lsquo;&hellip;&hellip;key positions, such as the Deans, will be filled with one person of each nationality or region&hellip;&hellip;&rsquo;, Beneficiary: University of Hamburg Faculty of Law, Professor Hans Heinrich Trute, Business Plan, p. 4.&nbsp;<strong>该&ldquo;项目商业计划书&rdquo;直到2012年1月10日才向中方公开。</strong>）&rdquo;</p>
+
+<p style="text-align: left">&nbsp;方流芳</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>1.2&nbsp;项目竞标和申报</strong></p>
+
+<p style="text-align: left">欧盟通过招标而选定中欧法学院项目的&ldquo;受益人&rdquo;，投标人必须是欧盟成员国公立机构，投标人须一一填报欧盟的项目文件，并单独对填报的文件负责。中方只是作为&ldquo;受益人&rdquo;团队成员之一，支持受益人申报，对申报文件的内容没有任何磋价能力，但项目在中国是否具有可行性，仍然取决于它与中国法律、法规的一致性。联席院长人选是欧盟项目文件组成部分，按照格式条款，申报文件须&ldquo;<strong>清楚表明本人同意任职的时间</strong>&rdquo;（a clear indication of the lengthen of his or her commitment），联席院长人选在评标的各项指标中所占的权重是实质性的。经中国政法大学和我本人同意之后，在2007年8月之前，汉堡大学将我作为中方&ldquo;联席院长&rdquo;纳入了汉堡大学提交欧盟的申报材料，但汉堡大学嗣后提交给中方的材料并没有任期的记载，只是表明：&ldquo;该项提名将在欧盟批准汉堡大学建议书之后，由治理委员会批准。&rdquo;</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>1.3 提名、批准和纳入中外合作办学框架</strong></p>
+
+<p style="text-align: left">2008年1月18日，徐显明校长向合伙人会议提名我为&ldquo;中方联席院长&rdquo;和&ldquo;管理委员会委员&rdquo;。2008年1月28日，在汉堡大学举行的中欧法学院第一届合伙人会议批准了徐校长的提名，并就此作出书面决议。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">在第一届合伙人会议之后，徐校长正式签发聘书，聘任我为&ldquo;联席院长&rdquo;，聘期三年，始于2008年1月1日，止于2010年12月31日。聘期定为三年，是为了保留增长工资的余地，以便我能将更多工资余额作为中国政法大学人力出资，我自己则有承诺在先：&ldquo;任期内不增加一分钱实际工资&rdquo;；聘期从2008年1月1日开始，因为项目期间和欧方联席院长聘用合同都是以2008年1月1日为始日。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>2008年2月25日，中国政法大学与汉堡大学签订的&ldquo;中外合作办学协议&rdquo;确认了联席院长的职位、权限和任免程序。</strong></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">黄校长接任之后，与我续签了为期两年的聘用合同，始日为2011年1月1日，到期日为2012年12月31日。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>1.4</strong>&nbsp;需要指出的是，从项目申报开始到正式批准，教育部在任何场合、任何正式文件中都没有使用&ldquo;联席院长&rdquo;这一名称。相反，教育部官员一直强调：中外合作办学中方负责人的职位必须按照&ldquo;中外合作办学条例&rdquo;第25条的名称&ldquo;校长或主要行政负责人&rdquo;，没有变通余地。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>2. 中欧法学院（China EU School of Law at CUPL）&ldquo;主要行政负责人&rdquo;，任期自2008年9月17日至2013年8月30日</strong></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">2.1 中外合作办学申请表</p>
+
+<p style="text-align: left">在学院申报阶段，由于教育部官员不同意&ldquo;联席院长&rdquo;这一设置。<strong>在中国政法大学正式提交教育部的&ldquo;中外合作办学机构申请表&rdquo;的&ldquo;主要行政负责人&rdquo;一栏，本人职位填写为&ldquo;院长&rdquo;；在&ldquo;决策机构组成&rdquo;的&ldquo;外方成员&rdquo;一栏，外方的职位填写为&ldquo;联席院长&rdquo;（合作方各自填写相应部分）。</strong></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">2.2 中外合作办学许可证</p>
+
+<p style="text-align: left">在教育部颁发的&ldquo;中国政法大学中欧法学院中外合作办学许可证&rdquo;，本人职位是&ldquo;主要行政负责人&rdquo;（principal administrator）,任期同许可证有效期，自2008年9月17日至2013年8月30日。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">2.3 官方信息公示</p>
+
+<p style="text-align: left">在教育部的教育涉外信息监管网，本人的职位也是&ldquo;主要行政负责人&rdquo;，但该网站将学院许可证有效期最终日误记为&ldquo;2013年12月31日&rdquo;，不足为证。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>&ldquo;中外合作办学条例&rdquo;第25条，&ldquo;主要行政负责人&rdquo;任命&ldquo;应当&rdquo;报教育部&ldquo;核准&rdquo;。在许可证有效期内，&ldquo;主要行政负责人&rdquo;的变动当有主管部门核准和许可证变更。</strong></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left"><strong>3. &ldquo;中欧法学院院长&rdquo;，任期自2008年10月10日至2013年4月10日或至2012年10月10日</strong></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">3.1&nbsp;在教育部批准中外合作办学之后，中国政法大学党委常委会于2012年10月10日作出决定：任命本人担任&ldquo;中欧法学院院长&rdquo;。按照&ldquo;中国政法大学处级领导干部选拔任用规定&rdquo;，该职位属&ldquo;处级干部&rdquo;，任期四年，但我不清楚：任命这一职位的时候，是否参考了教育部的许可证。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">3.2&nbsp;党委常委会决定载明：该职位任期四年，试用期半年（试用期从2008年10月10日开始），试用期满，经考核合格后，正式聘任。如果试用期不包含在任期内，我的聘期到2013年4月10日到期；如果试用期包含在四年任期内，我的聘期到2012年10月10日到期。</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li class="cur"><a href="/category/10053">信息公开</a></li>
+                                                                                                <li><a href="/category/10054">会谈纪要</a></li>
+                                                                                                <li><a href="/category/10055">评论</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

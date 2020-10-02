@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 话语权威v. 法学自主性*</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li class="active"><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">话语权威v. 法学自主性*</div>
+                    <div class="content"><p style="text-align: center;">方流芳</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>上个世纪，法国学者福柯有关&ldquo;话语&rdquo;的分析引起极大关注。在福柯看来，话语代表着权力和知识的关系，在政治和经济上处于强势的群体在生产和传播话语，进而控制个人、机构和社会<sup><a href="#_ftn2" name="_ftnref2" title="">[1]</a></sup>。例如，当中国富人争相把子女送进英国私立中学和美国常春藤大学的时候，他们实际上是在复制和扩张西方的话语权威&mdash;&mdash;他们使西方教育在全球的支配地位更为稳固。也许可以这样概括福柯的&ldquo;话语&rdquo;：这是一种让人屈服于&lsquo;通说&rsquo;、&lsquo;流行符号&rsquo;和&lsquo;政治正确&rsquo;的力量，一种让人放弃自主表达而去追随和复制权威话语的力量；在被追随和复制的过程中，权威话语变得更加强大，知识生产就是在权威话语的支配下进行的<sup><a href="#_ftn3" name="_ftnref3" title="">[2]</a></sup>。</p>
+
+<p>&nbsp;</p>
+
+<p>在福柯之前，尼采也注意到了话语现象。尼采认为：在拉丁文，&ldquo;好&rdquo;具有阶级性，&ldquo;好&rdquo;代表着罗马贵族专属的道德优势，&ldquo;好=高贵=权势=美=幸福=神佑&rdquo;<sup><a href="#_ftn4" name="_ftnref4" title="">[3]</a></sup>；&ldquo;好&rdquo;具有强烈的种族优越和侵略性，&ldquo;好&rdquo;代表着浅色皮肤的种族（&ldquo;罗马人、阿拉伯人、日尔曼人、日本贵族、荷马时代的英雄、斯堪迪纳维亚的维京人），他们像食肉动物（&ldquo;beast of prey&rdquo;）一样具有征服的本能，需要时不时地回到&ldquo;野蛮&rdquo;的荒原（殖民地），释放他们在文明社会里受到压抑的狂野本能<sup><a href="#_ftn5" name="_ftnref5" title="">[4]</a></sup>。尼采认为，在德语里，&ldquo;坏&rdquo;（schlecht）并没有贬义，只是相对于高贵而言的另一种品质，表达&ldquo;平平&rdquo;、&ldquo;一般&rdquo;的意思<sup><a href="#_ftn6" name="_ftnref6" title="">[5]</a></sup>。</p>
+
+<p>&nbsp;</p>
+
+<p>福柯揭示了话语和知识、权力的关系，但是，他并没有谈到如何去反抗话语的支配，甚至没有谈到抵制话语的可能性和必要性<sup><a href="#_ftn7" name="_ftnref7" title="">[6]</a></sup>。有趣的是，尼采一百多年前的论文恰恰生动地谈到了话语权威的反抗。根据尼采的考证，&ldquo;坏&rdquo;（邪恶）是犹太人用来表达他们对征服者的仇恨的词汇，与罗马人的&ldquo;好&rdquo;直接进行对抗。在犹太人的话语里，高贵者是邪恶的（&ldquo;evil&rdquo;）&shy;&mdash;他们&ldquo;孱弱、残暴、淫荡、贪得无厌和渎神&rdquo;，应受到诅咒，相反，受苦、受难的人则具有道德上的优势<sup><a href="#_ftn8" name="_ftnref8" title="">[7]</a></sup>。尼采提供了一个可以用来补充福柯的观察：随着犹太人、基督徒和奴隶所代表的受压迫者的话语战胜了罗马贵族的话语，罗马帝国也就随之灭亡；犹太人、基督徒和奴隶不是通过暴力反抗，而是通过话语力量战胜了罗马帝国&mdash;&mdash;&ldquo;邪恶&rdquo;的罗马贵族最终在诅咒中消亡了。这也是20世纪60年代美国民权运动的路径，马丁&middot;路德&middot;金用基督教的平等主义战胜了种族歧视的话语，激发了白人中产阶级对种族主义的负罪感<sup><a href="#_ftn9" name="_ftnref9" title="">[8]</a></sup>。在这里，知识生产的历史似乎能够揭示一个与话语有关的事实：随着占支配地位的话语受到挑战，呈现多种话语的竞争，最终导致新旧话语的替换。</p>
+
+<p>&nbsp;</p>
+
+<p>在某种意义上，托依布纳把人权理解为话语权（沟通自主权）。托依布纳认为：在当代社会，侵犯人权的力量不止来自国家，资本、传媒、科学、经济、宗教等力量都会造成片段化的、封闭的沟通系统，每个系统都有可能成为越界扩张的魔阵，它们不仅将个人排除在沟通系统之外，而且威胁个人的基本权利；除非个人语言转换为系统语言，个人和系统之间的沟通是不可能的，换言之，在沟通系统之外的个人总是处于失语状态。所以，托依布纳主张，基本权利应当是沟通的自主，包括：机构对抗各个领域内极权主义趋势的沟通自主；个人话语的自主和遏制魔阵越界扩张的人权<sup><a href="#_ftn10" name="_ftnref10" title="">[9]</a></sup>。</p>
+
+<p>&nbsp;</p>
+
+<p>在中国，西方法学话语很少受到批判。西谚&ldquo;模仿是最好的恭维&rdquo;，可用以概括鸦片战争后的一百七十年里，中国对西方法律的一贯态度&mdash;&mdash;通过模仿西方法律，中国表达对西方的顺从，最初是为了废除&ldquo;治外法权&rdquo;，后来是为了&ldquo;与国际惯例接轨&rdquo;。</p>
+
+<p>&nbsp;</p>
+
+<p>中国与西方的法律沟通大致可分为三类：</p>
+
+<p>&nbsp;</p>
+
+<p>一是求教，如：&ldquo;中国正在制定某某法，请问外国专家有何指教？&rdquo;</p>
+
+<p>全世界很少有一个大国像中国这样向外国人敞开立法咨询的大门。西方国家的政府、民间机构都把参与中国立法看成一种荣耀。有些国家的在华机构甚至直接向中国立法当局提交法律草案<sup><a href="#_ftn11" name="_ftnref11" title="">[10]</a></sup>。中国人学习西方法律，这无疑增强了西方人的优越感，以致西方人有时候把中国的法学教育和立法混淆在一起，认为教育合作同样也是为了满足中国立法当局有关西方法律知识的需求。以下是德国汉堡市政府官方网站有关&ldquo;中欧法学院&rdquo;的一段话（本人恰巧是这个学院的中方院长）：</p>
+
+<p>&ldquo;&hellip;&hellip;.中国向来有学习欧洲法律制度的传统。自清朝开始至21世纪初期，中国的立法者就在法律的制定过程中借鉴欧洲法律。而今通过中欧法学院，欧洲法律真正进入中国人眼帘。通过这所新的法律学校，中国希望能在法律修订过程中得到更多有用的建议。&hellip;&hellip;&rdquo;<sup><a href="#_ftn12" name="_ftnref12" title="">[11]</a></sup></p>
+
+<p>然而，一个国家对另一个国家的立法施加影响，这和西方国家的普世价值是背道而驰的：在西方，立法应当反映民意，而不是反映任何外国政府的外交政治立场。试想如果一个西方国家的议会邀请中国政府的代表和议员们一起草拟法案，那将会如何？可以肯定，那将是舆论一片哗然，抗议和弹劾随之而至。另一方面，如果中国立法确实需要外国专家咨询，那也应当限定咨询范围，开列专题，通过公开招标的方式采购咨询服务，而不是由外国政府为中国立法选择咨询专家。</p>
+
+<p>&nbsp;</p>
+
+<p>二是归宗，如：&ldquo;中国是大陆法系国家，所以，中国法律应当如法炮制，不可走旁门左道。&rdquo;然而，即使中国完全照抄西方国家的某一法典，也没有一个严肃的西方法学家会因此把中国看成大陆法系。这不仅因为大陆法系是一个过时的、含糊其辞、缺乏识别标准的概念，而且因为法系是一种不可复制和重建的传统，只有同一历史渊源的家族成员才有资格分享这种传统。中国人自己把中国的法律定义为&ldquo;大陆法系&rdquo;，似乎还没有走出日本一个多世纪前一厢情愿的&ldquo;脱亚入欧&rdquo;的心态。&ldquo;中国属于大陆法系&rdquo;反映出话语支配下的身份错乱，而这种错乱一旦形成之后是很难得到纠正的。</p>
+
+<p>&nbsp;</p>
+
+<p>三是传播。在中国，一篇典型的法学论文通常是这样的三部曲：追寻法律规则的西方来源&mdash;&mdash;评点法律规则中国化的不足&mdash;&mdash;探讨如何拉近中国与西方的差距。然而，法律因适用而激活，因解释而增加内涵，即使法律规则最早来自西方，我们仍然只能从当地实践去寻找法律的意义，以西方法律为标杆而分析中国法律，只有在找到相同或者类似语境的时候才有一点意义。一个多世纪以来，在西方法律话语的支配下，中国法学的表达能力一直没有发育成熟，缺少本国固有的法律语词、语法和逻辑，即使是原创思想、观察和发现，也只能纳入西方法律的话语系统之后，才能形成&ldquo;可接受&rdquo;的表达。</p>
+
+<p>&nbsp;</p>
+
+<p>中国法学、法学教育进步不彰，主要原因是缺少话语自主，没有话语自主也就没有自己的知识生产系统，从而也就没有自己的历史。在去年的一次演讲中，清华大学法学院冯象教授提到，&ldquo;新法治可说是现行政法体制的一种寄生性话语&rdquo;，类似卡夫卡所谈到的寄生于德语的意地绪语<sup><a href="#_ftn13" name="_ftnref13" title="">[12]</a></sup>。西方语言和本民族语言相互混杂的意地绪语、克里奥语和洋泾浜语的传播范围是相当有限：它们可能是那些夹杂在本族和外族之间的&ldquo;圈内人&rdquo;的行话，但是，它们进入不了本族大众和受到良好教育的知识分子的语言系统，外族对此更是不屑一顾。将混杂语言译为西语，比将纯正的本地语言译成西语更困难，因为，混杂语言包含着经过改造的外来语音节、拼写和构词法，只有精通本地语言、混杂语言和西语的人才能胜任这项工作，而这样的人很难物色<sup><a href="#_ftn14" name="_ftnref14" title="">[13]</a></sup>。当中国法学家试图用英语与西方学者交流民法学的时候，此类问题就出现了。例如：将下面这句话翻译成可读懂的英文是很具有挑战性的：</p>
+
+<p>&nbsp;</p>
+
+<p>&ldquo;物权行为是处分行为之一种，属无因行为，分为物权契约和单独行为。&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>有可能完成这项翻译工作的人必须：（1）通晓中文；（2）知道中文法律术语来自德国民法；（3）精通德语，能将中文法律术语一一复原为德语；（4）精通英文和普通法，能将复原之后的德语转换成相同或者类似的英文法律术语。</p>
+
+<p>&nbsp;</p>
+
+<p>在一个国家，当立法尝试用本国人民无法理解的外来语去表达本国民意的时候，当司法将当事人生动的本地语言改造成外来语支配的法言法语的时候，法律传承与本国语言和本国实践经验是分离的。</p>
+
+<p>&nbsp;</p>
+
+<p>语言的混淆常常造成身份的混淆，使人不清楚自己究竟是中国人还是外国人。也许有人说：&ldquo;在国际化、全球化的大趋势下，一个人究竟是中国人还是外国人还有那么重要吗？&rdquo;我想，如果一个国家、民族和她的法律不想&ldquo;被代表&rdquo;的话，那么，国家、民族和个人身份在这个时代比以往任何时候都更为重要。法治&ldquo;重新出发&rdquo;，出发点和目标都应当是建立中国自身的法学话语。</p>
+
+<hr />
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div>
+<div id="ftn1">
+<p><a href="#_ftnref1" name="_ftn1" title="">*</a>本文是作者在2012-13学年第一学期为中国政法大学中欧法学院2012级硕士生开设的法律职业伦理课的首场演讲的一部分。助教吴玥承担了本文的编辑工作。</p>
+</div>
+
+<div id="ftn2">
+<p><a href="#_ftnref2" name="_ftn2" title="">[1]</a>Michel Foucault, &#39;The Discourse on Language&#39;, in <em>The Archaeology of Knowledge,</em>trans. by A. M. Sheridan Smith, Pantheon Books(1972), New York, p.216.</p>
+</div>
+
+<div id="ftn3">
+<p><a href="#_ftnref3" name="_ftn3" title="">[2]</a>Stephen Frederick Schneck 1987, &lsquo;Michel Foucault On Power/Discourse, Theory and Practice&rsquo;, 10 Human Studies. 15, pp.22-23; &lsquo;The Ethic of Care for the Self As a Practice of Freedom&rsquo;, in James Bernauer and David Rasumussen(ed.), <em>The Final Foucault</em>, MIT Press(1987), Cambridge, p.18.</p>
+</div>
+
+<div id="ftn4">
+<p><a href="#_ftnref4" name="_ftn4" title="">[3]</a>Nietzsche, &lsquo;Good and Evil , Good and Bad&rsquo;, inKeith Ansell-Pearson(ed.),<em>On the Genealogy of Morality</em>, Cambridge University Press(1994), pp. 12, 18-19.</p>
+</div>
+
+<div id="ftn5">
+<p><a href="#_ftnref5" name="_ftn5" title="">[4]</a>同前注3，p.25.</p>
+</div>
+
+<div id="ftn6">
+<p><a href="#_ftnref6" name="_ftn6" title="">[5]</a>同前注3，p.14.</p>
+</div>
+
+<div id="ftn7">
+<p><a href="#_ftnref7" name="_ftn7" title="">[6]</a>Mary Candace Moore 1987, &#39;Ethical Discourse and Foucault&rsquo;s Conception of Ethics&#39;, 10 Human Studies.81, pp.</p>
+
+<p>85.</p>
+</div>
+
+<div id="ftn8">
+<p><a href="#_ftnref8" name="_ftn8" title="">[7]</a>同前注3，pp. 19-21.</p>
+</div>
+
+<div id="ftn9">
+<p><a href="#_ftnref9" name="_ftn9" title="">[8]</a>Anthony E. Cook 1990, &#39;Beyond Critical Legal Studies: The Reconstructive Theology of Dr. Martin Luther King, Jr&#39;, 103 Harv. L. Rev. 985, pp.1012, 1042; Allison Calhoun-Brown 2000, &#39;Upon This Rock: The Black Church, Nonviolence, and the Civil Rights Movement&#39;, <em>Political Science and Politics</em>, vol. 33, no. 2, pp. 168-174.</p>
+</div>
+
+<div id="ftn10">
+<p><a href="#_ftnref10" name="_ftn10" title="">[9]</a>Gunther Teubner 2006, &#39;The Anonymous Matrix: Human Rights Violation by &lsquo;Private&rsquo; Transnational Actors&#39;, 69(3) MLR 327-346, pp.342; 贡塔&middot;托依布纳，匿名的魔阵：跨国活动中&ldquo;私人&rdquo;对人权的侵害，泮伟江译，载：魔阵、剥削、异化：法律社会学文集，泮伟江、高鸿钧等译，清华大学出版社（2012），页201-204。</p>
+</div>
+
+<div id="ftn11">
+<p><a href="#_ftnref11" name="_ftn11" title="">[10]</a>德国联邦政府经济合作发展部下属的德国技术合作公司（GTZ）声称：从1997-2007年，该公司持续向中国立法当局提供咨询，涉及&ldquo;外汇监管法，证券法，证券投资基金法，信托法，公司法修改，中小企业促进法，企业破产法，招标投标法，预算法，遗产税法，合伙企业法，军人保险法，政府采购法，财政转移支付法，国有资产法，融资租赁法，税收基本法，评估法，节能法&rdquo;，见：中华人民共和国政府采购法&mdash;&mdash;立法进程资料汇编，中国民主法制出版社（2008），前言；在中国&ldquo;物权法&rdquo;起草过程中，GTZ也提供了咨询，并选择某一立法草案，进行&ldquo;全面注释&rdquo;，GTZ声称从2000年就开始对中国民法典的制定提供咨询，咨询范围包括：法律结构、涉外民事法律规定的适用、家庭法和继承法。见：中华人民共和国物权法&mdash;&mdash;立法进程资料汇编，中国政法大学出版社，前言（2010）。</p>
+</div>
+
+<div id="ftn12">
+<p><a href="#_ftnref12" name="_ftn12" title="">[11]</a>汉堡市驻上海联络处新闻，http://www.hamburgshanghai.org/index.php?option=com_content&amp;task=view&amp;id=</p>
+
+<p>255&amp;Itemid=3419_Summer%20School%20am%20Europa-Kolleg%20Hamburg_cn，最后访问：2012年11月21日。</p>
+</div>
+
+<div id="ftn13">
+<p><a href="#_ftnref13" name="_ftn13" title="">[12]</a>冯象，法学三十年：重新出发，载：信与忘，三联书店（2012），页196-198。</p>
+</div>
+
+<div id="ftn14">
+<p><a href="#_ftnref14" name="_ftn14" title="">[13]</a>方流芳，在&ldquo;美国法律文库暨法学翻译与法律变迁&rdquo;研讨会上的发言，载：法学翻译与中国法现代化,中国政法大学出版社（2002），页15。</p>
+</div>
+</div>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li><a href="/category/10027">2014</a></li>
+                                                                                                <li><a href="/category/10028">2013</a></li>
+                                                                                                <li class="cur"><a href="/category/10029">2012</a></li>
+                                                                                                <li><a href="/category/10030">2011</a></li>
+                                                                                                <li><a href="/category/10043">2008</a></li>
+                                                                                                <li><a href="/category/10044">2007</a></li>
+                                                                                                <li><a href="/category/10049">2006</a></li>
+                                                                                                <li><a href="/category/10056">2005</a></li>
+                                                                                                <li><a href="/category/10057">2004</a></li>
+                                                                                                <li><a href="/category/10058">2003</a></li>
+                                                                                                <li><a href="/category/10059">2002</a></li>
+                                                                                                <li><a href="/category/10060">2001</a></li>
+                                                                                                <li><a href="/category/10061">2000</a></li>
+                                                                                                <li><a href="/category/10062">1999</a></li>
+                                                                                                <li><a href="/category/10063">1998</a></li>
+                                                                                                <li><a href="/category/10064">1997</a></li>
+                                                                                                <li><a href="/category/10065">1996</a></li>
+                                                                                                <li><a href="/category/10066">1995</a></li>
+                                                                                                <li><a href="/category/10067">1994</a></li>
+                                                                                                <li><a href="/category/10068">1993</a></li>
+                                                                                                <li><a href="/category/10069">1992</a></li>
+                                                                                                <li><a href="/category/10070">1989</a></li>
+                                                                                                <li><a href="/category/10071">1988</a></li>
+                                                                                                <li><a href="/category/10072">1987</a></li>
+                                                                                                <li><a href="/category/10073">1986</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

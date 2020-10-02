@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 【备课笔记】有关“律师-客户特权”的另类思考：边沁和菲舍尔</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">【备课笔记】有关“律师-客户特权”的另类思考：边沁和菲舍尔</div>
+                    <div class="content"><p style="text-align: left">1.&nbsp;&ldquo;律师-客户特权&rdquo;（attorney client privilege）的边沁质疑</p>
+
+<p style="text-align: left">在《司法证据的理性》一书（<em><span style="font-family:times new roman; font-size:10.5pt">Rationale of Judicial Evidence</span></em><em><span style="font-size:10.5pt">），</span></em>边沁对&ldquo;律师&mdash;客户特权&rdquo;提出了影响深远的质疑。边沁争辩说，取消&ldquo;律师&mdash;客户特权&rdquo;有利无害：</p>
+
+<p style="text-align: left">（1）在刑事案件，取消律师保密义务对被告无害而对社会有利。边沁说，如果被告无罪，那么，他向律师披露的信息也不会变成使他有罪的证据，律师披露这些信息也不会给被告造成危害；如果被告有罪，法律本来就不应当允许被告编造虚假辩护理由而妨碍审判公正，被告也不会因为律师泄密而受冤枉。然而，实现正义却需要真相<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn1" name="_ftnref1" style="color: rgb(62,115,160); text-decoration: none" title=""><span style="font-family:宋体; font-size:12pt">[1]</span></a>。</p>
+
+<p style="text-align: left">（2）废除&ldquo;律师-客户特权&rdquo;能提升律师业的道德水准。一般人故意掩盖或者隐瞒他人的犯罪行为，可能构成犯罪，而律师却要为故意隐瞒犯罪事实的被告保密，这样，律师证照就成了一种受雇于人而从事非法活动的许可--&ldquo;用舌头妨碍司法公正&rdquo;的许可<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn2" name="_ftnref2" style="color: rgb(62,115,160); text-decoration: none" title=""><span style="font-family:宋体; font-size:12pt">[2]</span></a>。</p>
+
+<p style="text-align: left">（3）取消律师客户特权之后，律师无须担忧泄漏客户秘密，客户会三思而言，而客户自己对隐瞒事实可能造成的不利负其责任<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn3" name="_ftnref3" style="color: rgb(62,115,160); text-decoration: none" title=""><span style="font-family:宋体; font-size:12pt">[3]</span></a>。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">2. Daniel R. Fischel教授有关&ldquo;律师-客户特权&rdquo;的法经济学分析</p>
+
+<p style="text-align: left">Fischel教授认为：&ldquo;律师-客户特权&rdquo;给律师带来利益，但客户作为整体并没有受益，而交易成本则确定地增加了<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn4" name="_ftnref4" style="color: rgb(62,115,160); text-decoration: none" title=""><span style="font-family:宋体; font-size:12pt">[4]</span></a>。</p>
+
+<p style="text-align: left">&ldquo;律师-客户特权&rdquo;带来了律师业务的扩张，从刑事诉讼到税务、投行、财务、不动产开发.....，客户都需要律师为代表，这给律师带来巨大收益，不必要地增加了交易费用。例如：两个公司发生诉讼，被告的<strong>外聘律师</strong>为了应对诉前证据交换，会事先与公司员工面谈，讨论如何应对原告律师的提问，指导员工准备答问。根据&ldquo;工作成果理论（work product doctrine）&rdquo;，被告律师与公司员工之间的沟通受到&ldquo;律师-客户特权&rdquo;的保护，无须向任何人披露。相反，如果由担任被告公司法律顾问的雇员律师（in-house council）或者经理直接与员工面谈，这一交流就不能受到&ldquo;律师-客户特权&rdquo;的保护&mdash;&mdash;<strong>保密特权使公司有动因聘用外部律师</strong>。与此同时，当原告律师试图与被告员工直接沟通的时候，被告律师得以&ldquo;工作成果&rdquo;秘密受法律保护为由而进行阻止，结果，原告律师与被告员工之间的沟通只限于提交书面证词&mdash;&mdash;被告律师代为撰写或者在被告律师指导下撰写&mdash;&mdash;<strong>保密特权使被告律师重复提供服务，再次收费<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn5" name="_ftnref5" style="color: rgb(62,115,160); text-decoration: none" title=""><strong><span style="font-family:宋体; font-size:12pt">[5]</span></strong></a></strong>。又如：当公司测试产品安全性，测试结果显示安全隐患，一旦发生诉讼，测试数据要按照诉前证据交换的规则向对方公开，相反，若公司律师为评估诉讼风险而测试产品的安全性，一旦发生诉讼，测试数据属于&ldquo;工作成果&rdquo;，其私密性受到&ldquo;律师-客户特权&rdquo;保护<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn6" name="_ftnref6" style="color: rgb(62,115,160); text-decoration: none" title=""><span style="font-family:宋体; font-size:12pt">[6]</span></a>&mdash;&mdash;<strong>保密特权使公司能够聘用律师参与产品风险测试，以避免诉前证据交换。</strong></p>
+
+<p style="text-align: left"><strong>&nbsp;</strong>&nbsp;Fischel教授认为：在个案中，&ldquo;律师-客户特权&rdquo;或许能使某一方当事人受益，这是一个零和游戏（zero-sum game）,诉讼本身并不增加利益，仅仅是在游戏参与者之间分配利益<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn7" name="_ftnref7" style="color: rgb(62,115,160); text-decoration: none" title=""><span style="font-family:宋体; font-size:12pt">[7]</span></a>。然而，诉讼又不是纯粹的零和游戏，因为，诉讼结果会影响当事人未来的行为，&ldquo;律师-客户特权&rdquo;损害诉讼当事人作为整体的利益，因为，法官会对当事人通过律师提供的信息普遍持怀疑态度，即使是诚实的当事人也因此而受到负面影响<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn8" name="_ftnref8" style="color: rgb(62,115,160); text-decoration: none" title=""><span style="font-family:宋体; font-size:12pt">[8]</span></a>。在Fischel看来，&ldquo;律师-客户特权&rdquo;造成了一个参与者互不信任的&ldquo;柠檬市场&rdquo;&mdash;&mdash;即便一个商人没有任何秘密需要隐藏，他也得找到一个有信用的中间人做交易，否则，就难以克服他和对方决策者之间的信息不对称&mdash;&mdash;诚实商人和伪诈商人的边界在这里消失了，而这对诚实的商人是最为不利的<a href="http://control.blog.sina.com.cn/admin/article/article_add.php#_ftn9" name="_ftnref9" style="color: rgb(62,115,160); text-decoration: none" title=""><span style="font-family:宋体; font-size:12pt">[9]</span></a>。</p>
+
+<p style="text-align: left">[1] 边沁（Jeremy Bentham）, 边沁全集第7卷，页441 （7 THE WORKS OF JEREMY BENTHAM 441），约翰. 波陵编，1843年版（John Bowring ed., 1843)，在线资源：<a href="http://oll.libertyfund.org/index.php?option=com_staticxt&amp;staticfile=show.php?title=1998&amp;Itemid=99999999">http://oll.libertyfund.org/index.php?option=com_staticxt&amp;staticfile=show.php?title=1998&amp;Itemid=99999999</a></p>
+
+<p style="text-align: left">[2] &ldquo;A rule of law which, in the case of the lawyer, gives an express license to that willful concealment of the criminal&#39;s guilt, which would have constituted any other person an accessory in the crime, plainly declares that the practice of knowingly engaging one&#39;s self as the hired advocate of an unjust cause, is . . . a virtuous practice.&rdquo;边沁, 同前注，页479（Jeremy Bentham，id. at 479.）。</p>
+
+<p style="text-align: left">[3] 边沁，同前注。</p>
+
+<p style="text-align: left">[4] Daniel R. Fischel,律师和保密 Lawyers and Confidentiality, 芝加哥大学法律评论，第65卷，页3，65 U. Chi. L. REV. 3 (1998)，在线资源：<a href="http://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2413&amp;context=journal_articles">http://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2413&amp;context=journal_articles</a>。</p>
+
+<p style="text-align: left">[5] 同前注，页6-7（id. at 6,7）。 [6] 同前注，页8 (id. at 8)。 [7] 同前注，页22 (id. at 22)。 [8] 同前注，页19(id. at 19)。 [9] 同前注。</p>
+
+<p style="text-align: left">&nbsp;</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li><a href="/category/10046">2014</a></li>
+                                                                                                <li class="cur"><a href="/category/10050">2013</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

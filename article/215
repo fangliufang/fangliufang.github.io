@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 第三单元：过错责任</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">第三单元：过错责任</div>
+                    <div class="content"><p>案例Palsgraf v. Long Island R. Co.谁对谁负有责任？什么是风险的可预见范围?<br />
+<br />
+阅读材料：<br />
+（1）考夫曼，卡多佐，张守东译，法律出版社（2001），第十六章：烟花爆竹与可预见性；<br />
+（2）Palsgraf v. Long Island R. Co. （英文原文）（下载：<a href="http://pan.baidu.com/s/1o6FO6ym">http://pan.baidu.com/s/1o6FO6ym</a>）</p>
+
+<p>法经济学简介</p>
+
+<p>&nbsp;理性个人和个人效益最大化的假设（方法论的个人主义）</p>
+
+<p>机会成本的假设</p>
+
+<p>激励机制有效的假设</p>
+
+<p>&nbsp;</p>
+
+<p>疑问: 人是理性的吗?</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 人总是追求自身的最大利益吗?<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 机会成本是不可避免的吗?</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 激励机制是有效的吗?</p>
+
+<p>&nbsp;</p>
+
+<p>社会成本理论</p>
+
+<p>外部性</p>
+
+<p>关于外部性的实例分析</p>
+
+<p>柯斯理论</p>
+
+<p>&nbsp;</p>
+
+<p>柯斯示例：养殖场和农场相邻，养殖场的母牛常常越界进入农场，给农场主造成损失，母牛的数量越多，农场主的损失越大，而维持一道坚固的篱笆就可以防止母牛进入农场。假如：</p>
+
+<p>维持篱笆的年费是9元；</p>
+
+<p>谷物是每吨1元；</p>
+
+<p>养殖场主把母牛从2头增加到3头的成本是3元；</p>
+
+<p>农场主从农作物获得的年收入是12元，成本是10元，纯收入是2元；</p>
+
+<p>法律要求养殖场主对母牛造成的损失负责；</p>
+
+<p>只有当增加母牛有利可图，即：增加母牛的费用少于收益的时候，养殖场主才会增加母牛。</p>
+
+<p>&nbsp;</p>
+
+<p>牛群数目&nbsp;&nbsp; 谷物年损失&nbsp;&nbsp;&nbsp; 每增加一头牛所</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 　造成的谷物损失</p>
+
+<p>　</p>
+
+<p>（头）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （吨）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （吨）</p>
+
+<p>　 1　　　　 1　　&nbsp; 　　 1</p>
+
+<p>　 2　　　　 3　　&nbsp; 　　 2</p>
+
+<p>　 3　　　　 6　　&nbsp; 　　 3</p>
+
+<p>　 4　　　　 10　 　&nbsp; 　 4</p>
+
+<p>&nbsp;</p>
+
+<p>（1）&nbsp;&nbsp;&nbsp; 当母牛为4头以上（包括4头）的时候，养殖场主的赔偿责任是10元，修建篱笆的费用是9元，养殖场主有动因修建篱笆。</p>
+
+<p>（2）&nbsp;&nbsp;&nbsp; 当母牛为3头（包括3头）以下的时候，养殖场主的赔偿责任是6元，修建篱笆的费用是9元，养殖场主没有动因修建篱笆。</p>
+
+<p>（3）&nbsp;&nbsp;&nbsp; 养殖场主向农场主支付2元，让农场主修耕，这可能对双方都是最好的选择。</p>
+
+<p>&nbsp;</p>
+
+<p>如果法律不要求养殖场主承担赔偿责任,情况会有所不同吗?</p>
+
+<p>&nbsp;</p>
+
+<p>It is necessary to know whether the damaging -business is liable or not for damage caused since without the establishment of this initial delimitation of rights there can be no marked transactions to transfer and recombine them. But the ultimate result (which</p>
+
+<p>maximizes the value of production) is independent of the legal position if the pricing system is assumed to work without cost.</p>
+
+<p>&nbsp;</p>
+
+<p>进一步分析的四个案例</p>
+
+<p>1.糖果商和医生;</p>
+
+<p>2.苇席制造者和化工厂;</p>
+
+<p>3. 来自邻居家的烟;</p>
+
+<p>4. 空气流通的权利.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>汉德规则</p>
+
+<p>船主防止损害发生的义务包括三个变量：(1) 驳船离位的概率（Probability）; (2)驳船离位致害的严重性（Liability）；(3)防范的代价（Burden）。 设&lsquo;概率&rsquo;为Ｐ，&lsquo;致害责任&rsquo;为Ｌ，防范措施的代价为Ｂ。那么，船主是否应承担责任，取决于Ｂ是否小于Ｐ与Ｌ的乘积，即是否Ｂ&le;ＰＬ，或者ＰＬ&ge;B。</p>
+
+<p>&nbsp;</p>
+
+<p>Palsgraf v. Long Island</p>
+
+<p>事故是如何发生的?</p>
+
+<p>&nbsp; 爆竹祸害是一个全球化的问题吗?</p>
+
+<p>一审法院的判决要点:</p>
+
+<p>&nbsp; (1)陪审团对事实的认定;(2)因果关系.</p>
+
+<p>纽约上诉法院推翻一审判决</p>
+
+<p>Cardozo法官的多数意见<br />
+&nbsp;</p>
+
+<p>（1）&nbsp;&nbsp;&nbsp;&nbsp; &ldquo;The conduct of the defendant&#39;s guard, if a wrong in its relation to the holder of the package, was not a wrong in its relation to the plaintiff, standing far away. Relatively to her it was not negligence at all. &hellip;&hellip;A guard stumbles over a package which has been left upon a platform. It seems to be a bundle of newspapers. It turns out to be a can of dynamite. To the eye of ordinary vigilance, the bundle is abandoned waste, which may be kicked or trod on with impunity. Is a passenger at the other end of the platform protected by the law against the unsuspected hazard concealed beneath the waste?&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>(2)&ldquo;The passenger far away, if the victim of a wrong at all, has a cause of action, not derivative, but original and primary. In this case, the rights that are said to have been violated, the interests said to have been invaded, are not even of the same order. The man was not injured in his person nor even put in danger. The purpose of the act, as well as its effect, was to make his person safe. If there was a wrong to him at all, which may very well be doubted, it was a wrong to a property interest only, the safety of his package. Out of this wrong to property, which threatened injury to nothing else, there has passed, we are told, to the plaintiff by derivation or succession a right of action for the invasion of an interest of another order, the right to bodily security. The diversity of interests emphasizes the futility of the effort to build the plaintiff&#39;s right upon the basis of a wrong to some one else. &hellip;&hellip;One who jostles one&#39;s neighbor in a crowd does not invade the rights of others standing at the outer fringe when the unintended contact casts a bomb upon the ground. The wrongdoer as to them is the man who carries the bomb, not the one who explodes it without suspicion of the danger. Life will have to be made over, and human nature transformed, before prevision so extravagant can be accepted as the norm of conduct, the customary standard to which behavior must conform&hellip;&hellip;What the plaintiff must show is &quot;a wrong&quot; to herself, i. e., a violation of her own right, and not merely a wrong to some one else, nor conduct &quot;wrongful&quot; because unsocial, but not &quot;a wrong&quot; to any one.</p>
+
+<p>(3) &ldquo;The risk reasonably to be perceived defines the duty to be obeyed, and risk imports relation; it is risk to another or to others within the range of apprehension. Even today, and much oftener in earlier stages of the law, one acts sometimes at one&#39;s peril. Under this head, it may be, fall certain cases of what is known as transferred intent, an act willfully dangerous to A resulting by misadventure in injury to B. These cases aside, wrong is defined in terms of the natural or probable, at least when unintentional&hellip;&hellip;The range of reasonable apprehension is at times a question for the court, and at times, if varying inferences are possible, a question for the jury. Here, by concession, there was nothing in the situation to suggest to the most cautious mind that the parcel wrapped in newspaper would spread wreckage through the station..</p>
+
+<p>（4）The law of causation, remote or proximate, is thus foreign to the case before us. The question of liability is always anterior to the question of the measure of the consequences that go with liability. If there is no tort to be redressed, there is no occasion to consider what damage might be recovered if there were a finding of a tort. We may assume, without deciding, that negligence, not at large or in the abstract, but in relation to the plaintiff, would entail liability for any and all consequences, however novel or extraordinary.</p>
+
+<p>ANDREWS 法官的不同意见</p>
+
+<p>（1）Judge ANDREWS &rsquo;point on negligence</p>
+
+<p>&ldquo;Where there is the unreasonable act, and some right that may be affected there is negligence whether damage does or does not result. That is immaterial. Should we drive down Broadway at a reckless speed, we are negligent whether we strike an approaching car or miss it by an inch. The act itself is wrongful. &rdquo;</p>
+
+<p>&ldquo;It may well be that there is no such thing as negligence in the abstract. &quot;Proof of negligence in the air, so to speak, will not do.&quot; In an empty world negligence would not exist. It does involve a relationship between man and his fellows. But not merely a relationship between man and those whom he might reasonably expect his act would injure. Rather, a relationship between him and those whom he does in fact injure. &rdquo;</p>
+
+<p>&ldquo;Every one owes to the world at large the duty of refraining from those acts that may unreasonably threaten the safety of others. Such an act occurs. Not only is he wronged to whom harm might reasonably be expected to result, but he also who is in fact injured, even if he be outside what would generally be thought the danger zone. &rdquo;</p>
+
+<p>&nbsp;&ldquo;But when injuries do result from our unlawful act we are liable for the consequences. It does not matter that they are unusual, unexpected, unforeseen and unforseeable. But there is one limitation. The damages must be so connected with the negligence that the latter may be said to be the proximate cause of the former.&rdquo;</p>
+
+<p>(2) Judge ANDREWS &rsquo;point on causation</p>
+
+<p>&ldquo;Any philosophical doctrine of causation does not help us. A boy throws a stone into a pond. The ripples spread. The water level rises. The history of that pond is altered to all eternity. It will be altered by other causes also. Yet it will be forever the resultant of all causes combined. Each one will have an influence. How great only omniscience can say.&hellip;&hellip;Each cause brings about future events. Without each the future would not be the same. Each is proximate in the sense it is essential. But that is not what we mean by the word. &rdquo;</p>
+
+<p>&ldquo; A cause, but not the proximate cause. What we do mean by the word &quot;proximate&quot; is, that because of convenience, of public policy, of a rough sense of justice, the law arbitrarily declines to trace a series of events beyond a certain point. This is not logic. It is practical politics.&rdquo;</p>
+
+<p>示例：M莽撞驾车，与一辆装有炸药的车相撞，发生爆炸。A正在人行道行走，在爆炸中丧生；B坐在窗前，被炸碎的玻璃划伤；C住在一个街区之外，也坐在窗前，受到与B相似的伤害；A 的保姆当时抱着小孩，在距离事故中心10个街区之外的人行道上散步，爆炸声给她造成极大的恐慌，她手里抱着的小孩掉到了地上。（按照当时的法律）大致可知的结局是：C不能获得赔偿，A可以获得赔偿；B能否获得赔偿，取决于是陪审团，还是法官回答这一问题；那个受伤的小孩不能获得赔偿。因为，M没有理由相信，他的行为会给C和小孩造成损害，换言之，C和小孩的伤害不是M的过失的最近结果。</p>
+
+<p>&ldquo;然而，最近原因也只是变通，没有固定的规则在支配我们的判决。只有我们（法官）应当考虑的事项。&hellip;&hellip;在(审判)的真实世界,不是理论,而是常理在指导我们裁判。It is all a question of expediency. There are no fixed rules to govern our judgment. There are simply matters of which we may take account. &hellip;&hellip;There is in truth little to guide us other than common sense.&rdquo;</p>
+
+<p>&ldquo;法庭必须自问：在原因和结果之间是否存在自然和连续的事件序列？此一事是否导致彼一事的实质要素？两者之间是否有直接联系，而不是介入了太多的干预原因？原因对于结果的影响是否太脆弱？按照常人的判断，原因是否可能产生结果？通过审慎的前瞻，结果是否可以预见？结果是否距离原因过分遥远？The court must ask itself whether there was a natural and continuous sequence between cause and effect. Was the one a substantial factor in producing the other? Was there a direct connection between them, without too many intervening causes? Is the effect of cause on result not too attentuated? Is the cause likely, in the usual judgment of mankind, to produce the result? Or by the exercise of prudent foresight could the result be foreseen? Is the result too remote from the cause, and here we consider remoteness in time and space.</p>
+
+<p>最后，谈谈我们必须裁决的案件。被告应当对之负责的行为是碰掉了表面上看上去是无害的包袱，后者落到了月台上。这一行为是过失，被告应当对它的最近后果负责。如果包袱的里面东西破损，那就对物主负责；如果包袱掉下的时候砸伤了乘客的脚，对该乘客负责。如果发生爆炸并且伤害了在附近的乘客，对伤者负责，就象我们前面谈到的那个示例中M对A负责一样。This last suggestion is the factor which must determine the case before us. The act upon which defendant&#39;s liability rests is knocking an apparently harmless package onto the platform. The act was negligent. For its proximate consequences the defendant is liable. If its contents were broken, to the owner; if it fell upon and crushed a passenger&#39;s foot, then to him. If it exploded [*356] and injured one in the immediate vicinity, to him also as to A in the illustration. &ldquo;Palsgraf 夫人当时站在一定距离之外，大约25到30英尺开外，或许更近。如果不是这次爆炸，她不会受伤。上诉人告诉我们&ldquo;不可否认的是，爆炸直接造成了原告的伤害。&rdquo;因此，爆炸是导致伤害的关键因素，在爆炸和伤害之间存在自然和连续的序列&mdash;&mdash;一种直接联系。唯一的干扰原因是，不是爆炸直接击倒了原告，而是气浪掀翻磅称，磅称击倒了原告。（原因和结果）在时间并不遥远，在空间上只是有一点点距离而已。象这么严重的爆炸，不需要什么了不起的前瞻力，就可以预见到它将会给距离事故中心不远的原告造成何种损害。Mrs. Palsgraf was standing some &mdash;&mdash;distance away. How far cannot be told from the record&mdash;apparently twenty-five or thirty feet. Perhaps less. Except for the explosion, she would not have been injured. We are told by the appellant in his brief &quot;it cannot be denied that the explosion was the direct cause of the plaintiff&#39;s injuries.&quot; So it was a substantial factor in producing the result&mdash;there was here a natural and continuous sequence&mdash;direct connection. The only intervening cause was that instead of blowing her to the ground the concussion smashed the weighing machine which in turn fell upon her. There was no remoteness in time, little in space. And surely, given such an explosion as here it needed no great foresight to predict that the natural result would be to injure one on the platform at no greater distance from its scene than was the plaintiff.</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li><a href="/category/10017">法律职业伦理</a></li>
+                                                                                                <li><a href="/category/10086">合同法</a></li>
+                                                                                                <li class="cur"><a href="/category/10087">侵权法</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

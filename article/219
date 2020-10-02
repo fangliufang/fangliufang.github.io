@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 第七单元：转承责任</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">第七单元：转承责任</div>
+                    <div class="content"><p>阅读材料 (下载：<a href="http://pan.baidu.com/s/1hqmU3ru">http://pan.baidu.com/s/1hqmU3ru</a>）<br />
+（1）徐凤珠诉留敏群和其雇工致人损害雇主应负转承赔偿责任纠纷案<br />
+（2）哈密铁路分局诉沈丘县运输公司车辆违章通过无人看守平交道口造成行车事故损害赔偿案<br />
+（3）Sexual Harassment Guidelines In HLS（1995）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+（4） Meghan E. Cherner-Ranft ， THE EMPTY PROMISE OF TITLE IX: WHY GIRLS NEED COURTS TO RECONSIDER LIABILITY STANDARDS AND PREEMPTION IN SCHOOL SEXUAL HARASSMENT CASES</p>
+
+<p>为什么雇主要代人受过?</p>
+
+<p>&ldquo;惟主是问（Respondeat superior）&rdquo;，仆人致人损害的诉讼规则.</p>
+
+<p>&ldquo;代人受过&rdquo; （vicarious liability）责任，雇员致人损害,其责任被认为是从雇员&ldquo;转承&rdquo;（to be imputed to, 归宗）到雇主.</p>
+
+<p>转承责任的合理性解释</p>
+
+<p>区分雇员职权内外的行为需要考量哪些因素?</p>
+
+<p>典型的转承责任:公司&ldquo;D&amp;O&rdquo;的责任保险</p>
+
+<p>原理</p>
+
+<p>保险标的</p>
+
+<p>核心条款</p>
+
+<p>实例:安然公司的&ldquo;D&amp;O责任保险&rdquo;</p>
+
+<p>Enron的&ldquo;D&amp;O&rdquo;责任保险合约摘录：1.(A)(1) The Insurer shall pay on behalf of the Directors and Officers any and all sums which they shall become legally obligated to pay as Ultimate Net Loss for which the Company has not provided reimbursement, by reason of any Wrongful Act which takes place during the Coverage Period and is actually or allegedly caused, committed or attempted by the Directors or Officers while acting in their respective capacity as Directors or Officers, provided the Ultimate Loss arises from a Claim first made again the Director of Officer during the Policy Period or during the Discovery Period, if purchased. (2) The Insurer shall pay on behalf of the Company any and all sums it has occurred, as required of permitted by applicable common of statutory law or under provisions of the Company&rsquo;s Charter or Bylaws effected pursuant to such law, as Ultimate Net Loss, to indemnify Directors or Officers for Ultimate Net Loss which they are legally obligated to pay by reason of any Wrongful Act which takes place during the Coverage Period and is actually or allegedly caused, committed or attempted by the Directors or Officers while acting in their respective capacity as Directors or Officers, provided the Ultimate Loss arises from a Claim first made again the Director of Officer during the Policy Period or during the Discovery Period, if purchased&hellip;&hellip;.(Q)</p>
+
+<p>&nbsp;</p>
+
+<p>The term &ldquo;wrongful act&rdquo; shall mean any actual or alleged breach of duty, neglect error, misstatement, misleading statement or omission actually or alleged caused, committed or attempted by and directors or officers shall be deemed &ldquo;wrongful act&rdquo;</p>
+
+<p>&hellip;&hellip;</p>
+
+<p>&nbsp;</p>
+
+<p>性骚扰与转承责任</p>
+
+<p>&nbsp;</p>
+
+<p>性骚扰：一个跨越文化差异的全球现象</p>
+
+<p>&nbsp;</p>
+
+<p>美国天主教神甫的性丑闻</p>
+
+<p>U.S. Laws Pose Risk of Steep Penalties</p>
+
+<p>ADAM LIPTAK</p>
+
+<p>&nbsp;</p>
+
+<p>NYT, April 23, 2002</p>
+
+<p>&nbsp;</p>
+
+<p>The sex abuse crisis facing the Roman Catholic Church in the United States has one distinctly American aspect（显著的美国特色）: it is shadowed by the threat of huge damage awards in lawsuits. Catholic churches in other nations are also grappling with abuse claims similar in magnitude and moral force, but they do so largely without the added risk of crushing money judgments.</p>
+
+<p>&nbsp;</p>
+
+<p>Estimates of the financial exposure of Roman Catholic dioceses in the United States range from $300 million to more than $1 billion.</p>
+
+<p>&nbsp;</p>
+
+<p>&quot;These numbers are just unheard of if you look at what&#39;s happening around the world,&quot; said Mark E. Chopko, the general counsel of the United States Conference of Catholic Bishops.</p>
+
+<p>&nbsp;</p>
+
+<p>That is because the American system has a handful of peculiarities largely unknown elsewhere in the world, and they have conspired to increase the church&#39;s exposure, said Mary Ann Glendon, a professor at Harvard Law School. These attributes to the adversary system, contingent fees, the requirement that each side bear its own litigation costs, punitive damages and juries are considered immutable first principles by many American lawyers but are controversial elsewhere.</p>
+
+<p>&hellip;&hellip;</p>
+
+<p>Even in Britain, where the legal system is similar to that of this country, recoveries are much smaller. In June, for example, a British judge awarded damages of $7,200 to $68,000 to each of 13 plaintiffs who were sexually abused in a foster care center in Wales.</p>
+
+<p>&nbsp;</p>
+
+<p>Juries are rare in Britain and all but unknown in civil cases elsewhere in the world. By contrast, a Texas jury ordered the Dallas diocese to pay a total of $120 million to 11 plaintiffs, including several altar boys who were the victims of sex abuse. The case was settled for $31 million.&quot;You&#39;re not going to get this sort of award overseas,&quot; said Richard A. Epstein, a law professor at the University of Chicago.</p>
+
+<p>&hellip;&hellip;&hellip;</p>
+
+<p>Mr. Merchant&#39;s law firm represents more than 6,000 plaintiffs in sexual abuse claims against residential schools in Western Canada, many of them run by the Catholic church. &quot;If you lose a couple of legs in Canada, you only get a couple of hundred thousand dollars while in the U.S. you might get a couple of million.&quot;</p>
+
+<p>&nbsp;</p>
+
+<p>The American tort system may also affect public perceptions of the scope of the problem. &quot;Claims of sexual misconduct by priests are certainly not unheard of in Europe,&quot; said John J. Barcelo III, a professor at Cornell Law School, in an e-mail message from Budapest, where he is a visiting professor at the Central European University. &quot;But one might expect a larger number in the U.S. because of the influence of larger likely recoveries.&ldquo; He added, &quot;This is not to say that there are more such cases of priestly misconduct in the U.S. than in Europe, just that the litigation system and the greater access to courts and higher recoveries in the U.S. would work to encourage such claims.&quot;</p>
+
+<p>&nbsp;</p>
+
+<p>The financial impact of abuse lawsuits against dioceses in the United States will be significant but probably not catastrophic, said Joseph Claude Harris&hellip;&hellip;. &quot;It&#39;s material in Boston,&quot; he noted. &quot;It&#39;s not material in most places. Probably half a dozen dioceses have experienced material impacts.&quot;</p>
+
+<p>&nbsp;</p>
+
+<p>Individual dioceses&lsquo; ability to pay depends mostly on their insurance coverage, which varies, and their assets, which are largely in real estate. They cumulatively collect about $7.5 billion in revenue each year, Mr. Harris said.(赔偿能力)</p>
+
+<p>&hellip;..&hellip;</p>
+
+<p>While the clergy abuse cases illuminate the many stark differences between American and other legal systems, few seem ready to argue that the financial risks they pose for dioceses here are a cause for concern. The claims are too compelling in human terms. &quot;You&#39;re not going to get smart people who believe in tort reform to make this their test case,&quot; Professor Epstein said.</p>
+
+<p>&nbsp;</p>
+
+<p>性骚扰在当代中国的严重程度</p>
+
+<p>一项针对北京市民的调查表明，接受调查的女性中，曾经遭遇过性骚扰的人高达71%。来自网上的调查数据同样表明，在日常生活中，有超过六成的人遭遇过性骚扰，其中，经常受到性骚扰的人近三成。&rdquo;&ldquo;全国妇联婚姻与家庭研究所调查发现，性骚扰受害者77%为22到25岁的未婚女青年，大多数从事文职或技术工作。除了在工作环境中所发生的具有特定目标的性骚扰之外，还有许多其它目标不明确甚至是对陌生人所施加的盲目而随机的性骚扰，如公共汽车、地铁、火车、卧铺式长途客车、飞机、轮船、电梯等场所；此外，过去认为是净土的校园也成为性骚扰的一个&lsquo;重灾区&rsquo;，学生成为遭受性骚扰的重点人群之一。&rdquo;&ldquo;中国社会科学研究院社会学所副研究员唐灿曾就性骚扰问题对广东、北京等地的&ldquo;外来妹&rdquo;进行过调查，结果显示，在珠江三角洲，至少三分之一的&ldquo;外来妹&rdquo;遭受过性骚扰，而在北京这个比例高达60%以上。&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>性骚扰的表现形式、严重程度与哪些因素有关? ------ 与文化传统有关 ----- 与人际关系的平等性有关 -----与竞争的公平程度有关</p>
+
+<p>&nbsp;</p>
+
+<p>性骚扰与侵权诉讼：以美国为例</p>
+
+<p>要点概述</p>
+
+<p>&nbsp;</p>
+
+<p>民权法案49年</p>
+
+<p>&nbsp;</p>
+
+<p>1976年，美国联邦法院第一次确认，第7条有关性别歧视的规定包含了对性骚扰的禁止。在1970-80年代，越来越多的法院承认了性骚扰的案由。如果一个妇女声称，她因为拒绝和雇主发生性行为而被解雇或者受到纪律处分，她可以根据《民权法案》第7条而提出&ldquo;交易式&rdquo;（quid pro quo harassment）性骚扰之诉。1986年，美国联邦最高法院确认：性骚扰是工作场合的敌对行为，如果雇主制造和纵容存在一个敌对的工作环境，受害人可以根据《民权法案》第7条提出&ldquo;敌对工作环境&rdquo;(hostile work environment)之诉。</p>
+
+<p>&nbsp;</p>
+
+<p>HLS反性骚扰指南&gt;有关性骚扰定义1. Quid pro quo harassment. Submission to or rejection of sexual advances, sexual overtures, or requests for sexual favors shall not be made a ground for any decision relating to employment, academic performance, extracurricular activities, or entitlement to services or opportunities at Harvard Law School.Commentary No one&#39;s standing or opportunities at Harvard Law School should depend on submission to or rejection of sexual advances or requests for sexual favors. Decision-making on these bases is an affront to the dignity of those who are immediately affected and creates an environment of fear, degradation, resentment, and suspicion that is incompatible with the Law School&#39;s mission and ideals.2.</p>
+
+<p>&nbsp;</p>
+
+<p>Harassment through sexual relationships and requests to initiate romantic or sexual relationships between faculty and students. No Law School faculty member shall request or accept sexual favors from or solicit a romantic or sexual relationship with any student who is enrolled in a course taught by that faculty member or otherwise subject to that faculty member&#39;s academic supervision before a final grade on the student&#39;s supervised academic performance has been submitted to the Registrar.3. Harassment through requests for sexual favors, sexual advances, or other speech or conduct of a sexual nature.</p>
+
+<p>&nbsp;</p>
+
+<p>No member of the Law School community shall subject any other member of the Law School community to any request for sexual favors, any sexual advance, or any other speech or conduct of a sexual nature that(i) is unwelcome; and (ii) is abusive or unreasonably recurring or invasive; and (iii) has the purpose or effect of unreasonably interfering with an individual&#39;s work or academic performance or creating an intimidating, demeaning, degrading, hostile, or otherwise seriously offensive working or educational environment at Harvard Law School; provided that no speech or combination of speech and conduct shall be deemed violative of this guideline if it is reasonably designed or intended to contribute to legal or public education, academic inquiry, or reasoned debate on issues of public concern or is protected by the Massachusetts Civil Rights Act or the First Amendment.</p>
+
+<p>&nbsp;</p>
+
+<p>性骚扰和转承责任</p>
+
+<p>&nbsp;</p>
+
+<p>5．官员执行公务致人损害的转承责任问题（思考）</p>
+
+<p>&nbsp;</p>
+
+<p>请阅读案例两则.</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li><a href="/category/10017">法律职业伦理</a></li>
+                                                                                                <li><a href="/category/10086">合同法</a></li>
+                                                                                                <li class="cur"><a href="/category/10087">侵权法</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>
