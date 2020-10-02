@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 方流芳就中欧法学院名称受侵害给校方的紧急报告（2012年12月8日）</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">方流芳就中欧法学院名称受侵害给校方的紧急报告（2012年12月8日）</div>
+                    <div class="content"><p style="text-align: left">xxx:</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">12月6日上午，我在互联网检索中欧法学院相关信息的时候发现：从2012年&nbsp;7月到8月，汉堡大学法学院擅自以中欧法学院英文全称和简称在欧共体商标和设计注册署注册了商标。这是中国政法大学校方必须认真对待的重大事件。</p>
+
+<p>&nbsp;</p>
+
+<p>上述5个商标目前的详情如下：</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="-webkit-text-stroke-width:0px; background-color:rgb(188,211,229); color:rgb(70,70,70); font:14px simsun; letter-spacing:normal; margin:0px; padding-bottom:0px; padding-left:0px; padding-right:0px; padding-top:0px; text-align:left; text-indent:0px; text-transform:none; white-space:normal; width:846px; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>
+			<p>商标</p>
+			</td>
+			<td>
+			<p>EU-China School of Law(word mark)</p>
+			</td>
+			<td>
+			<p>China-EU School of Law (figurative mark)</p>
+			</td>
+			<td>
+			<p>China-EU School of Law(word mark)</p>
+			</td>
+			<td>
+			<p>CESL</p>
+
+			<p>(word mark)</p>
+			</td>
+			<td>
+			<p>ECSL</p>
+
+			<p>(word mark)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>申请时间</p>
+			</td>
+			<td>
+			<p>2012.8.31</p>
+			</td>
+			<td>
+			<p>2012.7.20</p>
+			</td>
+			<td>
+			<p>2012.7.19</p>
+			</td>
+			<td>
+			<p>2012.7.18</p>
+			</td>
+			<td>
+			<p>2012.7.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>公示期间</p>
+			</td>
+			<td>
+			<p>-----</p>
+			</td>
+			<td>
+			<p>2012.9.4</p>
+			</td>
+			<td>
+			<p>------</p>
+			</td>
+			<td>
+			<p>2012.8.8-2012.11.7</p>
+			</td>
+			<td>
+			<p>2012.8.8-2012.11.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>目前状态</p>
+			</td>
+			<td>
+			<p>审查期</p>
+			</td>
+			<td>
+			<p>公示日</p>
+			</td>
+			<td>
+			<p>审查期</p>
+			</td>
+			<td>
+			<p>已注册</p>
+			</td>
+			<td>
+			<p>已注册</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="text-align: left">商标公示期是三个月，第二个商标申请公示日是2012年9月4日，按照三个月计算公示期已过，但是OHIM网站查询显示还处于公示期，可能是由于网站更新有滞后。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">CESL是中国政法大学中欧法学院英文名的简称，它包含着以下专属权利：（1）中国教育部批准的专用名称；（2）国家商标局注册的、以中国政法大学为唯一所有人的41类商标；（3）中国工信部注册的中国政法大学中欧法学院的专属域名。ECSL是我院为防止CESL商标假冒、恶意注册而设定的保护性注册。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">本院申请的另外三项商标&ldquo;China EU School of Law&rdquo;、&ldquo;EU China School of Law&rdquo;以及包含图标和中国政法大学中欧法学院英文全称的标识已经在今年4月被商标局驳回。现继续在与商标局交涉复议问题。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">如果汉堡大学申请的以上商标全部获得成功，而驳回中国政法大学商标申请的决议最终生效，这意味着我们在与外方接触的时候不能合法地使用中欧法学院的英文名称和图标，不能以中欧法学院的名义在海外推广和招生，所有以中欧法学院或者中国政法大学中欧法学院的名义与汉堡大学之外的欧洲院校合作都将面临法律障碍。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">CESL名称和图标是价值无量的表征，它凝聚着中方5年的努力，凝聚着全体师生为学院赢得的声誉。中欧法学院在海外的排名、在英文互联网的存在都和CESL结合在一起。一旦汉堡大学赢得以上商标权，那意味着我们所做的一切都被它偷盗了&mdash;&mdash;我们丢失的不仅是知识产权、商标权，也丢失了起码的尊严。在这种情况下，如果中国政法大学保持沉默，甚至继续与汉堡大学合作，那就没有任何主权意识，也不在乎全面放弃办学主导权。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">按照欧共体商标和设计注册署（OHIM）的规则，利害关系人须在公告期内提出异议，须通过OHIM认可的商标代理提出异议。我建议，立即采取以下措施：</p>
+
+<p style="text-align: left">（1）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今天下午，通过传真，将异议声明打印在印有&ldquo;中国政法大学中欧法学院&rdquo;中英文全称和图标的信纸上，立即发送给OHIM，并表示将尽快通过商标代理正式提出异议。</p>
+
+<p style="text-align: left">（2）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今天下午，通过电子邮件，向汉堡大学的尤翰林表示抗议，要求他立即撤回商标申请。</p>
+
+<p style="text-align: left">（3）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今天下午，立即在中欧法学院网站发表与（1）、（2）内容相同和中文和英文声明。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">附件就是我草拟的声明。如果中国政法大学不愿发表这样的声明，我将以中欧法学院主要行政负责人的身份发表，情况急迫，我无法接受外国人抢走中欧法学院的事实。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">5月份，黄校长去汉堡的前一天，我再三告诫：审计、商标和中方院长去留这三件事绝对不能纳入谈判范围，结果谈话不欢而散。在谈判过程中，汉堡大学明确表示：汉堡大学将在欧洲另行申请商标，黄校长哼哼哈哈，不置可否。<strong>在外方看来，他们已经履行了告知义务，只有中方没有坚定地反对或者表示也将在欧洲申请商标，这就是中方的默许。</strong>嗣后，黄校长声称，商标问题没有纳入&ldquo;校长备忘录&rdquo;，这是外方的一个让步，真是颟頇无能，不辨善恶。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">黄校长、学校外办与汉堡大学之间的一切接触，包括书信往来本应对我公开，对学校党委公开，而现在这一部分信息变成了汉堡大学和黄校长之间、与学校外办之间掌握的、只对中方一线工作人员保密的信息。这样的工作方式等于把我暴露在外方打击范围，并且引导外方如何向我进攻。在管理委员会会议上，外方要求黄校长公布他和欧盟大使的协议，当时我大吃一惊，尔后才知道确实存在这样的协议。鉴于这样的情况，我不得不怀疑：在商标问题上，黄校长是否同意汉堡大学在欧洲申请商标？</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">自从欧盟大使给黄校长写信之后，在一切有关中欧法学院的所有问题上，如：学费、单项中国法学硕士、预算、管理委员会会议备忘录、合伙人会议、欧盟评估专家报告、外方院长工作签证和合同、中方院长去留、商标、财务审计、中方出资&hellip;&hellip;，黄校长的行为在客观上都给外方全面控制中欧法学院扫清了障碍。本来汉堡大学的尤翰林、布哈只是XX，但自从黄进校长站在他们一边之后，XX变成了XX。</p>
+
+<p style="text-align: left">​</p>
+
+<p style="text-align: left">谢谢关注！</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">方流芳</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">附件：</p>
+
+<p><strong>关于汉堡大学以本院英文名称及其简称在&ldquo;欧洲共同体商标和设计注册署&rdquo;（</strong><strong>OHIM</strong><strong>）申请其商标注册的声明</strong></p>
+
+<p style="text-align: left"><strong>&nbsp;</strong></p>
+
+<p style="text-align: left">CESL是中国教育部批准成立的&ldquo;中国政法大学中欧法学院（China-EU School of Law at China University of Political Science and Law）&rdquo;的英文简称，是在中国商标局注册的中国政法大学的商标，是在中国工信部备案的中国政法大学中欧法学院的域名。2008年9月25日至2012年12月8日，中欧法学院网站日均访问量为1571.42人次。谷歌搜索&ldquo;CESL&rdquo;的第一条结果即为&ldquo;中国政法大学中欧法学院&rdquo;（China EU School of Law, CUPL），不仅表明中国政法大学中欧法学院的国际知名度，也表明中欧法学院是从属于中国政法大学的一个学院。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">在事先没有做任何努力去征得它的合伙人&mdash;&mdash;中国政法大学&mdash;&mdash;同意，事后没有告知中国政法大学的情况下，从2012年7月18日到8月31日，汉堡大学先后用&ldquo;CESL&rdquo;、&ldquo;ECSL&rdquo;、&ldquo;China EU School of Law&rdquo; （文字和图标）、&ldquo;EU China School of Law&rdquo;在欧共体商标和设计署（OHIM）申请了5项商标注册，其中：&ldquo;CESL&rdquo;和&ldquo;ECSL&rdquo;已经在11月15日获准在OHIM注册为41、 42、45类商标, 汉堡大学为该商标所有人; 另有一项在公示期，两项在审查期。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p>有关原始信息，请点击：<a href="http://trademark.markify.com/trademark-representative/ctm/christian+gahrmann/59881" style="color: rgb(62,115,160); text-decoration: none" target="_blank" title="">http://trademark.markify.com/trademark-representative/ctm/christian+gahrmann/59881</a>；</p>
+
+<p style="text-align: left"><a href="http://oami.europa.eu/CTMOnline/RequestManager/en_Detail_NoReg" style="color: rgb(62,115,160); text-decoration: none" target="_blank" title="">http://oami.europa.eu/CTMOnline/RequestManager/en_Detail_NoReg</a></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">汉堡大学悄悄地用中国政法大学的一个学院的名称在欧洲注册商标，这不仅是不当挪用中国政法大学的知识产权，而且剥夺了中国政法大学在商标公示期内的异议权&mdash;&mdash;由于汉堡大学封锁了信息，作为&ldquo;中欧法学院&rdquo;名称的唯一所有人，中国政法大学无法在公示期内发表异议。直到2012年12月6日，中国政法大学才从OHIM网站得知上述商标已经注册的消息。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">在申请商标之前，汉堡大学知道：这一申请在实质上始终无效，因为，该申请将与汉堡大学对中国政法大学的以下承诺和它所接受的、具有约束力的以下规则发生冲突：</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">（1）&nbsp;&ldquo;China EU School of Law at CUPL&rdquo;是一个不可分割的名称，只是在作为&ldquo;China-EU School of Law at CUPL&rdquo;的缩写的时候，才可以使用CESL。(&ldquo;组建中国政法大学中欧法学院的中外合作办学协议&rdquo;第4.1条)</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">（2）&nbsp;作为中国政法大学的一个不具有法人资格的学院，中欧法学院的全部知识产权属于中国政法大学。(&ldquo;组建中国政法大学中欧法学院的中外合作办学协议&rdquo;第4.3条)</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">（3）&nbsp;作为一个适用中国法律的教育机构，中欧法学院与以汉堡大学为唯一受益人的、以&ldquo;资助合同&rdquo;为基础的 &ldquo;欧洲中国法学院&rdquo; (the project of Europe China School of Law )项目从来没有重合。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p>（4）在汉堡大学提出同一申请一年半前，中国政法大学于2011年1月18日就&ldquo;CESL&rdquo;、&ldquo;ECSL&rdquo;、&ldquo;China EU School of Law&rdquo;&ldquo;EU China School of Law&rdquo;在中国申请了41类商标注册，中国政法大学事先将此信息通知了汉堡大学，汉堡大学代表表示赞成。在商标局受理中国政法大学申请之后，中欧法学院立即在其网站公布了相关信息，以便潜在的利益相关人士提出异议。(<a href="http://www.cesl.edu.cn/eng/ecslintro2view.asp?id=742" style="color: rgb(62,115,160); text-decoration: none" target="_blank" title="">http://www.cesl.edu.cn/eng/ecslintro2view.asp?id=742</a>，2011年3月16日发布 )</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">（5）&nbsp;2012年4月27日，中欧法学院收到商标局通知，&ldquo;CESL&rdquo;和&ldquo;ECSL&rdquo;两项商标申请获得批准，中欧法学院在第二天（4月28日）就公布该信息(<a href="http://www.cesl.edu.cn/eng/ecslintro2view.asp?c=1&amp;id=1284" style="color: rgb(62,115,160); text-decoration: none" target="_blank" title="">http://www.cesl.edu.cn/eng/ecslintro2view.asp?c=1&amp;id=1284</a>&nbsp;)，并通知汉堡大学，至今未收到任何异议。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">结论：</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">在合伙关系中，合伙人的诚实义务不允许汉堡大学用它的合伙人的名称去注册一个属于汉堡大学的商标，合伙人不能因其违反义务的行为获利。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">无论按照&ldquo;中外合作办学协议&rdquo;、&ldquo;合伙协议&rdquo;、&ldquo;资助合同&rdquo;，无论按照中国法、<a class="SG_linka" href="http://2014.sina.com.cn/teams/germany.html" style="color: rgb(73,73,97); text-decoration: none" target="_blank">德国</a>法还是欧盟法，汉堡大学都不能对合伙人隐瞒信息，以自己为唯一所有人，以&ldquo;CESL&rdquo;、&ldquo;ECSL&rdquo;、&ldquo;China EU School of Law&rdquo;、&ldquo;EU China School of Law&rdquo;文字和图标在OHIM申请商标注册。</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li class="cur"><a href="/category/10053">信息公开</a></li>
+                                                                                                <li><a href="/category/10054">会谈纪要</a></li>
+                                                                                                <li><a href="/category/10055">评论</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 第六单元 交通事故、医疗事故</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">第六单元 交通事故、医疗事故</div>
+                    <div class="content"><p>阅读材料：<a href="http://pan.baidu.com/s/1c0AJqr2">http://pan.baidu.com/s/1c0AJqr2</a></p>
+
+<p>&nbsp;</p>
+
+<p>道路交通事故在中国有多严重?</p>
+
+<p>&nbsp;</p>
+
+<p>死亡人数</p>
+
+<p>车祸的真实情况比&ldquo;道路交通事故&rdquo;的统计数字更为严重</p>
+
+<p>道路交通事故为什么直线上升?</p>
+
+<p>什么是法律意义上的道路交通事故?</p>
+
+<p>事故发生于道路事故有车辆加入事故与交通有关不包括来自人力不可抗拒的原因所造成的事故和故意造成的事故具有损害后果的事故</p>
+
+<p>&nbsp;</p>
+
+<p>责任和赔偿的一般原则和主要规则:&lt;道路交通安全法&gt;第76条</p>
+
+<p>第七十六条 机动车发生交通事故造成人身伤亡、财产损失的，由保险公司在机动车第三者责任强制保险责任限额范围内予以赔偿。超过责任限额的部分，按照下列方式承担赔偿责任：</p>
+
+<p>（一）机动车之间发生交通事故的，由有过错的一方承担责任；双方都有过错的，按照各自过错的比例分担责任。</p>
+
+<p>（二）机动车与非机动车驾驶人、行人之间发生交通事故的，由机动车一方承担责任；但是，有证据证明非机动车驾驶人、行人违反道路交通安全法律、法规，机动车驾驶人已经采取必要处置措施的，减轻机动车一方的责任。</p>
+
+<p>&nbsp;</p>
+
+<p>交通事故的损失是由非机动车驾驶人、行人故意造成的，机动车一方不承担责任。 什么是机动车第三人责任强制保险?</p>
+
+<p>为什么保险公司在第三人责任强制保险的&ldquo;责任限额范围内&rdquo;先予赔偿?</p>
+
+<p>保险公司理赔之前,受害人如何得到救助?</p>
+
+<p>如何确定责任承担者?</p>
+
+<p>机动车之间的交通事故</p>
+
+<p>机动车和非机动车驾驶人 行人之间的交通事故。</p>
+
+<p>我国道路交通事故责任认定的特点</p>
+
+<p>主管机关认定</p>
+
+<p>非讼程序认定</p>
+
+<p>重新认定为不可争辩的最终认定</p>
+
+<p>&nbsp;</p>
+
+<p>如何进行损害赔偿？</p>
+
+<p>（1）医疗费：按照医院对当事人的交通事故创伤治疗所必须的费用计算，凭据支付。结案后确需继续治疗的，按照治疗必需的费用给付。（2）误工费：当事人有固定收入的，按照本人因误工减少的固定收入计算，对收入高于交通事故发生地平均生活费三倍以上的，按照三倍计算；无固定收入的，按照交通事故发生地国营同行业的平均收入计算。（3）住院伙食补助费：按照交通事故发生地国家机关工作人员的出差伙食补助标准计算。（4）护理费：伤者住院期间，护理人员有收入的，按照误工费的规定计算；无收入的，按照交通事故发生地平均生活费计算。（5）残疾者生活补助费：根据伤残等级，按照交通事故发生地平均生活费计算。自定残之月起，赔偿二十年。但五十周岁以上的，年龄每增加一岁减少一年，最低不少于十年；七十周岁以上的按五年计算。（6）残疾用具费：因残疾需要配制补偿功能的器具的，凭医院证明按照普及型器具的费用计算。（7）丧葬费：按照交通事故发生地的丧葬费标准支付。（8）死亡补偿费：按照交通事故发生地平均生活费计算，补偿十年。对不满十六周岁的，年龄每小一岁减少一年；对七十周岁以上的，年龄每增加一岁减少一年，最低均不少于五年。（9）被扶养人生活费：以死者生前或者残者丧失劳动能力前实际扶养的、没有其他生活来源的人为限，按照交通事故发生地居民生活困难补助标准计算。对不满十六周岁的人抚养到十六周岁。对无劳动能力的人扶养二十年，但五十周岁以上的，年龄每增加一岁减少一年，最低不少于十年；七十周岁以上的按五年计算。对其他的被扶养人扶养五年。（10）交通费：按照当事人实际必需的费用计算，凭据支付。（11）住宿费：按照交通事故发生地国家机关一般工作人员的出差住宿标准计算，凭据支付。（12）参加处理交通事故的当事人亲属所需交通费、误工费、住宿费&hellip;&hellip; 按照当事人的交通事故责任分担，但计算费用的人数不得超过三人。（13）交通事故的伤者和残者需要住院、转院、护理的，应当有医院证明，并经公安机关同意。擅自住院、转院、使用护理人员、自购药品或者超过医院通知的出院日期拒不出院的，其费用由伤者和残者承担。（14）因交通事故损坏的车辆、物品、设施等，应当修复，不能修复的，折价赔偿。牲畜因伤失去使用价值或者死亡的，折价赔偿。</p>
+
+<p>&nbsp;</p>
+
+<p>谁承担赔偿责任？</p>
+
+<p>汽车事故的出路：过失责任，还是无过失赔偿？</p>
+
+<p>对过失责任切中要害的批评</p>
+
+<p>The fault requirement will still produce erratic and inconsistent results: dishonest plaintiffs will too often prevail and honest ones suffer; costly and painful delays will still occur; and too many victims who are no less deserving of compensation than the successful plaintiffs will get nothing at all. And they believe that the litigation process is an expensive luxury which the American motorist can no longer afford, especially since it does not operate to sort out deserving and undeserving claimants.</p>
+
+<p>Edwards J. Kionka, Torts(1992),p.265</p>
+
+<p>&nbsp;</p>
+
+<p>什么是医疗事故？</p>
+
+<p>谁负责鉴定医疗事故？</p>
+
+<p>如何启动鉴定程序？</p>
+
+<p>医疗事故</p>
+
+<p>医疗事故的官方定义</p>
+
+<p>&nbsp;</p>
+
+<p>第二条 本条例所称医疗事故，是指医疗机构及其医务人员在医疗活动中，违反医疗卫生管理法律、行政法规、部门规章和诊疗护理规范、常规，过失造成患者人身损害的事故。（医疗事故处理条例，2002）</p>
+
+<p>&nbsp;</p>
+
+<p>第二条 本办法所称医疗事故是指在诊疗护理工作中，因医护人员诊疗护理过失，直接造成病员死亡、残废、组织器官损伤导致功能障碍的。（医疗事故处理办法，1987）</p>
+
+<p>&nbsp;</p>
+
+<p>与侵权法有关的两个概念：专业渎职（malpractice）医疗渎职（medical malpractice）</p>
+
+<p>医疗事故的属性</p>
+
+<p>医疗事故鉴定</p>
+
+<p>提起首次医疗事故鉴定的途径：</p>
+
+<p>&nbsp;</p>
+
+<p>第一，双方当事人一致同意的委托鉴定。医患双方协商解决医疗事故争议，需要进行医疗事故技术鉴定，由双方当事人共同书面委托负责首次医疗事故技术鉴定工作的医学会组织鉴定，医学会对单方面委托的鉴定申请不受理。</p>
+
+<p>&nbsp;</p>
+
+<p>第二，卫生行政管理部门移交鉴定。县级以上卫生行政部门接到医疗机构关于重大医疗过失行为的报告或者医疗事故争议当事人要求处理医疗事故的申请后，对需要进行医疗事故技术鉴定的，书面移交负责首次鉴定的医学会组织鉴定。</p>
+
+<p>&nbsp;</p>
+
+<p>第三，法院审理医疗损害赔偿纠纷案件时，依职权或当事人申请移交委托负责首次鉴定的医学会组织鉴定。</p>
+
+<p>&nbsp;</p>
+
+<p>以上叙述的法律根据：</p>
+
+<p>《医疗事故处理条例》第二十条 卫生行政部门接到医疗机构关于重大医疗过失行为的报告或者医疗事故争议当事人要求处理医疗事故争议的申请后，对需要进行医疗事故技术鉴定的，应当交由负责医疗事故技术鉴定工作的医学会组织鉴定；医患双方协商解决医疗事故争议，需要进行医疗事故技术鉴定的，由双方当事人共同委托负责医疗事故技术鉴定工作的医学会组织鉴定。</p>
+
+<p>最高人民法院关于参照《医疗事故处理条例》审理医疗纠纷民事案件的通知（法[2003]20号）第二条：人民法院在民事审判中，根据当事人的申请或者依职权决定进行医疗事故司法鉴定的，交由条例所规定的医学会组织鉴定。因医疗事故以外的原因引起的其他医疗赔偿纠纷需要进行司法鉴定的，按照《人民法院对外委托司法鉴定管理规定》组织鉴定。 ?</p>
+
+<p>&nbsp;</p>
+
+<p>提起再次鉴定的途径：</p>
+
+<p>&nbsp;</p>
+
+<p>对首次医疗事故鉴定结论持有异议的（&ldquo;不服&rdquo;），自收到首次鉴定结论之日起15日内向医疗机构所在地的卫生行政部门提出再次鉴定的申请。</p>
+
+<p>卫生行政部门应当自收到申请之日起７日内交由省、自治区、直辖市地方医学会组织再次鉴定。</p>
+
+<p>&nbsp;</p>
+
+<p>法律根据：</p>
+
+<p>第二十二条 当事人对首次医疗事故技术鉴定结论不服的，可以自收到首次鉴定结论之日起１５日内向医疗机构所在地卫生行政部门提出再次鉴定的申请。</p>
+
+<p>&nbsp;</p>
+
+<p>第三十九条 卫生行政部门应当自收到医疗事故争议处理申请之日起１０日内进行审查，作出是否受理的决定。对符合本条例规定，予以受理，需要进行医疗事故技术鉴定的，应当自作出受理决定之日起５日内将有关材料交由负责医疗事故技术鉴定工作的医学会组织鉴定并书面通知申请人；对不符合本条例规定，不予受理的，应当书面通知申请人并说明理由。 当事人对首次医疗事故技术鉴定结论有异议，申请再次鉴定的，卫生行政部门应当自收到申请之日起７日内交由省、自治区、直辖市地方医学会组织再次鉴定。</p>
+
+<p>&nbsp;</p>
+
+<p>赔偿和诉讼</p>
+
+<p>如何解决赔偿争议？</p>
+
+<p>&nbsp;</p>
+
+<p>（1）在医疗事故鉴定之后，医患双方可协商解决赔偿问题；</p>
+
+<p>（2）不愿意协商或者协商不成的，双方当事人可以向卫生行政部门提出赔偿调解申请，任何一方面可以直接向人民法院提起医疗事故损害赔偿之诉；</p>
+
+<p>（3）调解不成或者经调解达成协议后一方反悔的，卫生行政部门不再调解。</p>
+
+<p>确定赔偿范围需考虑的因素？</p>
+
+<p>第四十九条 医疗事故赔偿，应当考虑下列因素，确定具体赔偿数额： （一）医疗事故等级； （二）医疗过失行为在医疗事故损害后果中的责任程度； （三）医疗事故损害后果与患者原有疾病状况之间的关系。</p>
+
+<p>不属于医疗事故的，医疗机构不承担赔偿责任。</p>
+
+<p>&nbsp;</p>
+
+<p>赔偿范围</p>
+
+<p>（1）医疗费；（2）误工费：患者有固定收入的，按照本人因误工减少的固定收入计算，对收入高于医疗事故发生地上一年度职工年平均工资３倍以上的，按照３倍计算；无固定收入的，按照医疗事故发生地上一年度职工年平均工资计算；（3）住院伙食补助费：按照医疗事故发生地国家机关一般工作人员的出差伙食补助标准计算；（4）陪护费：患者住院期间需要专人陪护的，按照医疗事故发生地上一年度职工年平均工资计算；（5）残疾生活补助费：根据伤残等级，按照医疗事故发生地居民年平均生活费计算，自定残之月起最长赔偿３０年；但是，６０周岁以上的，不超过１５年；７０周岁以上的，不超过５年；（6）残疾用具费：因残疾需要配置补偿功能器具的，凭医疗机构证明，按照普及型器具的费用计算；（7）丧葬费：按照医疗事故发生地规定的丧葬费补助标准计算；（8）被扶养人生活费：以死者生前或者残疾者丧失劳动能力前实际扶养且没有劳动能力的人为限，按照其户籍所在地或者居所地居民最低生活保障标准计算。对不满１６周岁的，扶养到１６周岁。对年满１６周岁但无劳动能力的，扶养２０年；但是，６０周岁以上的，不超过１５年；７０周岁以上的，不超过５年；（9）交通费：按照患者实际必需的交通费用计算，凭据支付；（10）住宿费：按照医疗事故发生地国家机关一般工作人员的出差住宿补助标准计算，凭据支付；（11）精神损害抚慰金：按照医疗事故发生地居民年平均生活费计算。造成患者死亡的，赔偿年限最长不超过６年；造成患者残疾的，赔偿年限最长不超过３年。12）参加医疗事故处理的患者近亲属所需交通费、误工费、住宿费，参照有关规定计算，计算费用的人数不超过２人。 （13）医疗事故造成患者死亡的，参加丧葬活动的患者的配偶和直系亲属所需交通费、误工费、住宿费，计算费用的人数不超过２人。 医疗事故赔偿费用，实行一次性结算，由承担医疗事故责任的医疗机构支付。</p>
+
+<p>如果不属医疗事故，如何得救济？</p>
+
+<p>【标题】徐玉娥与临安市顺溪镇卫生院人身损害赔偿纠纷案</p>
+
+<p>【审判程序】一审</p>
+
+<p>【裁判法院】浙江省临安市人民法院</p>
+
+<p>【文书制作日期】2001/12/12</p>
+
+<p>【裁判文书类型】判决书</p>
+
+<p>【内容分类】民事权属、侵权及不当得利、无因管理纠纷</p>
+
+<p>【文号】(2001)临民初字第882号</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>浙江省临安市人民法院民事判决书 （２００１）临民初字第８８２号</p>
+
+<p>&nbsp;</p>
+
+<p>原告徐玉娥，女，１９５９年１０月２日出生，汉族，临安市人，农民，住临安市清凉峰镇祝川村。</p>
+
+<p>&nbsp;</p>
+
+<p>委托代理人俞伟成，浙江钱王律师事务所律师。</p>
+
+<p>&nbsp;</p>
+
+<p>被告临安市顺溪镇卫生院。住所地临安市清凉峰镇顺溪村。</p>
+
+<p>&nbsp;</p>
+
+<p>法定代表人邵小康，院长。</p>
+
+<p>&nbsp;</p>
+
+<p>委托代理人黄选平，浙江临安燎原法律事务所法律工作者。</p>
+
+<p>&nbsp;</p>
+
+<p>原告徐玉娥为与被告临安市顺溪镇卫生院人身损害赔偿纠纷一案，于２００１年１１月１５日诉至本院。本院于当日受理后，依法组成合议庭，于２００１年１２月６日公开开庭进行了审理。原告徐玉娥及其委托代理人俞伟成，被告法定代表人邵小康及其委托代理人黄选平均到庭参加诉讼。本案现已审理终结。</p>
+
+<p>&nbsp;</p>
+
+<p>原告徐玉娥诉称：我于１９８６年生育二胎后，响应计生政策号召在临安市颊口镇卫生院放置了节育环。１９９５年我又意外地带环怀孕。为此，我到被告处做了人流手术，之后又被放置了&ldquo;Ｔ&rdquo;型节育环。术后我即经期不正常，出血量大量增多且不止，并常有剧烈疼痛，日常工作受到严重影响，夫妻感情一度恶化，差点导致离婚。经多方求医问药均无效。１９９９年５月１３日经颊口镇卫生院Ｘ线检查才得知我被一身放置两环，一为&ldquo;Ｏ&rdquo;型环，一为&ldquo;Ｔ&rdquo;型环。同年５月１５日在被告医院取出&ldquo;Ｔ&rdquo;型环，但&ldquo;Ｏ&rdquo;型环因位偏而无法取出。后经治疗于同年６月３０日在临安市计划生育技术指导站取出&ldquo;Ｏ&rdquo;型环。２０００年８月８日，原顺溪镇人民政府邀请临安市卫生局召集我与被告进行调解，因被告仅同意补偿２０００元而调解失败。后我向临安市医疗事故技术鉴定委员会提出鉴定申请，该委于２００１年７月２５日作出临医鉴定（２００１）０２号鉴定结论，认为该医疗事件不属医疗事故，但分析意见认为&ldquo;一身带两节育环情况属实，医务人员不按常规操作造成&rdquo;。因被告医务人员的不当操作致使我一身带两环，给我造成了身体伤害和精神痛苦。故诉至法院，要求被告赔偿我医疗费１９８１元，误工费２５５元，车旅费８４元，鉴定费６００元，精神损失费１８０００元，合计人民币２０９２０元。</p>
+
+<p>&nbsp;</p>
+
+<p>为证明上述事实，原告向本院提交了如下证据：</p>
+
+<p>&nbsp;</p>
+
+<p>１．临医鉴字（２００１）０２号临安市医疗事故技术鉴定委员会文件１份。</p>
+
+<p>&nbsp;</p>
+
+<p>２．临安市顺溪镇人民政府证明１份。</p>
+
+<p>&nbsp;</p>
+
+<p>３．朱艳芬的证明１份。</p>
+
+<p>&nbsp;</p>
+
+<p>４．临安市顺溪镇祝川村经济合作社的证明１份。</p>
+
+<p>&nbsp;</p>
+
+<p>５．临安市人民医院病历卡２本及医疗费收据１份；临安市颊口镇卫生院门诊病历２本，医疗费票据４份及Ｘ线检查报告单２份；临安市计划生育技术指导站门诊病历１份及医疗费票据１份。</p>
+
+<p>&nbsp;</p>
+
+<p>６．金额为８４元的车旅费票据１８张。</p>
+
+<p>&nbsp;</p>
+
+<p>７．临安市卫生局医疗鉴定费票据１份。</p>
+
+<p>&nbsp;</p>
+
+<p>被告临安市顺溪镇卫生院辩称：该案已由临安市医疗事故技术鉴定委员会作出不属于医疗事故的鉴定，且该鉴定已生效。原告所患的尿频尿急、霉菌性阴道炎、腹胀等疾病与宫内两环也无直接的因果关系，而放置节育环也是国家计生政策规定的。我院给原告放环前未作常规检查主要是因为当时我院没有Ｂ超机和放射科，故该案我院不构成侵权，也无过错。但出于同情我院可作适当的补偿。</p>
+
+<p>&nbsp;</p>
+
+<p>为证明上述事实，被告向本院提交了如下证据：</p>
+
+<p>&nbsp;</p>
+
+<p>１．临安市顺溪镇人民政府计划生育办公室出具的证明１份。</p>
+
+<p>&nbsp;</p>
+
+<p>２．临安市颊口镇卫生院的处方笺１份及门诊病人日志２份。</p>
+
+<p>&nbsp;</p>
+
+<p>３．被告所属后头分院的证明１份。</p>
+
+<p>&nbsp;</p>
+
+<p>４．被告出具的证明１份。</p>
+
+<p>&nbsp;</p>
+
+<p>５．江平幸出具的证明１份。</p>
+
+<p>&nbsp;</p>
+
+<p>６．原告在被告处就医时的处方笺４张。</p>
+
+<p>&nbsp;</p>
+
+<p>经庭前交换证据及庭审质证，本院认证如下：</p>
+
+<p>&nbsp;</p>
+
+<p>（一）被告对原告提供的证１、证２、证７本身无异议，原告对被告提供的证２、证３、证６本身无异议。上述证据本院予以确认。</p>
+
+<p>&nbsp;</p>
+
+<p>（二）被告对原告提供的证３有异议，认为人工流产和放环不是同一时间，原告指出该份证据仅证明原告到被告医院做人流手术及放置&ldquo;Ｔ&rdquo;型节育环的事实，该事实有原告提供的证１予以印证，对此本院予以认定。</p>
+
+<p>&nbsp;</p>
+
+<p>（三）被告对原告提供的证４有异议，认为村委会无权作证明且该份证明的公章系&ldquo;临安县顺溪镇祝川村经济合作社&rdquo;。该份证明缺乏证据的形式要件，证明单位与公章不符，对此本院不予确认。</p>
+
+<p>&nbsp;</p>
+
+<p>（四）被告对原告提供的证５本身数额没有异议，但指出该份证据中有１份病历被撕掉１张，且原告看的是盆腔炎等疾病，与其没有关系。结合证据及本案实际，合议庭对原告取环前在临安市颊口镇卫生院所作的检查、治疗费用以及在临安市计划生育技术指导站所花的费用合计人民币１５９元予以确认。对原告取环后于１９９９年９月９日在临安市人民医院所作的治疗费用票据不作为本案的定案证据。</p>
+
+<p>&nbsp;</p>
+
+<p>（五）被告对原告提供的证６本身无异议，但认为不应由其支付车旅费。</p>
+
+<p>&nbsp;</p>
+
+<p>（六）原告对被告提供的证１认为与本案无关，且计生服务站系服务性组织，没有进行监测不是原告的过错。合议庭认为原告一身带两环的事实已经确认，是否进行监测不能否认该事实，故该证据不作定案证据。</p>
+
+<p>&nbsp;</p>
+
+<p>（七）原告对被告提供的证４有异议，认为被告单位没有Ｂ超和放射科不是原告的过错，不能减轻被告的责任，且该份证据仅是被告自己出具的说明。合议庭认为原告的质疑有理，予以认可。</p>
+
+<p>&nbsp;</p>
+
+<p>（八）原告对被告提供的证５有异议，认为证人与本案有利害关系，不能作为证据使用。合议庭认为该份证据证人系被告单位职工，与本案有利害关系，缺乏证明效力。对此，不予确认。</p>
+
+<p>&nbsp;</p>
+
+<p>经庭审中双方当事人的陈述及举证、质证，本院查明的原告放环、取环的时间、经过以及一身带两环的事实与原告诉称所述一致，本院予以认定。</p>
+
+<p>&nbsp;</p>
+
+<p>本院认为：原告徐玉娥带环怀孕到被告临安市顺溪镇卫生院做人流手术后，被告未对原告作常规检查而轻信原放置的&ldquo;Ｏ&rdquo;型环已脱落，又给其放置了&ldquo;Ｔ&rdquo;型节育环，致使原告一身被放置两只节育环，侵害了原告的身体健康权，对此，被告有过错，理应承担赔偿责任。原告诉称因被告的放环行为致使其出现腹痛、盆腔炎、尿道感染等疾病而要求被告赔偿损失，却未提供两者间有必然的因果关系的证据，对此产生的医疗费用及误工费、车旅费本院不予认可，但其取环前的检查及取环费用应予支持。其要求被告承担车旅费、误工费、应与其取环前接受检查及取环经过相当，经合议庭评议，确认车旅费为３８元、误工费为４７．３４元。被告的过错行为给原告造成了精神上的损害，其应承担责任。但原告要求被告赔偿精神损失费数额偏高，结合其一身带两环的时间及造成的后果等因素，经合议庭评议，确认为７０００元为宜。被告以放环前未对原告作常规检查系受自身医疗条件的限制且原告是同意的为由，提出其无过错，不构成侵权的辩称，无提供相应的证据佐证，该理由也不能免除其过错责任，对此，本院不予采纳。原告要求被告承担鉴定费６００元，因该鉴定不属医疗事故，对此请求本院不予支持。据此，依照《中华人民共和国民法通则》第一百一十九条、最高人民法院《关于确定民事侵权精神损害赔偿责任若干问题的解释》第一条第一款第（一）项、第八条第二款之规定，判决如下：</p>
+
+<p>&nbsp;</p>
+
+<p>一、被告临安市顺溪镇卫生院赔偿给原告徐玉娥医疗费１５９元，车旅费３８元，误工费４７．３４元，合计人民币２４４．３４元。</p>
+
+<p>&nbsp;</p>
+
+<p>二、被告临安市顺溪镇卫生院赔偿给原告徐玉娥精神损害抚慰金７０００元。</p>
+
+<p>&nbsp;</p>
+
+<p>上述两款合计人民币７２４４．３４元，限被告于本判决生效后十日内付清。</p>
+
+<p>&nbsp;</p>
+
+<p>三、驳回原告的其他诉讼请求。</p>
+
+<p>&nbsp;</p>
+
+<p>本案受理费８４７元，由原告徐玉娥负担３４７元，被告临安市顺溪镇卫生院负担５００元。</p>
+
+<p>&nbsp;</p>
+
+<p>如不服本判决，可在判决书送达之日起十五日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于浙江省杭州市中级人民法院。并向浙江省杭州市中级人民法院预交上诉案件受理费８４７元（浙江省杭州市中级人民法院开户银行为工行湖滨分理处，帐号为１２０２０２４４０９００８８０２９６８）。在上诉期满之日起七日内仍未交纳的，按自动撤回上诉处理。 审 判 长 魏柏森</p>
+
+<p>审 判 员 杜方云</p>
+
+<p>审 判 员 陶祖法</p>
+
+<p>二○○一年十二月十二日</p>
+
+<p>代理书记员 谢忠强</p>
+
+<p>&nbsp;</p>
+
+<p>*** 国家信息中心【国家法规数据库】提供，仅供参考 ***</p>
+
+<p>&nbsp;</p>
+
+<p>案例1：计划生育手术不属医疗事故</p>
+
+<p>&nbsp;</p>
+
+<p>案例2：实习医生造成的事故不属医疗事故</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li><a href="/category/10017">法律职业伦理</a></li>
+                                                                                                <li><a href="/category/10086">合同法</a></li>
+                                                                                                <li class="cur"><a href="/category/10087">侵权法</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

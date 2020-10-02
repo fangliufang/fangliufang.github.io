@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 联席院长薪酬信息公开</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">联席院长薪酬信息公开</div>
+                    <div class="content"><p style="text-align: left">《高等学校信息公开办法》第7条规定：&ldquo;高等学校应当主动公开以下信息：（九）&hellip;&hellip;年度经费预算决算方案&hellip;&hellip;&rdquo;。显然，学院预算属信息公开范畴，联席院长薪酬为预算项目之一，理应公开。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">在本院成立之前，本院两位联席院长薪酬就由汉堡大学列入《资助合同》附件&ldquo;项目预算&rdquo;的1.1.3项，货币单位为欧元，其中：欧方院长预算月薪为14,000欧元/月，中方院长预算月薪为4,000欧元/月（按照2008年8月第一笔欧元兑换为人民币的汇率，1欧元=10元人民币）。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">欧方院长预算月薪既是合同月薪，也是税前工资。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">2008-2012年，中方院长方流芳税前工资一直是每月40,000元，扣除个人所得税7,741.75元，税后实发工资32,258.25元，其预算工资和合同工资则逐年有所变动，详情参见以下表格。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">按照财务规则，项目每年调整年度预算，工资亦随年资、物价上涨而略有上浮。<strong>2008-2012年，中方院长将超时工作应得报酬作为中国政法大学对项目的人力出资，上限为他的每年预算工资总额和每年税前工资总额之差，即不突破预算</strong>。2008-2011年财务审计确认：中方院长在此期间应领而未领之超时工作报酬总额为2,702,003.76元，该数额计为中国政法大学对项目的人力投入。2012年，中方院长应领而未领之超时工作报酬尚待审计确认，预估超过已往4年的平均数。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">2008-2012年，中方院长工资变动一览表</p>
+
+<table border="1" cellpadding="2" cellspacing="0" style="-webkit-text-stroke-width:0px; background-color:rgb(188,211,229); color:rgb(70,70,70); font:14px simsun; letter-spacing:normal; margin:0px; padding-bottom:0px; padding-left:0px; padding-right:0px; padding-top:0px; text-align:left; text-indent:0px; text-transform:none; white-space:normal; width:98%; word-spacing:0px">
+	<tbody>
+		<tr>
+			<td>年份</td>
+			<td>2008</td>
+			<td>2009</td>
+			<td>2010</td>
+			<td>2011</td>
+			<td>2012</td>
+		</tr>
+		<tr>
+			<td>预算工资<br />
+			欧元/月</td>
+			<td>4,000</td>
+			<td>4,000</td>
+			<td>5,000</td>
+			<td>12,500</td>
+			<td>8,333</td>
+		</tr>
+		<tr>
+			<td>合同工资<br />
+			元/月</td>
+			<td>40,000</td>
+			<td>40,000</td>
+			<td>40,000</td>
+			<td>125,000</td>
+			<td>125,000</td>
+		</tr>
+		<tr>
+			<td>税前工资<br />
+			元/月</td>
+			<td>40,000</td>
+			<td>40,000</td>
+			<td>40,000</td>
+			<td>40,000</td>
+			<td>40,000</td>
+		</tr>
+		<tr>
+			<td>税后实发工资<br />
+			元/月</td>
+			<td>32,258.25</td>
+			<td>32,258.25</td>
+			<td>32,258.25</td>
+			<td>32,258.25</td>
+			<td>32,258.25</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">制定2012年预算时，本院管理委员会一名欧方委员、知名法学教授写信给本院所有的合伙人，称：&ldquo;欧方联席院长的预算工资水平是如此之低，以致对任何胜任和杰出的候选人都绝对没有吸引力。（欧方联席院长）工资必须与真实水平匹配，以吸引那些能干而体面的人担任此职。&rdquo;（&quot;The salary in the budget for the European co-dean is absolutely so low as not to attract any good and excellent candidates. That salary must be adapted to a real level so as to enable people with prestige to become a co-dean.&quot;）方流芳不以为然，他回复说：第一任欧方院长既胜任此职又高雅体面，同样数额的薪酬吸引了第二任欧方院长来此任职一年，可见，无须改变欧方院长现有的预算工资；同时，他也主张：中方院长和欧方院长的工资至少应当相当，因为国籍、种族与工资标准无关。</p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">2012年，汉堡大学中断拨款之后，中方院长两次向校方提出书面申请，要求调低工资。（方流芳）</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li class="cur"><a href="/category/10053">信息公开</a></li>
+                                                                                                <li><a href="/category/10054">会谈纪要</a></li>
+                                                                                                <li><a href="/category/10055">评论</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

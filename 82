@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 关于非经济损害法定最高赔偿额的合宪性争议</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li class="active"><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">关于非经济损害法定最高赔偿额的合宪性争议</div>
+                    <div class="content"><p style="text-align:center">&mdash;&mdash;BEST v. TAYLOR（179 Ill. 2d 367 (1997)）案摘要</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center">方流芳</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p>立法者就侵权行为所造成的&ldquo;非经济损害&rdquo;设定最高赔偿额是否违宪？肯定或者否定的回答都能在美国找到事实和法理依据。在产品缺陷、医疗过失、交通事故致人损害诉讼中，高额损害赔偿促使公司和个人购买责任保险，而保险费开支的上升又拉高了产品和医疗服务价格，于是，&ldquo;改革&rdquo;侵权法的呼声此起彼落。从上个世纪70年代开始，美国一些州先后制定法律，就&ldquo;非经济损失&rdquo;设定最高赔偿额，但此类法律不断面临合宪性挑战，在一些州，法院倾向于宣布这些法律整体或部分违宪；在另一些州，法院倾向于驳回当事人对法律合宪性的挑战。</p>
+
+<p>&nbsp;</p>
+
+<p>然而，既然侵权法的目标是赔偿，&ldquo;一刀切&rdquo;地限定最高赔偿额，显然背离侵权法的宗旨，所以，侵权法的&ldquo;改革者&rdquo;通常将最高赔偿额限于&ldquo;非经济损失&rdquo;、&ldquo;医疗过失&rdquo;、&ldquo;工伤事故&rdquo;、&ldquo;汽车交通事故&rdquo;，而避免涉及&ldquo;可补偿的损害&rdquo;或&ldquo;实际损害&rdquo;。除了若干例外，&ldquo;惩罚性赔偿&rdquo;在美国是普通法的领域，尽管保险公司一直在游说&ldquo;惩罚性赔偿&rdquo;的最高额，但障碍还是不容易逾越。侵权法&ldquo;改革&rdquo;也是美国的政治标签：共和党主张&ldquo;改革&rdquo;，而民主党则持&ldquo;保守&rdquo;态度。目前，美国设有法定最高赔偿额的州大约占一半左右。</p>
+
+<p>&nbsp;</p>
+
+<p>法律限定最高赔偿额如何违反了宪法？在什么背景下，宪法问题进入诉讼？谁提出问题，谁回答问题？法律推理的进路如何？关注、研究和思考这些真实的法律问题，与提出和讨论中国自身的法律问题只有一步之遥。</p>
+
+<p>&nbsp;</p>
+
+<p>我试图以贝斯特诉泰勒一案（BEST v. TAYLOR，179 Ill. 2d 367 (1997)），伊利诺伊州最高法院的法律意见为示例说明上述问题，阅读该法律意见英文全文，请登陆<a href="https://www.state.il.us/court/Opinions/SupremeCourt/1997/default.asp">https://www.state.il.us/court/Opinions/SupremeCourt/1997/default.asp</a>。需要说明的是，该法律意见为两案合并审理，涉及法律问题不限于法定赔偿额的合宪性，而我的摘要仅涉及与法定赔偿额合宪性有关的那一部分，余不赘述。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>1.</strong> <strong>案件背景&nbsp;&nbsp;&nbsp;</strong></p>
+
+<p>&nbsp;</p>
+
+<p>1.1 原告是美国伊利诺伊州Laclede钢铁公司的一名吊车司机。1995年7月24日，原告用吊车搬运钢水时，车架突然崩塌，燃烧的钢水形成一个火球，瞬间点燃和吞没了原告。原告跳下吊车，双脚后跟粉碎性骨折，全身40%的皮肤二度和三度烧伤, 永久性毁容，在医院经历了若干次痛苦不堪的外科手术。原告以产品缺陷致人损害为由，在初审法院起诉吊车生产商Taylor公司、销售商Allied公司和钢水生产商Helm公司。原告要求赔偿现在和将来的收入损失、医疗费开支、身体疼痛和精神痛苦。原告主张，他的实际损失将超过伊利诺伊州民事诉讼改革法案（Justice Reform Amendments of 1995, Public Act 89-7, 本文以下简称：&ldquo;89-7号法&rdquo;）限定的&ldquo;非经济损失&rdquo;的最高赔偿额50万美元。原告不挑战89-7号法，就无法达到诉讼目的，因此原告请求法院审查89-7号法的合宪性，授予原告确认和禁令救助（declaratory and injunctive relief），即：确认89-7号法违宪；颁发&ldquo;冻结&rdquo;89-7号法的禁令。原告认为：89-7号法以改革为名，设置专断和悖理的分类标准，阻断有实益的诉讼，违反了该州宪法的相关规定（Const.1970, art. IV, &sect;&ensp;13、art. I, &sect;&ensp;2、art. II, &sect;&ensp;1、art. I, &sect;&ensp;13和art. I, &sect;&ensp;12)。</p>
+
+<p>&nbsp;</p>
+
+<p>1.2 89-7号法规定：&ldquo;在所有普通法诉讼、制定法诉讼和其他诉讼中，凡以过失或产品缺陷（无论以产品责任的何种理论为基础）造成死亡、身体伤害、财产损害为由而主张的损害赔偿，非经济损失的赔偿以每名原告50万美元为限。乐趣感受的损害不在赔偿范围。735 ILCS 5/2-1115.1(a)&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>&ldquo;无形损失，包括而不限于疼痛和痛苦、能力丧失、毁容、夫妻失和和社交缺失&rdquo;；经济损失为&ldquo;全部有形损失，如：已往和未来的医疗费用支出、进账收入或创收能力损失，以及其他财产损失。735 ILCS 5/2-1115.2(b) &rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>1.3初审法院认定89-7号法的2-1115.1款违反了该州宪法的六个条款：特别立法的限制(Ill. Const.1970, art. IV, &sect;&ensp;13)、平等保护(Ill. Const.1970, art. I, &sect;&ensp;2)、权力分立(Ill. Const.1970, art. II, &sect;&ensp;1)、得有陪审团参审的权利(Ill. Const.1970, art. I, &sect;&ensp;13)和获得司法救助的权利(Ill. Const.1970, art. I, &sect;&ensp;12)。</p>
+
+<p>&nbsp;</p>
+
+<p>被告上诉到州最高法院。州最高法院将此案与另一涉及工伤赔偿的案件合并审理。</p>
+
+<p>&nbsp;</p>
+
+<p>州最高法院裁定89-7号法的有关非经济损害的最高赔偿额的规定(735 ILCS 5/2-1115.1）违反州宪法，&ldquo;由于违宪条款不能与法律的其他部分相分离，因此89-7号法作为一个整体全部无效。&rdquo;</p>
+
+<p>McMORROW法官代表法院陈述了法律意见。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>2.</strong> <strong>法律问题</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>2.1</strong> <strong>原告的请求是否具有值得法院审理的成熟性？（Ripeness</strong><strong>）</strong></p>
+
+<p>&nbsp;</p>
+
+<p>被告主张：原告的请求不具有值得法院审理的成熟性（ripeness），看不到原告对89-7号法的合宪性具有诉讼利益。</p>
+
+<p>&nbsp;</p>
+
+<p>McMORROW法官认为：原告身体受到伤害，请求损害赔偿，无论陪审团判赔几多，都无法回避89-7号法有关&ldquo;非经济损害&rdquo;不超过50万美元的限制，因此原告请求审查89-7号法的合宪性并非造事兴讼，而是与本人利益直接相关，构成了一个成熟的诉讼请求。&emsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>2.2</strong> <strong>作为立法基础的&ldquo;立法发现&rdquo;的合理性</strong></p>
+
+<p>&nbsp;</p>
+
+<p>州立法当局在制定89-7号法的时候声称，制定该法以下列发现为基础：(1)限定非经济损害的赔偿能够改善农村医疗服务；(2) 美国已有超过20个州限定了非经济损害的赔偿限额；(3)在限定非经济损害赔偿的那些州，医疗成本显著减少；(4) 非经济损失没有金钱维度，没有任何客观标准或学说可用来衡量非经济损害；(5)那些审理案件事实的人常常按照他们乖谬无常的主观偏好去裁断非经济损害赔偿；(6) 乖谬无常的非经济损害赔偿颠覆了赔偿的可信性，消解了侵权法的阻吓作用；(7) 非经济损害的赔偿应当给所有当事人和整个社会提供稳定性和一致性，并以此为限；(8) 立法是改革侵权行法最有效的方法，因为通过立法可以减少诉讼成本和促成和解。</p>
+
+<p>&nbsp;</p>
+
+<p>被告主张：89-7号法的立法目的和特定目标就是为了让侵权法回归公平、可预见性、责任性和理性，非经济损害的最高额给侵权损害赔偿注入了理性。</p>
+
+<p>&nbsp;</p>
+
+<p>原告的相反见解是：消耗司法资源最多的群体不是那些遭遇人身伤害的个人原告，而是生意人，立法当局的所谓&ldquo;发现&rdquo;全然缺乏实证研究基础，不足以构成令人信服的论据。站在原告一边的专家证人、杜克大学法学教授Neil Vidmar指出：作为立法依据的发现大多是想当然的臆想，例如：限定非经济损害赔偿减少了医疗开支的说法全然没有根据，印第安纳州在1975年就限定了非经济损害的最高赔偿额，医疗开支反而增加了；没有任何研究表明，限定非经济损害赔偿能够减少医疗开支。威斯康辛大学法学院的&nbsp;&nbsp; 教授指出：89-7号法唯一的效果是增强了保险公司的营利能力而减少了受害人获得的赔付。</p>
+
+<p>&nbsp;</p>
+
+<p>McMORROW法官认为：&ldquo;法院没有权力&lsquo;审理&rsquo;立法发现的精准度，立法事实发现的广泛权威应得到司法认同。.......法院不要求立法者就法律需要改革之事提供令人信服的理由。&rdquo;&ldquo;法院的任务是裁决受到挑战的立法是否合宪，而不是该立法是否明智。&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>2.3</strong> <strong>特别立法的合宪审查</strong></p>
+
+<p>&nbsp;</p>
+
+<p>2.3.1原告主张：89-7号法的2-1115.1款构成了特别立法，因为该法只是给非经济损害可能超过50万美元的侵权受害人带来不利，而那些非经济损害低于50万美元的受害人却能得到全额赔偿。</p>
+
+<p>&nbsp;</p>
+
+<p>2.3.2伊利诺伊州宪法规定：&ldquo;当一般法应当或能够适用的时候，议会不能制定特别法或地方法。一般法是否应当或能够适用，得由法院裁决。&rdquo;（&ldquo;The General Assembly shall pass no special or local law when a general law is or can be made applicable. &ensp; Whether a general law is or can be made applicable shall be a matter for judicial determination.&rdquo;&ensp;Ill. Const.1970, art. IV, &sect;&ensp;13.）</p>
+
+<p>&nbsp;</p>
+
+<p>2.3.3&nbsp; McMORROW法官解释宪法的特别立法条款：（1）&ldquo;特别立法的宪法条款明文禁止议会给予某一个人或群体特殊利益或排他特权，而将其他类似处境的人排除在外。&rdquo;&ensp;（2）&ldquo;本法院一直强调，有关特别立法的宪法条款的目的是阻止专断的立法分类，防止立法歧视或交好某一选定的群体而缺乏坚实的合理基础。&rdquo;（3）&ldquo;禁止特别立法起源于十九世纪，是针对议会滥用立法权，授予经济实体特许状而设立的。&rdquo;McMORROW法官引用宪法辩论时的发言&ldquo;人民创立政府，不是为了让富人更富，穷人更穷，更不是为了扩张少数人的利益而侵犯大众，而是为了让弱者不免受摆布，穷人与富人享受同等的权利。&rdquo;I Debates, at 578 (remarks of Delegate Anderson) &nbsp;(4) 只有在一般法不能适用的情况下，才有特别立法的空间，而&ldquo;一般法是否应当或能够适用，得由法院裁决&rdquo;，这就是现行宪法明文授权法院就特别立法行使违宪审查权。根据法院的先例，&ldquo;法院必须审查法定分类是否与合法的国家利益存在合理联系。&rdquo;（&ldquo;.......a court must determine whether the statutory classification is rationally related to a legitimate State interest.&rdquo;）</p>
+
+<p>&nbsp;</p>
+
+<p>2.3.4法院判断一个以分类为基础法律是否违宪，重点考察分类与公共利益的关系。如果立法隐含着一个狭隘的目标&mdash;&mdash;缺乏正当理由而向特殊群体输送利益&mdash;&mdash;特别立法就是违宪的，这是法院的一贯标准。</p>
+
+<p>&nbsp;</p>
+
+<p>原告以法院的三个先例为依据，请求法院宣布89-7号法的2-1115.1款无效。法院认同原告的主张，回顾了三个相关的先例。</p>
+
+<p>&nbsp;</p>
+
+<p>在Wright案，法院裁决：法律限定医疗事故最高赔偿额，违背了平等保护和禁止惠及特别群体的宪法规则。该案被告主张：法律限定医疗事故的赔偿，正是为了应对侵权责任危机，特别是医疗事故的责任危机。而法院认同原告的意见：侵权损害赔偿诉讼固然导致保险费上升，但政府本应努力遏制保险公司滥用优势而任意提高保费，而不是通过设定损害赔偿上限，把政府管制保险公司的负担转移给本应受到保护的群体&mdash;&mdash;那些因侵权行为而受到严重伤害的当事人&mdash;&mdash;因此，限定医疗事故最高赔偿额的法律是专断的、不合理的特别立法，该立法赋予侵权行为人特权，使之免于承担全额赔偿的责任。</p>
+
+<p>&nbsp;</p>
+
+<p>在Grace案，法院裁决：限定汽车事故赔偿最高额的伊利诺伊州保险法构成&ldquo;专断而不合理的立法分类。&rdquo;被告争辩说，传统侵权法面临着诉讼成本高、效率低下和补偿资金分配困难的困境，保险法是为了回应这些问题，（侵权法）改革总需要迈开脚步。但是，法院坚持认为：&ldquo;普通法赔偿制度存在问题，并不意味着法院可以允许立法者用一个专断的或者毫不相干的方法去解决问题。&rdquo;&ldquo;法院不能因为&lsquo;改革需要迈开脚步&rsquo;而允许立法当局自由制定特别法。&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>在Grasse 案, 法院废除了制造专断分类的工人赔偿法的一个条款。该法条规定：如果雇员在工作中因第三人的侵权行为而受到伤害，其诉权自动转移给他的雇主。法院认为，该法条实际上将侵权行为人分类两类：如果侵权行为人本身是伊利诺伊州的雇主，受害人是本州其他公司的雇员，侵权行为人无赔偿责任，受害人向自己的雇主索赔，后者再向侵权行为人索赔，而工人赔偿法也设定了最高赔偿额。因此，一个人能否得到充分赔偿，取决于致害人是否受工人赔偿法约束：如果是，受害人就不能得到全额赔偿；如果不是，受害人就能得到全额赔偿。法院认为，这种分类是专断的。</p>
+
+<p>&nbsp;</p>
+
+<p>2.3.5在本案，原告主张：89-7号法的2-1115.1款将产品缺陷致人损害分成了三个类型：A型：区分缺陷产品造成人身伤害是严重还是轻微；B型：区分不同类别的有形损害；C型：区分不同的伤害类型。原告一一指出了类型划分的不合理：</p>
+
+<p>&nbsp;</p>
+
+<p>（1）A型分类的不合理。假设原告A、B、C因同一被告的过失而受伤害。A受伤轻微，B受伤稍重，而C受到永久不可恢复的损伤，而陪审团裁决A和B分别获得10万美元补偿，C获得100万美元补偿。A和B的伤情不同，陪审团给予A、B同一数额的补偿显然不妥，但法条却没有包含任何使陪审团裁决保持一致性和合理性的规则；另一方面，陪审团对C的裁决超过法定最高线，将自动减少为50万美元，而陪审团的裁决究竟错在哪里，却不会有任何司法审查。</p>
+
+<p>&nbsp;</p>
+
+<p>（2）B型分类的不合理。如果一个人先后在两次事故中各丢失一条腿，分别提出两次诉讼，每次诉讼都要求赔偿40，000万元，法律会满足这一要求。然而，如果一个人在一次事故中丢失了两条腿，他却只能提出不超过50，000元的赔偿。像这样专断的法律，几乎不需要结合任何具体事实，就可以认定它是无效的。</p>
+
+<p>&nbsp;</p>
+
+<p>（3）C型分类的不合理。立法目的声称要覆盖整个非经济损害，而具体法律条文仅仅覆盖了人身伤害，而不包括侵犯隐私、诽谤、故意或过失造成他人精神痛苦、损害他人名誉和违反托人义务而造成的非经济损害，而对这种两类侵权行为区别，缺乏任何正当理由，只能被解释为在客观上允许一部分侵权行为人获得部分赔偿的特权，而另一部分侵权行为人却要全额赔偿。</p>
+
+<p>&nbsp;</p>
+
+<p>被告的抗辩理由是，非经济损害不可衡量，2-1115.1条款正是为了减少实现正义所消耗的的&ldquo;系统成本&rdquo;，需迈出了走向正义的改革的一步；议会有权修改普通法；美国其他州已经制定了类似的规定。</p>
+
+<p>&nbsp;</p>
+
+<p>McMORROW法官一一驳回了被告的抗辩：</p>
+
+<p>&nbsp;</p>
+
+<p>（1）被告并不否认非经济损害是一个真实的存在，只是主张&ldquo;金钱不可补偿非经济损害&rdquo;、非经济损害&ldquo;历来不可考量&rdquo;，而立法却将&ldquo;可补偿损失&rdquo;（compensatory damages）或&ldquo;实际损失&rdquo;（actual damage）界定为&ldquo;经济损失和非经济损失的总和&rdquo;，这说明被告竭力支持的立法意图认定非经济损失是可以考量的。</p>
+
+<p>&nbsp;</p>
+
+<p>（2）衡量非经济损失存在困难，并不能推导出需要给非经济损失的赔偿设定上限，因为立法目的声称是要给&ldquo;那些因他人过失或故意的不法行为而受到伤害的人求取赔偿而提供一种法制机制。&rdquo;而限定非经济赔偿的规则违背和损害了声称的目标。</p>
+
+<p>&nbsp;</p>
+
+<p>（3）跨出&ldquo;改革的一步&rdquo;，在任何情况下都不能成为制定特别立法的正当理由。</p>
+
+<p>&nbsp;</p>
+
+<p>（4）被告充满自信地说，减少&ldquo;侵权法的系统成本&rdquo;的立法利益足以压倒原告对立法的一切挑战，但是，89-7号法并没有提到减少&ldquo;侵权法的系统成本&rdquo;，法官也无从推测这一术语的含义。&ldquo;即使我们假定减少这一缺乏定义的系统成本呢是一个合法的国家利益，我们也不明白：限制人身伤害的非经济损害如何与追求这一利益存在着合理关系。</p>
+
+<p>&nbsp;</p>
+
+<p>（5）被告主张，制定法有权改变普通法，这没什么错，而原告也没有说制定法不能改变普通法。但是，被告的论据取占过大。立法没有自由脱离合法的政府利益而改变普通法，议会改变普通法、限制司法救济的效力取决于改变的性质和范围。&ldquo;我们断定：在本案，法定的非经济损失的赔偿最高额是专横的。&rdquo;</p>
+
+<p>&nbsp;</p>
+
+<p>（6）最后，被告指出：相当一部分外州法院的判决承认了法律限定非经济损害赔偿最高额的合理性，这些判决包括：Fein v. Permanente Medical Group, 38 Cal.3d 137, 695 P.2d 665, 211 Cal.Rptr. 368 (1985); &thinsp;Samsel v. Wheeler Transport Services, Inc., 246 Kan. 336, 789 P.2d 541 (1990); &thinsp;Murphy v. Edmonds, 325 Md. 342, 601 A.2d 102 (1992); &thinsp;Adams v. Children&#39;s Mercy Hospital, 832 S.W.2d 898 (Mo.1992); &thinsp; Greist v. Phillips, 322 Or. 281, 906 P.2d 789 (1995); &thinsp;Robinson v. Charleston Area Medical Center, Inc., 186 W.Va. 720, 414 S.E.2d 877 (1991); &thinsp;Johnson v. St. Vincent Hospital, Inc., 273 Ind. 374, 404 N.E.2d 585 (1980); &thinsp;Etheridge v. Medical Center Hospitals, 237 Va. 87, 376 S.E.2d 525 (1989); &thinsp;Butler v. Flint Goodrich Hospital of Dillard University, 607 So.2d 517 (La.1992); &thinsp;Prendergast v. Nelson, 199 Neb. 97, 256 N.W.2d 657 (1977); &thinsp;see also Davis v. Omitowoju, 883 F.2d 1155 (3d Cir.1989)。</p>
+
+<p>&nbsp;</p>
+
+<p>然而，本法院同时也注意到，在其他法域，也有相当一部分法院裁决法定最高赔偿限额为违宪，包括：Moorev. Mobile Infirmary Ass&#39;n, 592 So.2d 156, 158 (Ala.1991); &thinsp;Morris v. Savoy, 61 Ohio St.3d 684, 688-89, 576 N.E.2d 765, 769 (1991), Arneson v. Olson, 270 N.W.2d 125, 135-36 (N.D.1978); &thinsp;Lucas v. United States, 757 S.W.2d 687, 690-92 (Tex.1988); &thinsp;Sofie v. Fibreboard Corp., 112 Wash.2d 636, 771 P.2d 711 (1989). &ensp; The amount of noneconomic damages caps that have been invalidated in other states varies. &ensp; See, e.g., Smith v. Department of Insurance, 507 So.2d 1080, 1088-89 (Fla.1987) ( $450,000 cap); &thinsp;Brannigan v. Usitalo, 134 N.H. 50, 58, 587 A.2d 1232, 1236-37 (1991) ( $875,000 cap).</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center">（2013-06-03 07:04 发表于&ldquo;方流芳_新浪博客&rdquo;）</p>
+
+<p style="text-align:center">&nbsp;</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li><a href="/category/10027">2014</a></li>
+                                                                                                <li class="cur"><a href="/category/10028">2013</a></li>
+                                                                                                <li><a href="/category/10029">2012</a></li>
+                                                                                                <li><a href="/category/10030">2011</a></li>
+                                                                                                <li><a href="/category/10043">2008</a></li>
+                                                                                                <li><a href="/category/10044">2007</a></li>
+                                                                                                <li><a href="/category/10049">2006</a></li>
+                                                                                                <li><a href="/category/10056">2005</a></li>
+                                                                                                <li><a href="/category/10057">2004</a></li>
+                                                                                                <li><a href="/category/10058">2003</a></li>
+                                                                                                <li><a href="/category/10059">2002</a></li>
+                                                                                                <li><a href="/category/10060">2001</a></li>
+                                                                                                <li><a href="/category/10061">2000</a></li>
+                                                                                                <li><a href="/category/10062">1999</a></li>
+                                                                                                <li><a href="/category/10063">1998</a></li>
+                                                                                                <li><a href="/category/10064">1997</a></li>
+                                                                                                <li><a href="/category/10065">1996</a></li>
+                                                                                                <li><a href="/category/10066">1995</a></li>
+                                                                                                <li><a href="/category/10067">1994</a></li>
+                                                                                                <li><a href="/category/10068">1993</a></li>
+                                                                                                <li><a href="/category/10069">1992</a></li>
+                                                                                                <li><a href="/category/10070">1989</a></li>
+                                                                                                <li><a href="/category/10071">1988</a></li>
+                                                                                                <li><a href="/category/10072">1987</a></li>
+                                                                                                <li><a href="/category/10073">1986</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

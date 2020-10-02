@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 运动治国和依法治国</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li class="active"><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">运动治国和依法治国</div>
+                    <div class="content"><p style="text-align: center;">方流芳</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">（一）</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>法律职业伦理课第7 讲的读本包含了辛普森案、李庄案和重庆的&ldquo;唱红打黑&rdquo;。这是去年准备的，如今已经需要更新了。重庆的&ldquo;唱红打黑&rdquo;跌宕起伏，连想象力最丰富的作家也不敢如此构思故事情节，现实仿佛在向我们讲述一个失真的故事，在挑战我们想象力的极限。正当重庆当局高调宣示：&ldquo;要办成铁案&rdquo;的时候，正当重庆当局请香港导演来拍一部堪比&ldquo;教父&rdquo;的打黑故事片的时候，正当重庆当局聘请大手笔撰写&ldquo;唱红打黑&rdquo;史的时候，情节急转直下。&ldquo;英雄&rdquo;王立军出于对他的上司薄熙来的恐惧和不信任，莫名其妙地走进了成都的美国领事馆；&ldquo;唱红&rdquo;的精神领袖薄熙来成了隔离审查对象；薄熙来夫人、&ldquo;优秀律师&rdquo;谷开来被定罪故意杀人而判了无期徒刑；李庄正在重新塑造一个好律师的公共形象。看上去曾经势不可挡的&ldquo;唱红打黑&rdquo;瞬间灰飞烟灭，就像中国历次政治运动一样，热闹之后什么也没有留下。一切都是那么突然，那么令人不可思议。此后还将发生何种戏剧性的转变，未可知也。</p>
+
+<p>&nbsp;</p>
+
+<p>重庆的变化再次彰显了&ldquo;依法治国&rdquo;和&ldquo;运动治国&rdquo;之间的紧张和对立。</p>
+
+<p>&nbsp;</p>
+
+<p>运动治国是目标本位主义。手段是否正当，取决于目标是否正当。法律不过是实现目标的工具，当法律可以实现目标的时候，法律一定会得到执行，甚至会过度执行；当法律妨碍目标实现的时候，法律就如同一纸空文，甚至不会给任何人一个机会去求助于法律。上个世纪50 年代的&ldquo;反右&rdquo;，60 年代中后期的文革、80 年代的&ldquo;严打&rdquo;都是典型的运动治国。&ldquo;反右&rdquo;、文革都不是没有法律，那是专政的法律，是放任&ldquo;好人&rdquo;惩治&ldquo;坏人&rdquo;的法律，而&ldquo;好人&rdquo;和&ldquo;坏人&rdquo;的角色又是随着形势变化而轮流替换的。&ldquo;严打&rdquo;更不是没有法律，而是法律实施让位于&ldquo;特事特办&rdquo;，法律服从于政治权威。</p>
+
+<p>&nbsp;</p>
+
+<p>中国经历的每次政治运动都会给自身树立了一个正当性不可争议的目标，目标&ldquo;压倒一切&rdquo;，以至实现目标可以不惜代价，可以牺牲法治。在思维成为定势，定势深入制度，制度又不断复制和扩张同一思维的认识过程中，人们很难摆脱原先的思维定势，除非新思维在同一程度上转变为话语，话语又在同一程度上深入制度。否则，无论人们的主观愿望如何，都会沿着老路走下去。文革结束之后，就宣布了&ldquo;不搞政治运动&rdquo;，但运动治国的强大惯性并不是可以轻易摆脱的。</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;">（二）</p>
+
+<p>&nbsp;</p>
+
+<p>此时此刻，批评重庆模式会被人看成投井下石，即使我本来想发表批评意见，现在也必须避免这样做。除了把重庆模式当作运动治国的实践之一，用人们记忆犹新的事件引出话题之外，我无意针对重庆模式发表任何意见。在我看来，运动治国博大精深，源远流长，重庆模式只是其中的一个小插曲。</p>
+
+<p>&nbsp;</p>
+
+<p>1. 运动治国和法律工具论</p>
+
+<p>&nbsp;</p>
+
+<p>在运动治国的方针下，为了一个&ldquo;至上&rdquo;目标是可以突破法治的，而&ldquo;至上&rdquo;目标可以随着政治权力的再分配而不断被重新界定。法律的创制、实施和解释都是服务于&ldquo;至上&rdquo;目标，并且随着&ldquo;至上&rdquo;目标的重新表达而发生变易。简而言之，运动治国的实质就是&ldquo;权大于法&rdquo;的马基雅维利的思想。</p>
+
+<p>&nbsp;</p>
+
+<p>2. 运动治国和过度执法</p>
+
+<p>&nbsp;</p>
+
+<p>回顾历史，我们可以看到一系列牺牲人权的过度执法，诸如：&ldquo;镇反&rdquo;、&ldquo;反右&rdquo;、&ldquo;文革&rdquo;、&ldquo;清理阶级队伍&rdquo;、&ldquo;一打三反&rdquo;、&ldquo;深挖五一六&rdquo;、&ldquo;严打&rdquo;、XX&hellip;&hellip;等等。每次发动此类运动之前，当权者都清醒地意识到：&ldquo;这样的风暴肯定会伤及无辜，但是，如果顾及无辜就捆住自己的手脚，我们出手就不能那么迅猛，我们瞄准的打击对象就有可能漏网逃逸。对于无辜者，我们可以在运动后期在甄别平反，他们也应当经受运动的考验嘛。&rdquo;在与意识形态有关的整肃中，过度执法是运动治国的一贯之道。</p>
+
+<p>&nbsp;</p>
+
+<p>3. 运动治国和有法不依</p>
+
+<p>&nbsp;</p>
+
+<p>在经济领域，我们可以看到：有法不依和运动式&ldquo;清理整顿&rdquo;常常是结合在一起的。在中国从计划走向市场的过程中，有法不依并不是一律没有积极意义，中国经济的发展在很大程度上归功于有法不依。例如：放宽&ldquo;投机倒把罪&rdquo;的入罪标准，赦免带上&ldquo;红帽子&rdquo;的私企业主，企业所得税的法外减免，行业准入管制的若有若无，懈怠执行那些禁止人口和资金流动的法律，此类有法不依极大地刺激了中国经济的发展。但是，每当有法不依导致问题成堆、积重难返的时候，又会有一轮疾风暴雨式的执法，当局常常称之为&ldquo;清理整顿&rdquo;。几乎中国经济改革所涉及的每一个领域，都经历了若干次&ldquo;清理整顿&rdquo;。管制、有法不依和作为危机处理的&ldquo;清理整顿&rdquo;交替使用，构成了主要调控手段。在某些情况下，有法不依确实能够刺激经济发展，而一阵风似的执法又能起到阻吓作用而防止失控。即便如此，这对法治也是极大的伤害，因为，这动摇了守法者对法治的信心。</p>
+
+<p>&nbsp;</p>
+
+<p>另一方面，管制和有法不依常常造成奇特现象：管制成为管制者向违法者收取违法许可费的特权。在高速公路入口，警察常年向超载、超大而被禁止驶入高速公路的卡车收取罚金，然后放行；在不许设摊的路口、人行道，摊贩向街道办事处或者城管交付&ldquo;占道费&rdquo;，然后就可以理所当然地占据人行道。企业向环保局交付一定的罚金之后，就得到超量排放污水、废气的许可&hellip;&hellip;。</p>
+
+<p>&nbsp;</p>
+
+<p>1984 年，我首次来到北京，走到西直门地铁站，就听到这样的欢迎致辞&mdash;&mdash;&ldquo;发票、发票，要发票吗？&rdquo;此后28 年，每次进出西直门地铁站，我都享受同样的待遇，无论冬夏春秋，历久不衰。一个违法活动在同一地点持续而公开地存在了四分之一世纪以上，我们还能说这是违法吗？我从2004 年开始使用手机的，自此几乎每天收到兜售假发票的短信，这使我相信：假发票在中国早已成为年产值数千亿以上的产业。为什么假发票能够得到宽容呢？因为，回扣、佣金、贿金、各种名不副实的虚假列支，无一不需要通过假发票去向&ldquo;单位&rdquo;报账，假发票成为每个单位掩盖真相必不可少的化妆成本。当陈水扁在台湾因为报假账而获罪的时候，我担心：在中国大陆，如果类似行为都受到起诉的话，那可能引发另一场规模大大超过文革&ldquo;横扫一切牛鬼蛇神&rdquo;的清算运动。普遍的违法注定会成为一个国家沉重的遗产，它会把一切追求法治的努力都化为乌有，并最终把我们拉回运动治国的道路。</p>
+
+<p>&nbsp;</p>
+
+<p>4. 运动治国和选择性惩罚</p>
+
+<p>&nbsp;</p>
+
+<p>放任官员违法和选择性惩罚似乎正在成为当今中国&ldquo;吏治&rdquo;的主要特色。贪腐官员种种离奇的行状说明，人性弱点与权力是同步扩张的。但是，如果我们对人性的估计本来就不那么乐观，如果我们从来不相信权力能使坏人变好、使好人变得更好，我们不会吃惊。然而，令人吃惊的是：贪腐行为如何长期逃过自上而下、层层密布的官员考察评鉴系统和监管系统？为什么如此严密高效的考察评鉴系统和监管系统不能及时发现那些已经像日常政务一样公开的、常规化的贪腐行为？这些问题不是在此三言两语就可以说清楚的。</p>
+
+<p>&nbsp;</p>
+
+<p>民众常常怀疑：贪腐官员落入法网是一般结局还是例外情况？如果是例外情况，那么，导致他们落入法网的真正原因是什么？在特定个案中，一个看上去并不那么灵敏的监管系统是如何被激活的？在治理贪腐方面存在着选择性惩罚，这至少是一个可以初步成立的假定。</p>
+
+<p>&nbsp;</p>
+
+<p>选择性惩罚本身是源于法律之外而又包裹着法律外衣的治理模式。为什么会有这样的选择性惩罚？选择的标准又是什么？这些都不是法律问题，而是与事实有关的政治问题。答案或者永远无从得知，或者只能凭借间接获得的、有待查证的信息而作一些假设、推定。</p>
+
+<p>&nbsp;</p>
+
+<p>选择性惩罚有自身的规则，每个规则都是颠覆法治的：</p>
+
+<p>&nbsp;</p>
+
+<p>规则一：在A 系统内，如果每个人都有可能成为选择性惩罚的打击对象，那么，权力最大的人A1 一定最安全，其他人安全系数随着权位的下降而递减。有可能对A1 发动打击的力量一定来自另一个权力更大的系统AA，启动AA 的力量又来自AA 的上层系统。</p>
+
+<p>&nbsp;</p>
+
+<p>规则二：担心成为选择性惩罚的打击对象，A 系统内的人会根据自身的情况而作出不同选择：</p>
+
+<p>&nbsp;</p>
+
+<p>（1）顺从A1；（2）接近AA；（3）接近比AA 更高的权力。结果是，选择性惩罚驱动人们从四面八方靠拢终极权力。</p>
+
+<p>&nbsp;</p>
+
+<p>规则三：在选择性惩罚系统中，一个人成为打击对象与他的受到公开谴责的贪腐行为并没有实质相关性。因此，贪腐行为本身不会因为选择性惩罚而得到遏制。</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;">（三）</p>
+
+<p>&nbsp;</p>
+
+<p>在运动治国之下，一个国家总是难以形成稳定的规则，民众总是难以对法治本身建立信心。在运动和矫枉的每个轮回中，国家治理朝不同的方向摆动，力量在摆动中对冲，法律的演进不时中断，然后重新开始。</p>
+
+<p>&nbsp;</p>
+
+<p>运动治国必定会造成无数的受难者，有好人也有坏人。好人和坏人的差别是：好人在&ldquo;运动后期平反&rdquo;了，好人的苦难得到同情；坏人连同坏人的苦难都消失在我们高贵的同情心所难以到达的角落里。然而，没有一次运动能够达到预先设定的目标，就像哥伦布航海注定不能到达印度一样。运动总是使我们与长治久安的目标越来越远，究其原因，就是运动颠覆了法治，却又无法形成有效期能够超过一个运动周期的任何规则。</p>
+
+<p>&nbsp;</p>
+
+<p>依法治国必定是以本国经验为基础的法治：不是模仿任何西方、北方、东方或者南方的模式，也不是事先勾画一个宏伟蓝图，按照这个蓝图去改造一个活生生的社会。</p>
+
+<p>&nbsp;</p>
+
+<p>依法治国的要点有三：</p>
+
+<p>&nbsp;</p>
+
+<p>第一，法律应当与本国人民为友，处处体现人民的意愿，不背离常理、人民求生和发展的需求。一旦法律与现实脱节而无法被人民接受的时候，执政者就应当及时地废除这些法律，而不是听任法律被普遍违反。</p>
+
+<p>&nbsp;</p>
+
+<p>第二，执政者应当认真地对待法律，至少不要制定自己不打算受之约束，不打算实施或者没有能力实施的法律。</p>
+
+<p>&nbsp;</p>
+
+<p>第三，执政者应当放弃创设完美法制体系或者描绘法治宏图的极幼稚的举动。法治应当目标有限，态度谦卑，脚踏实地，实事求是。在中国这样一个渐进转型的社会，法治的进程就是设定边界大致确定的、可以容纳转型时期社会变化的法制轮廓，然后，用个案的司法解释去限定、扩张、创造和改变规则&mdash;&mdash;有生命的法治不是写在纸上的文字，而是深入人心的规则。</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li><a href="/category/10027">2014</a></li>
+                                                                                                <li><a href="/category/10028">2013</a></li>
+                                                                                                <li class="cur"><a href="/category/10029">2012</a></li>
+                                                                                                <li><a href="/category/10030">2011</a></li>
+                                                                                                <li><a href="/category/10043">2008</a></li>
+                                                                                                <li><a href="/category/10044">2007</a></li>
+                                                                                                <li><a href="/category/10049">2006</a></li>
+                                                                                                <li><a href="/category/10056">2005</a></li>
+                                                                                                <li><a href="/category/10057">2004</a></li>
+                                                                                                <li><a href="/category/10058">2003</a></li>
+                                                                                                <li><a href="/category/10059">2002</a></li>
+                                                                                                <li><a href="/category/10060">2001</a></li>
+                                                                                                <li><a href="/category/10061">2000</a></li>
+                                                                                                <li><a href="/category/10062">1999</a></li>
+                                                                                                <li><a href="/category/10063">1998</a></li>
+                                                                                                <li><a href="/category/10064">1997</a></li>
+                                                                                                <li><a href="/category/10065">1996</a></li>
+                                                                                                <li><a href="/category/10066">1995</a></li>
+                                                                                                <li><a href="/category/10067">1994</a></li>
+                                                                                                <li><a href="/category/10068">1993</a></li>
+                                                                                                <li><a href="/category/10069">1992</a></li>
+                                                                                                <li><a href="/category/10070">1989</a></li>
+                                                                                                <li><a href="/category/10071">1988</a></li>
+                                                                                                <li><a href="/category/10072">1987</a></li>
+                                                                                                <li><a href="/category/10073">1986</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

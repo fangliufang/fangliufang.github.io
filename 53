@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 【读书笔记】：公款吃喝形成的变态食谱</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li class="active"><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">【读书笔记】：公款吃喝形成的变态食谱</div>
+                    <div class="content"><p style="text-align: left"><span style="font-family:宋体">在大多数朝代，治水都是当局高调宣传的政绩工程、民心工程。然而，在晚清大臣薛福成的笔下，公款消费几乎耗尽了每年的治水预算，治水只剩下空洞名义。&ldquo;每岁经费银数百万两，实用之工程者十不及一，其余以供文武员弁之挥霍、大小衙门之应酬，过客游士之余润。&rdquo;在《庸庵笔记》里，薛福成记载了亲历者口述的历史。</span></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">&nbsp;&nbsp;清朝<span style="font-family:宋体">道光年间，在治水衙门所在地，盛行以&ldquo;萃取菁华&rdquo;为要旨的&ldquo;河工宴&rdquo;&mdash;&mdash;通过烹饪特技，把分散在动物体内的&ldquo;正能量&rdquo;收集在一起，浓缩为一碗羹、一盘肴，从而大大提高饮食&ldquo;进补&rdquo;的效率。&ldquo;河工宴&rdquo;可持续三昼夜，很少有人能坚持到最后，但是，在享用以下几道大餐之前，多数人是不会离去的：</span></p>
+
+<p style="text-align: left"><span style="font-family:宋体">（</span>1<span style="font-family:宋体">）豚脯</span>&nbsp;<span style="font-family:宋体">将群猪驱赶到室内，屠夫们手持竹竿，不停地抽打追逐，猪群哀号狂奔，最后精疲力尽，痛苦不堪而奄奄待毙。据说，猪被连续抽打而至垂死状态时，全身的菁华奔涌汇聚到背脊，此时，&ldquo;亟划取其背肉一片&rdquo;，烹而食之，&ldquo;甘脆无比&rdquo;，相当于食用全猪。做一道豚脯，需要&ldquo;抶杀&rdquo;十几头猪，除割取背肉一片之外，&ldquo;其余之肉，则皆腥恶失味，不堪复食，尽委之沟渠&rdquo;。</span></p>
+
+<p style="text-align: left">（2）<span style="font-family:宋体">鹅掌</span>&nbsp;<span style="font-family:宋体">厨工在地上铺满炽炭，继而搁置铁板于炽炭之上，四面围拢，形成一个封闭圈，群鹅被扔到铁板之上，&ldquo;环奔数周而死&rdquo;。厨工相信，当鹅在极度痛苦中奔走的时候，&ldquo;其菁华萃于两掌&rdquo;，因此，断其两掌入肴，其余弃之不用，&ldquo;每一席所需不下数十百鹅。&rdquo;</span></p>
+
+<p style="text-align: left">（3）<span style="font-family:宋体">驼峰</span>&nbsp;<span style="font-family:宋体">选壮健骆驼，捆绑于梁柱，&ldquo;以沸汤灌其背立死，其菁华萃于一峰，其全驼可弃。每一席所需不下三四驼。&rdquo;用开水浇烫一头无法挣扎的骆驼，伤害那个准备食用的部位而萃取菁华，割而烹之。</span></p>
+
+<p style="text-align: left">（4）<span style="font-family:宋体">猴脑</span>&nbsp;&nbsp;<span style="font-family:宋体">&ldquo;预选俊猴，被以绣衣，凿圆孔于方桌，以猴首入桌中，而拄之以木，使之不得出，然后以刀剃其毛，复剖其皮，猴叫号声甚哀，亟以热汤灌其顶，以铁锥破其头骨，诸客各以银勺入猴首中探脑嚼之。每客所吸不过一两勺而已。&rdquo;</span></p>
+
+<p style="text-align: left">&nbsp;（5）<span style="font-family:宋体">鱼羹</span>&nbsp;&nbsp;<span style="font-family:宋体">&ldquo;取河鲤最大且活者，倒悬于梁，而以釜炽水于其下，并敲碎鱼首，使其血滴入水中。鱼尚未死，为蒸汽所逼而摇首摆尾，无一息停，其血益从头中滴出。</span>......<span style="font-family:宋体">然后再易一鱼，如法滴血，约数十鱼，庖人乃撩血调羹进之，全鱼皆无用矣。&rdquo;&ldquo;食品既繁，虽历三昼夜之长，而一席之宴不能毕。&rdquo;</span></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">&nbsp;&nbsp;<span style="font-family:宋体">在治水为民造福的名义下，官员给自己制造了很多福利，公款吃喝是其中之一。毫无节制的公款吃喝造成了变态的消费行为，人们进食不再是为了补充能耗或者享受美味，而是以挥霍浪费为唯一目标，或者是为了&ldquo;养生&rdquo;而采生。</span></p>
+
+<p style="text-align: left">&nbsp;&nbsp;<span style="font-family:宋体">豚脯、鹅掌、猴脑、驼峰、鱼羹负载了这样一种迷信&mdash;&mdash;当动物遭受折磨时，全身菁华都会转移到感受剧烈疼痛的部位，人类割取这一部位而食用，就相当于摄取了动物的全部菁华，人也就借此突破了胃容量的有限性。动物菁华被集中到某一部位之后，其余部分就成了无用废物，丢而弃之不是暴殄天物，而是处理垃圾。所以，当食客看到厨工割取一片背脊肉制造&ldquo;豚脯&rdquo;之后就丢弃全牲，因而唏嘘感慨的时候，厨工就教训他说：&ldquo;你真是不见世面的穷读书人！我刚来几个月，已抶杀数千头猪了！&rdquo;萃取菁华的迷信使浪费无度具有了正当性。</span></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">&nbsp;&nbsp;<span style="font-family:宋体">国人迷信饮食进补，&ldquo;补&rdquo;既能用来平&ldquo;亏&rdquo;&mdash;&mdash;调整失衡的机体，使体&ldquo;亏&rdquo;者恢复常态&mdash;&mdash;也可以给正常人带来更多&ldquo;正能量&rdquo;，使之维持超过常人的体能。&ldquo;食补&rdquo;理念在国人的饮食文化中无处不在，国人相信</span>:<span style="font-family:宋体">进食动物身体的特定部分，能够特异性地&ldquo;补强&rdquo;食客的某一脏器或功能，如：鱼脑、猪脑补脑，虎骨强健筋骨，动物阳具&ldquo;至宝三鞭&rdquo;能使男人的性功能历久弥新。</span></p>
+
+<p style="text-align: left">&nbsp;</p>
+
+<p style="text-align: left">&nbsp;&nbsp;<span style="font-family:宋体">然而，现代科学发现，进补迷信对人有百害而无一利，河工宴的享用者不是愚昧无知，就是在被人愚弄。动物受虐待之后，惊恐、痛苦和求生挣扎会激发&ldquo;神经</span>-<span style="font-family:宋体">体液&rdquo;系统的激烈反应，催生大量激素和组织胺，此类动物的肉体越&ldquo;新鲜&rdquo;，含有危害人类的物质也就越多，即使是正常屠宰的动物，也应经过排酸和冷冻处理之后再食用。至于在高温灭菌之前食用动物的某一部位，那常常会带来致命后果，包括由细菌、病毒、寄生虫引发的各种疾病。多少年来，自以为在&ldquo;进补&rdquo;实际上是在自残。</span></p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li class="cur"><a href="/category/10046">2014</a></li>
+                                                                                                <li><a href="/category/10050">2013</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+             <title>方流芳学术网 | 法学硕士总学分多少为宜？</title>
+        <meta name="viewport" content="width=device-width,target-densitydpi=high-dpi,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="description" content="www.fanglifang.com">
+    <meta name="author" content="www.fanglifang.com">
+    <meta name="keywords" content="方流芳 中欧法学院">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/css/bootstrap.css">
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://cdn.bootcss.com/twitter-bootstrap/3.3.5/js/bootstrap.js"></script>
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="/js/bootstrap-ie.js"></script>
+    <![endif]-->
+    <script>
+        jQuery.noConflict();
+        var sid = "";
+        //if (jQuery.isFunction(jQuery.bootstrapIE6)) jQuery.bootstrapIE6(el);
+    </script>
+    <script type="text/javascript" src="/js/web.js"></script>
+    <style>
+        #slides {
+            display:none;
+        }
+        .page-header{
+            margin: 20px 0px 8px 0px;
+        }
+        .navbar{
+            border-radius:0px;
+            z-index: 11;
+            min-height: 0px;
+        }
+        .navbar-default{
+                                    background-color: #FFFFFF;
+            border: 0px;
+        }
+        .container-fluid{
+                        height: 67px;
+        }
+        .nav-tabs{
+            border-bottom:0px;
+        }
+
+        .navbar-brand{
+            padding: 0px;
+                        float: left;
+            font-size: 24px;
+            line-height: 65px;
+            text-align: center;
+            width: 192px;
+            margin: 0px;
+        }
+        .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+                        background: #FFFFFF;
+            border-left: 0px;
+            border-bottom:1px solid #0099BB;
+        }
+        .navbar-nav{
+                                }
+        .navbar-nav>li>a{
+                                                padding: 0px 24px;
+            color: #000000 !important;
+            display: block;
+                        text-align: center;
+            transition: all 0.15s ease-in-out 0s;
+            line-height: 67px;
+            height: 67px;
+            font-size: 24px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+                    }
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #1751B5;
+        }
+        .navbar-toggle{
+            margin-top: -55px;
+            margin-bottom: 10px;
+        }
+        @media screen and (max-width:1250px){
+            .navbar-nav>li>a{
+                padding-left:30px;
+                padding-right: 30px;
+            }
+        }
+        @media screen and (max-width:1008px){
+            .navbar-nav>li>a{
+                padding-left:15px;
+                padding-right: 15px;
+            }
+        }
+       .bottom p{
+              font-size:14px;
+       }
+       .bottom a{
+             font-size:14px; 
+       }
+    </style>
+</head>
+<body>
+
+<DIV class="page-header">
+<DIV class="container">
+<H1>方流芳学术网
+    
+</H1>
+</DIV>
+    </DIV>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                                                                                        <li><a href="/">首页</a></li>
+                                                                                                                                    <li class="active"><a href="/category/9">论文</a></li>
+                                                                                                                                    <li><a href="/category/10">课程</a></li>
+                                                                                                                                    <li><a href="/category/10001">演讲</a></li>
+                                                                                                                                    <li><a href="/category/10024">微博</a></li>
+                                                                                                                                    <li><a href="/category/10036">笔记</a></li>
+                                                                                                                                    <li><a href="/category/10038">个人简介</a></li>
+                                                                                                                                    <li><a href="/category/10045">CESL事务</a></li>
+                                                                                                                                    <li><a href="/category/10089">方流芳诉中国政大</a></li>
+                                                                        </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<!-- end header-->
+<noscript>
+    <div class="alert alert-block span10">
+        <h4 class="alert-heading">友情提示：</h4>
+        <p>本系统需要开启您浏览器的<a href="http://baike.baidu.com/view/16168.htm" target="_blank">JavaScript</a> 功能。</p>
+    </div>
+</noscript>
+<div class="container">
+
+    <div id="tips"></div>
+<style>
+    *{
+        background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+        font-family: "Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+        text-indent: 0;
+    }
+    html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+        margin: 0;
+        padding: 0;
+    }
+    ul,li{list-style-type: none;}
+
+    .service {margin-top:50px;}
+
+    .main {
+        margin: 20px auto;
+        min-height: 620px;
+        padding-bottom: 50px;
+        position: relative;
+        width: 960px;
+    }
+    .serviceNav {
+        min-width: 203px;
+    }
+    .serviceNav li {
+        border-bottom: 1px solid #E5E5E5;
+        padding: 10px 5px 12px;
+    }
+    .serviceNav li a {
+        color: #808080;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviceNav li.cur a {
+        color: #0099BB;
+    }
+    .col-md-12 .serviceNav{
+        min-width: 100px;
+    }
+
+    .col-md-12 .serviceNav li{
+        list-style: none;
+        float:left;
+    }
+    .article {height:auto!important; min-height:550px;}
+    .article li{cursor: pointer;padding: 7px 42px;position: relative;}
+    .article li:nth-child(2n){background-color: #F5F5F5;}
+    .article li a {
+        color: #808080;
+        font-size: 18px;
+        margin: 0;
+        font-weight: bold;
+        line-height: 36px;
+        letter-spacing: -0.03em;
+    }
+
+    .title {
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .content {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 27px;
+        word-break:break-all;
+    }
+    .poDiv{
+        position:relative;
+        width:737px;
+        _width:725px;
+        overflow:hidden;
+        background-color:#FFF;
+
+        padding-bottom:50px;
+    }
+    @media screen and (max-width:768px){
+        .serviceNav li{
+            float:left;
+            padding-right: 30px;
+        }
+    }
+</style>
+
+<div class="container bs-docs-header">
+    <div class="row">
+            <div class="col-md-12">
+                <div class="article">
+                    <div class="title">法学硕士总学分多少为宜？</div>
+                    <div class="content"><div style="text-align: center;">方流芳</div>
+
+<div style="text-align: center;">&nbsp;</div>
+
+<div>一个学位项目的总学分决定课程设置、师资配备、教学工作量和学习时间，教学资源的合理配置恰以总学分的合理性为基础。我国法学硕士修学期间（学制）多为三年，在此期间，总学分（学生毕业前必须获得学分总数）当定为多少？在回答这一问题之前，我暂且搁置一些前提问题，诸如：读完四年法学本科之后，为什么还要读三年法学硕士？为什么法学硕士要读三年，而不是两年或者一年？<br />
+<br />
+关于法学学位项目的总学分，已有许多成案，惟须尊重经验，认真比较，精心选择参考样板，加以修正和裁剪，以因应需求。<br />
+<br />
+现选择五个具有内在相关性的法学学位总学分参考样板：<br />
+<br />
+（1）参考样板1：中国政法大学法学硕士（三年）<br />
+<br />
+在中国政法大学，法学硕士研究生的总学分不得低于35总学分，其中：政治课4学分、外语课4学分；与法学有关的课程27学分。由于学位论文不算学分，实际教学工作量、学习任务要超过35学分，在此，若将学位论文拟制为8学分，全部的总学分当调整为43学分。(参见：<a href="http://yjsy.cupl.edu.cn/articleinfo/detail_26_90_511.html" style="color: #204680; text-decoration: underline" target="new">http://yjsy.cupl.edu.cn/articleinfo/detail_26_90_511.html</a>)<br />
+<br />
+（2）参考样板2：哈佛法学院J.D.（三年）</div>
+
+<div><br />
+哈佛J.D.一年级课程全部是必修课，包括：民事诉讼法、合同法、刑法、国际法和比较法、立法和政府管制、财产法和侵权法7门课程，每门课程是4学分(每周4课时，延续一学年)。此外，还有法律研究和写作、问题解决之道和至少两学分的高级课程。因此，哈佛法学院J.D.第一学年的课时学分至少是34学分。在二、三年级，J.D. 学生需修满52学分，其中：课程学分不少于36学分，法律诊所学分不超过12学分，写作不超过12学分，交叉课程不超过10学分。此外，学生一定要承担研究项目并撰写相关论文、提供不少于40小时的公共服务。(参见：<a href="http://www.law.harvard.edu/academics/degrees/gradprogram/llm/ll.m.-degree-requirements.html" style="color: #204680; text-decoration: underline" target="new">http://www.law.harvard.edu/academics/degrees/gradprogram/llm/ll.m.-degree-requirements.html</a>)<br />
+<br />
+哈佛法学院学生三年总学分是86学分，其中：至少有72学时学分，每一学时的课前阅读量是20-40页。美国其他法学院的学分要求与哈佛法学院大致相同，J.D.的总学分要求反映了法律职业人士养成教育的基本需求。<br />
+<br />
+中国法学硕士也是三年制，就学习分量而言，总学分参考J.D.不会有大错。</div>
+
+<div><br />
+（3）参考样板3：美国法学院LL.M.（一年）</div>
+
+<div><br />
+美国法学院的LL.M.为期一年，总学分为22-26学分，其中：必修课为 3-6学分，其余为选修课学分。论文既可纳入某一课程而不单独计算学分，也可以作为独立研究而单独计算学分，一般为2-3学分。法学院不会另行组织论文答辩，也不会出现学生因为不能&ldquo;通过&rdquo;论文而丢失全部学分，从而得不到学位的情形。</div>
+
+<div>(参见： <a href="http://www.law.harvard.edu/academics/degrees/gradprogram/llm/ll.m.-degree-requirements.html" style="color: #204680; text-decoration: underline" target="new">http://www.law.harvard.edu/academics/degrees/gradprogram/llm/ll.m.-degree-requirements.html</a>)</div>
+
+<div><br />
+（4）参考样板4：中国政法大学中欧法学院&ldquo;欧洲-国际法硕士&rdquo;（一年）&nbsp;&nbsp;&nbsp;&nbsp;<br />
+<br />
+中国政法大学中欧法学院开设的、由汉堡大学授予学位的&ldquo;欧洲-国际法硕士&rdquo; 为期一年，总学分60学分，其中：必修课33学分，选修课12学分，论文15学分。(参见：<a href="http://www.cesl.edu.cn/prgjmecurriculumf.asp" style="color: #204680; text-decoration: underline" target="new">http://www.cesl.edu.cn/prgjmecurriculumf.asp</a>)<br />
+<br />
+（5）参考样板5：中国政法大学中欧法学院双硕士项目的中国法学课程（一年）<br />
+<br />
+2010-2011学年，中国政法大学中欧法学院双硕士项目的中国法学课程为必修课38学分、选修课10学分，总共48学分，每一学分的构成是每周一课时和时间不等的课外作业。当年没有安排硕士论文写作，硕士论文也不计算学分。<br />
+(参见：<a href="http://www.cesl.edu.cn/prgjmdteachingview.asp?id=955" style="color: #204680; text-decoration: underline" target="new">http://www.cesl.edu.cn/prgjmdteachingview.asp?id=955</a>)<br />
+<br />
+对于&ldquo;参考样板5&rdquo;，学生颇多批评，认为学习负担太重，难以应对，教师亦有同感。因此，当进行实质调整。本院之所以在2010-11学年设定较高的学分，一是因为该课程为&ldquo;双硕士&rdquo;课程组成部分，其中中国法教学已压缩为一年，而同为一年的&ldquo;欧洲-国际法硕士&rdquo;课程为45学分，中国法课程似应与之匹配；二是本可安排在第二学年的国际法课程提前安排到第一学年。<br />
+<br />
+对于&ldquo;参考样板4&rdquo;，学生也认为学习任务太重，但是，欧洲学分的构成是每学期10课时，而论文单算12学分，因此，欧洲学分体现的教学工作量、学习任务略低于相同数量的美国学分、中国学分。虽然学习任务不轻，但仍在可承受范围之内。在该样板，论文权重太高，而论文成绩不及格则不能获得学位，论文成绩实际上决定着其他课程成绩的有效性。<br />
+<br />
+对于&ldquo;参考样板2&rdquo;，J.D.学生第一年经受意志和耐力极限考验，第二年略有放松，第三年大部分时间都无所事事。因此，有人以为：美国法学院的J.D.实际上只需要2年，第3年纯为增加教授岗位而设。<a href="#reffn1" id="reffn2"><sup>[1]</sup></a>一个三年制法学学位项目，总学分与J.D.相当，当不构成过度施教。<br />
+<br />
+对于&ldquo;参考样板3&rdquo;，美国LL.M.与本国的法律职业教育无关，主要是为国际学生开设。LL.M.学生通常与J.D.学生共享课程，只有少数课程是专门为LL.M.开设的。本院&ldquo;欧洲-国际法硕士&rdquo;类似美国的LL.M.，但前者总学分为45分，后者为22分，两个学位的内涵显然有一定差距。<br />
+<br />
+在&ldquo;参考样板1&rdquo;，平均每学年的法学课程为9学分，但是学位论文权重极大，只有在学位论文&ldquo;通过答辩&rdquo;之后，其他课程的学分的效用才会被激活&mdash;&mdash;一旦学位论文没有&ldquo;通过答辩&rdquo;，其他课程的学分也就随之进入休眠状态，一直等到下次论文答辩再被激活。<br />
+<br />
+最后，我们需要回到暂时搁置的前提问题：法学本科后教育的学制以多少时间为妥？回答这一问题，需要考虑法学本科后教育的目标和施教对象。在美国、德国，法学硕士教育的目标是推进国际交流，施教对象多为已经取得法学第一学位的国际学生，因此，学制只有一年。中国法学硕士是以法学本科教育为基础的提升教育，施教对象是中国学生，因此，学制的合理范围应当是两年左右。&nbsp;<br />
+<br />
+结论：如果法学硕士是一种法律职业教育，那么，三年法学课程的总学分当在64-70学分，学位论文可拟制为4-8学分。<br />
+<br />
+每一学分的教学工作量可以是: 每学期18课时讲授，3小时助教辅导，3小时办公时间。</div>
+
+<p><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u><br />
+<br />
+<a id="reffn1" name="reffn1">[1]</a>&nbsp;Richard Posner, Symposium on Civic and Legal Education Panel Two: Legal Scholarship and Disciplinary Politics, 45 Stan. L. Rev.1656</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center">(2011-08-30 10:06&nbsp;发表于&ldquo;中国政法大学中欧法学院院网&rdquo;)</p>
+
+<p style="text-align:center">&nbsp;</p>
+</div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <ul class="nav serviceNav">
+                                                                        <li><a href="/category/10027">2014</a></li>
+                                                                                                <li><a href="/category/10028">2013</a></li>
+                                                                                                <li><a href="/category/10029">2012</a></li>
+                                                                                                <li class="cur"><a href="/category/10030">2011</a></li>
+                                                                                                <li><a href="/category/10043">2008</a></li>
+                                                                                                <li><a href="/category/10044">2007</a></li>
+                                                                                                <li><a href="/category/10049">2006</a></li>
+                                                                                                <li><a href="/category/10056">2005</a></li>
+                                                                                                <li><a href="/category/10057">2004</a></li>
+                                                                                                <li><a href="/category/10058">2003</a></li>
+                                                                                                <li><a href="/category/10059">2002</a></li>
+                                                                                                <li><a href="/category/10060">2001</a></li>
+                                                                                                <li><a href="/category/10061">2000</a></li>
+                                                                                                <li><a href="/category/10062">1999</a></li>
+                                                                                                <li><a href="/category/10063">1998</a></li>
+                                                                                                <li><a href="/category/10064">1997</a></li>
+                                                                                                <li><a href="/category/10065">1996</a></li>
+                                                                                                <li><a href="/category/10066">1995</a></li>
+                                                                                                <li><a href="/category/10067">1994</a></li>
+                                                                                                <li><a href="/category/10068">1993</a></li>
+                                                                                                <li><a href="/category/10069">1992</a></li>
+                                                                                                <li><a href="/category/10070">1989</a></li>
+                                                                                                <li><a href="/category/10071">1988</a></li>
+                                                                                                <li><a href="/category/10072">1987</a></li>
+                                                                                                <li><a href="/category/10073">1986</a></li>
+                                                            </ul>
+            </div>
+<!--
+        <div class="col-md-12">
+            <script type="text/javascript">
+                (function(){
+                    var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=3220459169&dpc=1";
+                    url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL));
+                    document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+                })();
+            </script>
+            <script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+            <script type="text/javascript">
+                window.WBComment.init({
+                    "id": "WBCommentFrame"
+                });
+            </script>
+        </div>
+-->
+    </div>
+    </div>
+﻿</div><div class="bottom">
+<p>版权所有：方流芳 2014-2017</p>
+<p>邮箱：fangliufang@hotmail.com</p>
+<p>链接：
+<a href="http://weibo.com/fangliufang/" target="_blank">方流芳微博</a>
+<a href="http://fangliufang.blog.caixin.com/" target="_blank">方流芳博客</a>
+<a href="http://companylaw.cupl.edu.cn/" target="_blank">公司法与投资保护研究所</a>
+<a href="http://www.cupl.edu.cn/" target="_blank">中国政法大学</a>
+<a href="http://cesl.fangliufang.com/" target="_blank">中欧法学院</a>
+</p>
+<!--
+<p>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253551440'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1253551440%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+-->
+</div>
+</body>
+</html>
